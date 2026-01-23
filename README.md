@@ -1,111 +1,61 @@
-# Pediatric Appendicitis Prediction using Machine Learning
+# MLP Model for Pediatric Appendicitis Prediction
 
 ## Overview
-This project applies **machine learning techniques** to support the **diagnosis, severity assessment, and treatment management** of pediatric appendicitis using real-world clinical data.  
-The work was completed as part of a **university group project** for a Data Mining & Machine Learning module.
+This repository contains my **individual implementation of a Multi-Layer Perceptron (MLP)** developed as part of a **university group project** for a Data Mining and Machine Learning module.
 
-The work evaluates and compares **tabular, image-based, and multimodal approaches** to understand their effectiveness in clinical decision support.
+The MLP was designed to work on **clinical tabular data** to support:
+- Appendicitis diagnosis
+- Severity classification
+- Treatment management prediction
 
----
-
-## Problem Context
-Pediatric appendicitis is a common cause of acute abdominal pain in children and is frequently misdiagnosed due to overlapping symptoms and variability in clinical expertise. Misclassification can lead to delayed treatment or unnecessary surgery.
-
-This project aims to develop **data-driven predictive models** that:
-- Improve diagnostic accuracy
-- Classify disease severity
-- Support treatment management decisions
+Only the source code relevant to my contribution is included here.
 
 ---
 
-## Dataset
-The project uses the **Regensburg Pediatric Appendicitis Dataset**, a publicly available and ethically approved dataset containing:
-- 500+ pediatric patient records  
-- 50+ clinical features (demographics, lab tests, physical exams, diagnostic scores)  
-- 1,700+ ultrasound images  
-- Target variables:
-  - Diagnosis (appendicitis / no appendicitis)
-  - Severity (absent, uncomplicated, complicated)
-  - Management (conservative vs surgical)
+## Context
+The full project explored multiple machine learning approaches (tabular models, image-based models, and multimodal learning) to predict pediatric appendicitis outcomes.
 
-The dataset reflects real-world clinical challenges, including **missing values and class imbalance**, which are addressed through preprocessing and synthetic data generation.
+Within the group project, my focus was on:
+- Tabular data preprocessing
+- Neural network modelling using an MLP
+- Model evaluation and analysis
 
 ---
 
-## Methods & Models
-The project evaluates multiple approaches:
+## My Contribution
+This repository includes:
+- `mlp.py`: Implementation of a **Multi-Layer Perceptron** for tabular clinical data
+- Data preprocessing logic required for training and evaluation
+- Model training, validation, and performance evaluation code
 
-### Tabular Data Models
-- Naive Bayes  
-- Logistic Regression  
-- Random Forest  
-- Extra Trees  
-- XGBoost  
-- Multi-Layer Perceptron (MLP)
-
-### Image-Based Models
-- Convolutional Neural Networks (CNNs) trained on ultrasound images
-
-### Multimodal Learning
-- Hybrid neural networks combining tabular clinical data and image features
-
-Models were evaluated using **accuracy, F1-score, ROC-AUC, PR-AUC**, and confusion matrices.
+The model was evaluated using metrics such as:
+- Accuracy
+- F1-score
+- ROC-AUC
+- PR-AUC
+- Confusion matrices
 
 ---
 
-## My Contributions
-My work focused on **tabular data modelling and analysis**, specifically:
+## Results
+Using clinical tabular features, the MLP achieved:
+- ~80% accuracy for severity prediction
+- ~87% accuracy for treatment management prediction
 
-- Performed **data preprocessing** on clinical tabular data:
-  - Missing value handling
-  - Feature encoding
-  - Data cleaning and preparation
-- Conducted **exploratory data analysis (EDA)** to:
-  - Identify key predictive clinical features
-  - Analyse feature distributions and correlations
-  - Understand class imbalance and its impact on modelling
-- Designed and implemented a **Multi-Layer Perceptron (MLP)** for:
-  - Diagnosis prediction
-  - Severity classification
-  - Treatment management prediction
-- Evaluated models using:
-  - Accuracy
-  - F1-score
-  - ROC-AUC and PR-AUC
-  - Confusion matrices
-- Contributed to analytical discussion and interpretation of model results
+These results demonstrated the effectiveness of structured clinical features for this task.
 
 ---
 
-## Key Results (MLP – Tabular Data)
-- **Severity prediction:** ~80% accuracy with balanced precision and recall  
-- **Management prediction:** ~87% accuracy, F1 ≈ 0.86  
-- Demonstrated that **structured clinical features** were more predictive than imaging data in this setting
+## Technologies Used
+- Python
+- TensorFlow / Keras
+- Scikit-learn
+- Pandas, NumPy
 
 ---
 
-## Overall Findings
-- Models trained on **tabular clinical data** consistently outperformed image-only and multimodal models.
-- The **MLP trained on tabular data** achieved the strongest overall performance, particularly for severity and management prediction.
-- Image-based and multimodal models were limited by data sparsity and variability in ultrasound images.
+## Notes
+- The dataset and other project components are not included due to size and licensing restrictions.
+- This code represents **my individual contribution** within a larger group assignment and does not imply sole ownership of the full project.
 
 ---
-
-## Methods Used
-- Machine Learning: MLP (neural networks)
-- Evaluation Metrics: Accuracy, F1-score, ROC-AUC, PR-AUC
-- Tools & Libraries:
-  - Python
-  - Scikit-learn
-  - TensorFlow / Keras
-  - Pandas, NumPy
-  - Matplotlib
-
----
-
-## Note
-This project was completed as part of a **group university assignment**.  
-This repository documents **my specific contributions and learning outcomes** and does not imply sole ownership of the full project.
-
----
-
