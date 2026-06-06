@@ -1,0 +1,834 @@
+Age,BMI,Sex,Height,Weight,Length_of_Stay,Management,Severity,Diagnosis_Presumptive,Diagnosis,Alvarado_Score,Paedriatic_Appendicitis_Score,Migratory_Pain,Lower_Right_Abd_Pain,Contralateral_Rebound_Tenderness,Coughing_Pain,Nausea,Loss_of_Appetite,Body_Temperature,WBC_Count,Neutrophil_Percentage,Neutrophilia,RBC_Count,Hemoglobin,RDW,Thrombocyte_Count,Ketones_in_Urine,RBC_in_Urine,WBC_in_Urine,CRP,Dysuria,Stool,Peritonitis,Psoas_Sign,Ipsilateral_Rebound_Tenderness,Img_Ref_Num
+12.68,16.9,0,148.0,37.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,1,1,0,0,1,37.0,7.7,68.2,0,5.27,14.8,12.2,254.0,++,+,no,0.0,0,normal,no,1,0,882.0
+14.1,31.9,1,147.0,69.5,2,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,1,1,1,0,0,1,36.9,8.1,64.8,0,5.26,15.7,12.7,151.0,no,no,no,3.0,1,normal,no,1,0,883.0
+14.14,23.3,0,163.0,62.0,4,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,1,1,0,0,0,36.6,13.2,74.8,0,3.98,11.4,12.2,300.0,no,no,no,3.0,0,constipation,no,1,0,884.0
+16.37,20.6,0,165.0,56.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,1,1,0,0,1,1,36.0,11.4,63.0,0,4.64,13.6,13.2,258.0,no,no,no,0.0,1,normal,no,1,0,886.0
+11.08,16.9,0,163.0,45.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,6.0,0,1,1,1,1,1,36.9,8.1,44.0,0,4.44,12.6,13.6,311.0,no,no,no,0.0,0,constipation,no,1,0,887.0
+11.05,30.7,1,121.0,45.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,7.0,1,1,1,1,1,1,36.9,9.5,71.4,0,4.96,12.5,13.3,249.0,++,no,no,63.0,0,diarrhea,no,1,0,888.0
+8.98,19.4,0,140.0,38.5,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,1,1,1,1,36.7,10.0,69.1,0,4.77,12.7,12.6,337.0,no,no,+,9.0,0,normal,no,1,0,889.0
+7.9,15.7,1,131.0,26.7,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,0,1,37.3,20.9,76.0,1,4.61,13.4,12.0,350.0,+++,+,no,20.0,0,normal,no,0,0,891.0
+14.34,14.9,1,174.0,45.5,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,37.1,5.8,47.2,0,4.78,12.9,12.6,220.0,no,no,no,0.0,0,normal,no,0,0,893.0
+11.87,15.7,1,147.0,34.0,2,Conservative,uncomplicated,appendicitis,appendicitis,8.0,9.0,1,1,0,1,0,1,38.0,17.1,80.5,1,4.75,13.2,12.1,319.0,no,no,no,17.0,0,normal,no,0,0,894.0
+9.4,16.6,1,141.0,33.0,2,Conservative,absent,appendicitis,no appendicitis,9.0,7.0,0,1,1,0,1,1,37.4,16.1,86.3,1,5.06,13.7,12.9,232.0,+++,+,no,6.0,0,normal,no,0,0,896.0
+12.48,22.1,0,131.0,38.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,1,1,1,0,0,1,36.5,6.0,49.9,0,4.33,12.5,12.9,250.0,no,no,no,0.0,0,normal,no,1,0,897.0
+15.98,19.7,0,164.0,53.0,4,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,36.5,17.0,91.0,1,4.1,12.2,11.9,245.0,,,,5.0,0,normal,no,0,0,900.0
+14.93,25.0,0,165.0,68.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,36.2,7.3,64.4,0,4.24,13.6,11.7,245.0,no,no,+,0.0,0,diarrhea,no,0,0,903.0
+13.39,17.5,0,153.0,40.7,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,6.0,1,1,0,0,1,1,38.1,6.8,73.7,0,5.19,14.1,12.4,267.0,+++,no,no,7.0,0,normal,no,0,0,904.0
+17.24,33.1,0,163.0,88.0,3,Conservative,uncomplicated,appendicitis,appendicitis,3.0,5.0,1,1,0,1,0,0,36.1,6.5,57.9,0,4.93,14.2,12.8,271.0,no,no,no,4.0,0,normal,no,0,0,905.0
+10.58,18.6,0,152.0,43.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,1,1,36.0,13.4,84.1,1,4.96,13.6,12.4,250.0,+,no,no,1.0,0,normal,no,0,0,909.0
+14.74,22.9,1,155.0,55.0,4,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,1,1,0,0,0,0,36.3,8.0,69.3,0,4.94,14.0,12.1,191.0,no,no,no,1.0,0,normal,no,0,0,910.0
+16.66,21.5,1,174.0,65.0,5,Conservative,uncomplicated,appendicitis,appendicitis,6.0,7.0,1,1,1,1,1,1,36.6,6.6,53.3,0,5.31,15.8,11.9,254.0,+,no,no,3.0,0,normal,no,1,0,911.0
+11.18,16.7,0,151.0,37.9,3,Conservative,absent,appendicitis,no appendicitis,8.0,7.0,0,1,0,0,1,1,38.4,18.0,85.0,1,4.43,13.1,12.3,298.0,+,+,no,31.0,0,normal,no,1,0,913.0
+13.6,20.9,0,150.0,47.0,3,Conservative,absent,appendicitis,no appendicitis,1.0,1.0,0,0,0,0,0,1,36.6,9.0,70.2,0,4.45,12.4,12.1,254.0,no,no,no,0.0,0,constipation,no,0,0,914.0
+15.92,21.9,1,180.0,71.0,2,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.0,5.2,62.0,0,4.69,14.3,11.7,197.0,no,no,no,1.0,0,normal,no,0,0,917.0
+13.26,24.2,0,160.0,62.0,2,Conservative,uncomplicated,appendicitis,appendicitis,2.0,4.0,0,1,0,1,0,0,36.0,7.4,53.0,0,4.48,12.9,12.3,266.0,no,no,no,1.0,0,normal,no,1,0,918.0
+8.69,16.0,0,139.0,31.0,4,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,37.3,10.7,56.0,0,4.15,12.2,11.8,284.0,++,no,+,89.0,0,constipation,no,0,0,921.0
+17.82,,0,,52.0,2,Conservative,absent,appendicitis,no appendicitis,4.0,6.0,0,1,0,1,1,1,37.0,9.4,53.9,0,4.48,14.2,12.3,241.0,+++,no,no,3.0,0,normal,no,0,0,922.0
+10.51,17.8,0,150.0,40.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,8.0,0,1,0,1,1,1,36.3,16.1,84.5,1,4.55,13.2,11.5,332.0,no,no,no,0.0,0,normal,no,0,0,924.0
+13.54,17.4,0,166.0,48.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,6.0,0,1,1,1,1,1,36.8,6.4,49.8,0,4.51,12.5,11.9,286.0,no,no,no,0.0,1,normal,no,1,0,925.0
+15.7,25.5,1,175.0,78.0,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.0,6.9,57.0,0,5.3,15.8,12.2,223.0,no,+,no,15.0,0,normal,no,0,0,926.0
+10.55,18.1,1,141.0,36.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,7.0,0,1,0,1,0,1,37.4,11.0,73.2,0,4.67,13.4,13.4,279.0,no,no,no,40.0,0,normal,local,0,0,927.0
+10.36,16.3,0,138.0,31.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,38.3,16.7,73.5,0,4.83,13.3,11.8,239.0,no,no,no,24.0,0,normal,no,0,0,928.0
+5.33,17.4,1,127.0,28.0,4,Conservative,absent,appendicitis,no appendicitis,9.0,8.0,1,1,0,0,1,1,38.3,33.6,83.6,1,4.3,11.9,12.0,393.0,++,no,no,72.0,0,normal,no,0,0,929.0
+11.4,,1,,45.0,3,Conservative,uncomplicated,appendicitis,appendicitis,10.0,8.0,1,1,1,0,1,1,38.8,11.3,91.0,1,4.56,13.2,12.6,268.0,no,no,no,35.0,0,normal,no,1,0,930.0
+7.84,23.2,0,136.0,43.0,4,Conservative,absent,appendicitis,no appendicitis,8.0,7.0,0,1,0,0,1,1,37.9,18.8,80.0,1,4.35,11.1,12.9,285.0,++,++,no,136.0,0,normal,no,0,0,931.0
+5.71,,1,,19.5,2,Conservative,uncomplicated,appendicitis,appendicitis,9.0,8.0,1,1,0,0,1,1,38.4,11.6,90.6,1,4.34,11.7,12.4,126.0,+++,+,no,4.0,0,normal,no,0,0,933.0
+14.15,,1,,50.0,3,Conservative,absent,appendicitis,no appendicitis,8.0,7.0,1,1,0,0,1,1,36.0,11.9,78.3,1,4.33,12.6,13.1,189.0,no,no,no,0.0,0,normal,no,0,0,934.0
+7.9,15.3,0,132.5,26.5,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,37.1,6.5,29.7,0,4.7,13.0,11.7,246.0,no,no,+++,0.0,0,normal,no,0,0,935.0
+13.38,17.7,1,163.0,47.0,3,Conservative,uncomplicated,appendicitis,appendicitis,9.0,8.0,1,1,0,0,1,1,37.7,12.3,79.6,1,4.42,12.9,12.6,305.0,no,no,no,18.0,0,diarrhea,no,0,0,936.0
+15.9,,0,,54.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,37.0,5.4,54.0,0,4.91,14.6,13.6,225.0,no,++,no,4.0,0,constipation,no,1,0,938.0
+15.89,19.6,0,175.0,60.0,2,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,1,1,0,0,0,0,36.3,11.8,77.5,1,4.5,12.1,14.2,284.0,,,,42.0,0,diarrhea,local,0,0,939.0
+10.13,17.2,1,132.0,30.0,3,Conservative,absent,appendicitis,no appendicitis,8.0,9.0,1,1,0,1,1,1,36.5,13.7,81.3,1,5.06,11.4,15.1,312.0,+++,+,no,0.0,0,normal,no,1,0,940.0
+3.79,15.1,1,106.0,17.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,0,0,1,1,1,36.9,16.0,91.3,1,4.46,11.8,12.6,351.0,,,,2.0,0,normal,no,0,0,942.0
+9.49,16.2,1,129.0,27.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,1,1,0,0,0,0,36.6,6.2,36.7,0,4.43,12.0,12.3,263.0,,,,0.0,0,normal,no,0,0,943.0
+16.83,17.7,0,178.0,56.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,7.0,1,1,1,1,1,1,37.2,5.5,66.9,0,4.77,14.8,13.6,199.0,+,no,no,0.0,1,constipation,no,1,0,945.0
+12.16,24.6,1,160.0,63.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,0,0,0,0,37.4,11.5,74.3,0,4.81,13.9,12.1,233.0,no,no,no,22.0,0,normal,no,0,0,946.0
+11.38,22.1,1,141.0,44.2,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,36.6,6.3,42.2,0,4.36,12.5,11.7,339.0,+,no,no,1.0,0,normal,no,0,0,947.0
+13.57,21.8,0,153.0,51.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,1,1,1,1,36.6,8.4,53.8,0,4.4,12.7,12.4,289.0,,,,0.0,0,normal,local,1,0,948.0
+15.72,,0,,52.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,3.0,0,1,0,0,0,0,36.8,11.3,68.9,0,4.64,12.9,11.8,408.0,no,no,no,2.0,0,normal,no,1,0,949.0
+12.06,17.4,0,157.0,43.0,3,Conservative,uncomplicated,appendicitis,appendicitis,2.0,4.0,0,1,0,1,0,0,36.2,8.7,48.0,0,4.98,14.0,12.1,316.0,no,+,+,0.0,1,normal,no,1,0,950.0
+16.8,37.0,0,162.0,97.0,2,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,1,1,0,0,0,1,37.6,10.9,69.6,0,4.69,13.0,12.1,265.0,no,no,no,12.0,1,diarrhea,no,0,0,951.0
+3.99,14.4,1,101.5,14.5,2,Conservative,absent,"Appendizitis, Lymphadenitis mesenterialis",no appendicitis,7.0,6.0,0,1,0,0,1,1,37.4,18.4,71.9,0,4.23,11.9,12.7,337.0,++,++,no,42.0,0,normal,no,0,0,952.0
+7.2,14.1,0,125.0,22.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,36.6,16.5,83.1,1,5.07,14.3,12.6,313.0,++,no,no,17.0,0,normal,no,0,0,953.0
+10.01,24.1,1,155.0,58.1,2,Conservative,absent,appendicitis,no appendicitis,7.0,7.0,1,1,0,0,1,1,38.0,8.3,75.5,1,4.93,13.7,12.0,296.0,no,no,no,5.0,0,diarrhea,local,0,0,954.0
+9.18,14.5,1,144.0,30.0,2,Conservative,uncomplicated,appendicitis,appendicitis,7.0,8.0,0,1,0,1,1,1,37.0,14.9,93.4,1,4.57,14.2,12.1,242.0,,,,12.0,0,normal,no,0,0,955.0
+11.88,20.7,0,154.0,48.5,2,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,1,1,0,0,0,36.8,11.0,73.7,0,4.4,13.2,12.8,262.0,++,+,no,56.0,0,normal,no,0,0,959.0
+10.58,17.3,1,140.0,34.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,0,0,0,0,37.8,11.1,71.7,0,5.08,13.1,12.6,395.0,no,no,no,47.0,0,normal,no,0,0,961.0
+6.9,12.9,0,115.0,16.7,3,Conservative,absent,appendicitis,no appendicitis,4.0,3.0,0,0,1,0,1,1,37.0,10.0,83.5,1,4.5,12.6,11.9,359.0,no,+,++,0.0,0,constipation,local,0,0,962.0
+17.79,18.4,1,173.0,55.0,2,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,1,1,0,1,37.0,6.8,77.9,1,5.03,14.6,12.0,171.0,+,no,no,35.0,0,diarrhea,no,1,0,963.0
+8.5,19.4,1,140.0,38.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,37.6,12.2,83.3,1,5.05,13.7,12.0,286.0,no,no,no,4.0,0,diarrhea,no,0,0,965.0
+17.66,26.2,0,167.0,73.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,36.7,6.7,47.4,0,4.4,13.3,12.1,292.0,no,+++,+,1.0,0,normal,no,0,0,967.0
+11.05,33.3,1,145.0,69.8,3,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,0,1,0,1,1,36.6,12.0,50.5,0,4.54,13.2,12.2,531.0,no,no,+,5.0,0,constipation,no,0,0,968.0
+16.31,30.8,1,183.0,103.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,7.0,1,1,1,1,1,1,36.9,5.8,54.4,0,5.02,14.8,11.6,341.0,+,no,no,1.0,0,diarrhea,local,1,0,973.0
+15.83,25.2,0,153.0,59.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,1,1,36.7,12.8,77.9,1,4.33,10.1,15.9,310.0,+,+++,++,83.0,0,normal,no,0,0,974.0
+14.66,29.8,0,169.0,85.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,36.4,8.5,51.5,0,4.55,12.9,12.5,261.0,no,no,no,1.0,0,normal,no,1,0,976.0
+10.51,14.1,0,153.0,33.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,6.0,0,1,0,1,1,1,37.1,8.0,45.4,0,5.03,14.6,11.9,265.0,++,no,no,0.0,0,normal,no,1,0,977.0
+14.57,24.9,0,150.0,56.0,2,Conservative,absent,appendicitis,no appendicitis,4.0,5.0,0,1,1,1,0,1,36.1,7.4,60.3,0,4.77,13.2,13.2,330.0,no,no,no,1.0,0,normal,no,1,0,978.0
+12.27,19.6,0,172.0,58.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,1,0,0,0,0,36.6,14.7,72.2,0,4.72,13.7,11.9,318.0,,,,9.0,0,normal,no,0,0,981.0
+9.1,,1,,25.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,5.0,0,0,1,0,1,1,37.6,16.4,88.6,1,4.8,13.5,11.8,368.0,+++,no,no,6.0,0,normal,no,0,0,982.0
+11.3,16.0,0,152.0,37.0,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.7,8.6,66.1,0,5.44,14.4,12.5,263.0,no,no,no,0.0,0,constipation,no,0,0,983.0
+8.47,21.0,1,138.0,40.0,2,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,1,1,36.9,17.7,89.6,1,6.44,15.0,15.0,317.0,+++,no,no,35.0,0,constipation,no,0,0,986.0
+15.66,20.1,0,164.0,54.0,2,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,37.0,6.0,53.8,0,4.25,12.5,13.9,250.0,+,no,+,0.0,0,normal,local,1,0,988.0
+12.7,17.3,0,165.0,46.5,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,36.7,8.4,62.7,0,4.93,14.6,12.3,264.0,no,no,no,6.0,0,normal,no,0,0,989.0
+10.49,15.8,1,140.0,31.0,3,Conservative,absent,appendicitis,no appendicitis,8.0,8.0,0,1,1,1,0,1,37.9,15.9,88.0,1,4.35,13.3,11.2,269.0,+,no,no,2.0,0,normal,no,1,0,991.0
+12.68,,0,,39.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,5.0,0,1,1,1,0,1,37.1,7.3,59.7,0,4.34,12.7,12.4,218.0,no,no,no,0.0,0,normal,no,1,0,992.0
+13.98,20.6,1,172.0,60.9,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,1,1,1,0,0,0,36.7,8.4,79.8,1,4.84,14.9,14.6,247.0,,,,30.0,0,normal,no,0,0,733.0
+17.79,17.8,0,164.0,48.0,4,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,0,0,37.5,15.5,81.8,1,4.79,13.9,12.2,176.0,no,no,no,5.0,0,normal,no,0,0,735.0
+9.39,15.3,0,139.8,30.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,5.0,1,1,0,1,0,0,36.9,6.0,51.2,0,4.33,12.4,12.6,190.0,no,no,no,24.0,0,normal,no,1,0,736.0
+15.83,19.1,0,168.0,54.0,2,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.1,8.1,60.9,0,4.66,13.2,12.9,306.0,no,no,no,0.0,0,normal,no,0,0,737.0
+8.73,14.9,0,132.0,26.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,1,1,1,0,0,0,36.6,8.1,62.0,0,4.47,12.9,11.8,210.0,no,no,no,0.0,0,normal,no,1,0,738.0
+8.16,16.8,1,140.0,33.0,2,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,0,0,0,1,1,36.2,21.7,77.1,1,4.74,13.0,12.7,385.0,no,no,no,0.0,0,diarrhea,no,1,0,739.0
+14.23,,1,,54.0,4,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,1,0,1,1,36.5,6.6,50.4,0,4.73,14.3,12.3,228.0,no,no,no,0.0,0,normal,local,0,0,740.0
+15.09,18.7,1,192.0,69.0,2,Conservative,absent,appendicitis,no appendicitis,4.0,3.0,0,0,1,0,1,1,37.1,8.7,76.8,1,4.98,13.5,12.7,188.0,no,no,no,33.0,0,diarrhea,no,0,0,743.0
+12.1,19.1,0,160.0,49.0,2,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,35.6,8.1,57.7,0,4.73,13.1,12.6,277.0,no,no,no,2.0,0,constipation,generalized,1,0,745.0
+15.37,18.3,1,181.0,60.0,2,Conservative,uncomplicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,1,1,36.9,19.2,92.3,1,5.16,15.6,12.2,353.0,,,,1.0,0,normal,no,0,0,746.0
+9.18,20.5,1,145.0,43.0,2,Conservative,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,1,1,36.8,17.7,,0,5.02,12.9,13.6,265.0,no,no,no,21.0,0,normal,no,1,0,748.0
+10.59,16.8,1,140.0,33.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,6.0,0,1,1,1,0,0,37.3,10.1,69.5,0,4.65,12.1,12.7,366.0,no,no,no,32.0,0,normal,no,0,0,749.0
+16.29,18.6,0,175.0,57.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,0,1,36.7,13.8,82.5,1,4.49,12.7,12.1,236.0,+,+,+,0.0,0,normal,local,1,0,750.0
+8.83,,1,,33.8,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,1,1,1,1,0,0,37.3,12.0,81.1,1,5.26,13.4,14.6,267.0,no,no,no,7.0,0,normal,no,0,0,751.0
+9.49,14.6,1,136.0,27.0,3,Conservative,uncomplicated,appendicitis,appendicitis,9.0,9.0,1,1,0,1,1,1,37.2,15.6,82.1,1,4.3,11.8,12.6,196.0,+++,no,no,3.0,0,normal,no,0,1,752.0
+6.29,13.9,1,120.0,20.0,2,Conservative,absent,appendicitis,no appendicitis,10.0,10.0,1,1,1,1,1,1,38.3,19.1,79.7,1,4.9,12.7,12.2,221.0,no,no,no,1.0,0,normal,no,0,0,753.0
+6.76,15.5,0,122.0,22.9,3,Conservative,absent,appendicitis,no appendicitis,7.0,8.0,1,1,0,1,0,0,37.4,19.7,75.5,1,4.77,13.4,12.2,330.0,,,,1.0,0,normal,no,0,1,754.0
+10.78,17.1,0,145.0,36.0,2,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,1,0,1,1,37.4,5.9,54.6,0,4.68,13.1,12.0,287.0,no,no,+,0.0,0,normal,no,0,0,755.0
+17.72,22.7,1,178.0,72.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,1,1,36.5,14.7,80.9,1,5.99,15.6,13.7,225.0,++,no,no,0.0,0,normal,no,0,0,756.0
+9.53,16.6,1,132.0,29.0,3,Conservative,absent,appendicitis,no appendicitis,9.0,8.0,1,1,0,0,1,1,37.7,17.6,81.0,1,4.67,12.5,12.6,339.0,no,no,no,0.0,0,constipation,no,1,0,757.0
+6.39,15.7,1,110.0,18.5,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,1,0,0,1,37.0,15.5,89.6,1,4.5,12.9,12.1,304.0,++,no,no,3.0,0,normal,no,0,1,759.0
+6.64,16.0,0,125.0,24.5,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,0,0,0,0,1,37.9,16.3,80.8,1,4.98,13.5,12.1,328.0,+,no,+++,26.0,0,normal,generalized,0,0,760.0
+11.22,14.9,1,142.0,30.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,6.0,0,1,1,1,0,0,36.8,15.1,86.2,1,4.26,12.1,12.3,314.0,no,no,no,0.0,0,normal,no,1,0,761.0
+11.96,15.9,0,144.0,33.0,2,Conservative,absent,appendicitis,no appendicitis,3.0,5.0,0,1,0,1,0,0,37.3,6.7,48.4,0,4.23,11.7,12.3,199.0,,,,1.0,0,normal,no,1,0,765.0
+11.95,18.7,1,162.0,49.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,1,1,36.0,16.7,90.0,1,4.84,12.7,12.4,236.0,++,+,no,0.0,0,normal,no,0,0,769.0
+12.98,20.2,0,159.0,51.0,4,Conservative,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,1,1,37.2,13.3,74.5,0,4.96,13.8,12.5,292.0,no,no,no,47.0,0,normal,no,1,0,771.0
+14.71,18.5,0,174.0,56.0,2,Conservative,uncomplicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,0,1,39.8,10.1,93.7,1,4.11,12.3,12.4,198.0,,,,15.0,0,normal,no,1,0,772.0
+10.64,23.5,1,146.0,49.5,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,0,0,0,1,1,36.7,10.7,66.4,0,4.93,13.9,12.0,326.0,+,no,no,1.0,0,constipation,no,0,0,775.0
+7.3,15.9,0,123.0,23.5,3,Conservative,uncomplicated,appendicitis,appendicitis,9.0,7.0,1,1,1,0,1,1,37.4,21.1,71.8,0,4.64,12.9,13.4,249.0,no,+,++,1.0,0,normal,no,0,0,777.0
+12.97,19.5,0,152.0,44.8,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.0,6.4,41.0,0,4.01,12.3,11.6,367.0,no,no,no,0.0,0,constipation,no,0,0,779.0
+16.12,22.5,0,166.0,62.0,2,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,1,1,0,0,0,1,36.4,9.8,71.4,0,4.62,11.6,18.0,451.0,+++,++,no,0.0,1,normal,no,1,0,780.0
+14.6,18.2,1,164.0,48.5,3,Conservative,uncomplicated,appendicitis,appendicitis,10.0,8.0,1,1,1,0,1,1,37.6,18.7,84.3,1,4.76,14.4,12.4,205.0,++,no,no,22.0,0,normal,no,0,0,781.0
+12.62,20.8,0,161.0,54.0,4,Conservative,absent,appendicitis,no appendicitis,4.0,3.0,0,1,1,0,0,1,36.9,9.8,43.6,0,4.78,13.8,12.4,253.0,+,+++,+,0.0,0,normal,no,0,0,782.0
+12.27,20.0,0,158.0,50.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,1,1,1,0,0,1,36.8,8.2,45.7,0,4.45,12.8,12.6,250.0,no,no,+,0.0,0,normal,no,1,0,786.0
+4.39,15.1,1,103.0,16.0,5,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,0,1,39.0,14.4,73.8,0,4.99,12.9,11.9,490.0,++,++,no,74.0,0,diarrhea,no,0,0,787.0
+6.27,16.5,1,128.0,26.5,1,Conservative,uncomplicated,appendicitis,appendicitis,5.0,5.0,0,1,1,1,0,0,36.9,13.1,71.3,0,4.65,13.2,12.2,283.0,no,no,no,5.0,0,normal,no,0,0,790.0
+10.98,12.9,0,142.0,26.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,1,1,0,0,0,0,37.2,13.3,77.0,1,5.18,13.8,11.9,275.0,no,no,no,24.0,0,normal,no,0,0,791.0
+9.44,18.6,0,142.5,37.8,3,Conservative,absent,appendicitis,no appendicitis,9.0,8.0,1,1,0,0,1,1,37.7,21.2,85.7,1,4.45,13.0,12.6,357.0,no,no,no,10.0,0,diarrhea,no,0,0,794.0
+16.72,18.5,1,180.0,60.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,0,0,0,1,37.0,10.7,67.7,0,5.57,15.5,13.3,224.0,++,no,no,0.0,0,normal,no,1,0,796.0
+12.59,16.7,1,148.5,36.5,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,0,36.8,11.1,75.8,1,4.76,13.9,12.6,297.0,no,no,no,11.0,0,normal,no,0,0,797.0
+15.18,25.4,0,151.0,58.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,5.0,0,1,0,1,0,0,36.3,15.8,56.6,0,4.54,13.3,11.9,304.0,+,+,no,0.0,0,normal,local,1,0,799.0
+8.19,14.8,1,130.0,25.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,37.7,16.8,75.5,1,4.81,13.4,11.9,386.0,+,no,++,3.0,0,normal,no,0,0,801.0
+16.19,22.0,1,172.0,65.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,1,1,0,0,0,0,36.4,12.7,73.2,0,5.31,16.1,12.3,192.0,no,+++,no,135.0,0,normal,no,0,0,802.0
+10.56,15.6,1,142.5,32.0,3,Conservative,absent,Appendizitis/ Lymphadenitis mesenterialis,no appendicitis,4.0,3.0,0,0,1,0,1,1,37.8,9.8,67.2,0,4.62,13.5,11.8,266.0,+++,+,no,26.0,0,diarrhea,no,0,0,803.0
+14.84,20.3,0,160.0,52.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,1,0,0,37.3,7.0,69.5,0,3.92,11.5,11.9,199.0,no,no,no,6.0,0,normal,no,1,0,805.0
+12.67,17.4,1,168.0,49.0,2,Conservative,uncomplicated,appendicitis,appendicitis,3.0,4.0,0,1,1,1,0,0,36.6,5.7,52.9,0,4.71,13.5,12.2,214.0,no,no,no,16.0,0,diarrhea,no,1,0,806.0
+14.2,18.3,1,170.0,53.0,2,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,36.5,14.4,80.8,1,4.98,13.7,12.8,293.0,,,,32.0,0,normal,no,0,0,807.0
+8.09,16.1,1,127.0,25.5,2,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,0,1,37.2,21.1,82.0,1,5.01,13.7,,370.0,+++,+++,no,1.0,0,normal,no,0,0,808.0
+7.74,14.5,0,126.0,22.5,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,5.0,1,1,0,0,1,1,36.8,8.5,61.4,0,4.6,13.1,12.2,351.0,no,no,no,1.0,0,constipation,no,0,0,575.0
+10.76,17.6,1,138.5,34.4,4,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,36.9,18.1,84.7,1,4.9,12.6,12.5,295.0,,,,4.0,0,diarrhea,generalized,0,0,578.0
+9.25,25.9,1,139.0,50.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,1,1,0,0,1,1,36.9,17.2,72.8,0,5.15,12.8,14.8,393.0,++,no,no,9.0,0,constipation,no,0,0,579.0
+9.95,16.4,0,143.5,34.1,4,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,1,1,0,0,1,1,37.0,5.6,,0,5.07,14.4,11.9,270.0,,,,8.0,0,diarrhea,no,0,0,583.0
+11.65,27.4,1,172.0,81.0,2,Conservative,absent,appendicitis,no appendicitis,6.0,7.0,0,1,0,1,1,1,37.1,10.8,63.8,0,5.01,13.8,12.6,266.0,,,,16.0,0,normal,no,1,0,584.0
+10.93,18.4,1,137.5,35.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,1,1,0,0,0,0,36.5,6.8,51.0,0,5.13,14.0,13.3,338.0,no,no,no,0.0,0,normal,no,0,0,585.0
+13.83,29.8,1,169.0,85.4,3,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,1,1,0,0,1,1,36.4,9.7,42.5,0,5.52,15.0,14.6,369.0,+,no,no,4.0,0,normal,no,0,0,586.0
+10.9,13.7,0,135.0,24.5,2,Conservative,absent,appendicitis,no appendicitis,0.0,1.0,1,0,0,0,0,0,36.7,8.7,63.5,0,4.74,15.3,12.8,324.0,no,no,++,0.0,0,normal,no,1,0,587.0
+16.38,17.3,0,165.0,46.8,3,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,36.5,8.5,48.3,0,4.53,13.2,11.9,267.0,no,no,no,0.0,0,normal,no,0,0,589.0
+10.65,13.3,0,136.5,25.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,36.2,18.6,93.9,1,4.83,12.6,13.3,349.0,+++,no,no,2.0,0,normal,no,0,0,592.0
+9.2,16.6,1,143.0,33.5,9,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,1,0,1,1,37.1,6.1,60.1,0,4.54,12.7,12.8,280.0,no,no,no,0.0,0,normal,no,1,0,593.0
+3.16,14.11,1,96.0,13.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,0,0,38.5,15.4,,1,4.42,11.8,13.4,110.0,,,,8.0,0,diarrhea,no,0,0,595.0
+12.8,15.6,1,152.0,35.8,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,6.0,0,1,1,1,1,1,37.1,8.7,74.3,0,5.16,14.2,12.9,272.0,no,+,no,25.0,0,constipation,no,1,1,597.0
+15.48,22.4,0,169.0,64.0,5,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,1,1,1,0,1,1,36.9,5.8,51.3,0,4.02,11.7,13.9,212.0,,,,22.0,0,normal,no,1,1,598.0
+11.9,16.7,0,153.0,38.5,3,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,1,1,0,0,0,0,37.3,8.0,47.1,0,4.84,13.5,12.6,405.0,no,no,no,0.0,0,constipation,no,0,0,600.0
+3.27,15.75,0,87.7,12.2,6,Conservative,uncomplicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,38.9,17.9,87.1,1,4.73,12.4,14.2,342.0,+++,no,no,39.0,0,normal,no,0,0,601.0
+11.36,13.9,0,142.0,28.0,3,Conservative,uncomplicated,appendicitis,appendicitis,9.0,7.0,1,1,1,0,1,1,36.8,11.4,84.6,1,4.35,12.7,12.4,183.0,+++,+,+,3.0,1,normal,no,0,0,602.0
+8.56,16.3,0,138.0,30.5,3,Conservative,absent,appendicitis,no appendicitis,4.0,3.0,0,0,1,0,1,1,36.4,8.4,83.4,1,4.37,11.5,12.6,234.0,no,no,no,0.0,0,normal,no,1,0,603.0
+16.68,20.3,0,169.0,58.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,1,0,0,0,0,36.8,10.8,65.1,0,4.57,13.6,12.6,240.0,no,no,no,0.0,0,normal,no,0,0,604.0
+14.15,23.5,0,165.0,64.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,0,0,0,1,0,37.6,16.3,87.7,1,4.76,13.8,12.1,325.0,no,no,+,1.0,0,normal,no,0,0,606.0
+10.86,14.1,1,141.0,28.0,5,Conservative,absent,appendicitis,no appendicitis,4.0,3.0,1,1,1,0,0,0,36.2,8.4,,0,4.51,12.9,12.0,273.0,,,,1.0,0,normal,no,0,1,607.0
+10.9,23.3,1,148.0,51.0,5,Conservative,absent,appendicitis,no appendicitis,,,1,1,0,0,1,1,36.2,7.9,,0,4.41,12.5,12.3,324.0,+,no,no,1.0,0,diarrhea,no,0,0,609.0
+15.01,22.5,0,166.0,62.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,37.0,8.0,63.9,0,4.32,12.2,12.0,176.0,no,,no,0.0,0,normal,no,1,0,612.0
+10.05,20.3,0,148.5,45.0,3,Conservative,absent,appendicitis,no appendicitis,0.0,0.0,0,0,0,0,0,0,36.3,9.1,40.3,0,4.37,12.1,13.1,246.0,no,no,no,3.0,0,diarrhea,no,0,0,613.0
+11.05,20.7,0,149.0,46.3,3,Conservative,absent,appendicitis,no appendicitis,2.0,1.0,0,0,0,0,0,0,36.0,12.2,70.3,0,4.46,12.9,12.3,383.0,,,,4.0,0,normal,no,1,0,614.0
+14.99,20.8,0,161.0,54.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,3.0,0,1,0,0,0,0,37.1,12.2,73.5,0,4.54,13.7,12.5,307.0,,,,0.0,0,normal,no,0,0,615.0
+11.37,14.0,0,130.5,24.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,1,1,1,0,1,1,37.1,8.1,65.5,0,4.59,13.3,12.2,272.0,,,,0.0,0,normal,no,1,0,616.0
+7.72,20.1,1,129.5,33.8,3,Conservative,absent,appendicitis,no appendicitis,3.0,4.0,0,1,0,1,0,1,37.2,6.7,,0,5.26,14.0,13.0,367.0,+++,+,no,0.0,0,normal,no,1,0,617.0
+8.34,13.0,0,130.0,21.5,2,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,36.7,9.1,70.5,0,4.9,13.1,12.1,466.0,no,+,+,1.0,0,normal,no,0,0,620.0
+14.11,18.5,0,156.0,45.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,1,1,1,1,37.1,8.1,,0,5.05,13.3,13.2,344.0,no,no,no,1.0,0,normal,no,1,0,621.0
+17.21,18.0,1,178.0,57.0,4,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,0,36.9,10.7,82.6,1,5.4,16.5,12.0,206.0,,,,9.0,0,normal,no,0,0,622.0
+10.88,15.5,1,145.7,33.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,4.0,0,1,1,1,0,0,36.8,4.9,51.1,0,5.15,13.6,13.1,245.0,,,,0.0,0,normal,no,1,0,623.0
+11.82,16.7,1,147.0,36.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,0,0,37.5,21.4,90.0,1,4.43,12.4,12.6,365.0,no,no,no,3.0,0,normal,no,1,1,625.0
+9.5,16.6,0,144.5,35.4,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,6.0,0,1,1,1,1,1,37.1,9.7,62.5,0,4.78,13.8,12.0,335.0,,,,0.0,0,normal,no,1,1,626.0
+11.06,19.2,0,146.0,41.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,8.0,0,1,0,1,1,1,36.4,21.8,81.8,1,4.63,12.9,12.2,391.0,no,no,no,0.0,0,normal,no,1,0,628.0
+13.7,15.4,1,167.0,43.4,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,6.0,1,1,0,1,0,0,36.7,12.4,65.7,0,4.69,12.4,14.4,247.0,no,no,no,6.0,0,diarrhea,no,0,0,
+8.67,12.8,0,140.0,25.0,4,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,1,0,1,1,36.8,6.9,55.0,0,4.31,11.5,12.4,412.0,no,no,+,4.0,0,diarrhea,no,0,0,633.0
+15.79,23.0,0,160.0,59.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,7.0,1,1,1,1,1,1,36.3,5.1,53.0,0,5.01,13.6,14.7,173.0,no,+,no,0.0,0,normal,no,1,0,635.0
+9.75,15.9,1,141.5,32.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,6.0,0,1,0,1,1,0,35.9,14.8,68.4,0,4.56,13.6,12.3,302.0,no,no,no,17.0,0,diarrhea,no,0,0,636.0
+9.53,26.1,0,149.0,58.0,2,Conservative,absent,appendicitis,no appendicitis,3.0,2.0,0,1,1,0,0,0,37.1,7.4,57.2,0,4.76,12.6,12.0,373.0,no,no,no,10.0,0,normal,no,0,0,641.0
+10.45,16.9,1,145.5,35.5,3,Conservative,absent,appendicitis,no appendicitis,,,0,1,0,0,0,0,37.0,6.1,,0,4.98,14.0,12.4,233.0,+,no,no,0.0,0,normal,no,0,0,642.0
+9.19,15.3,1,133.0,27.2,2,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,1,1,1,0,1,1,36.4,5.3,59.8,0,4.06,11.4,12.8,91.0,no,no,no,4.0,0,normal,no,0,0,643.0
+11.07,24.5,0,147.0,53.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,5.0,0,1,1,0,0,1,37.8,11.0,73.4,0,4.84,14.2,12.4,327.0,++,+,+,54.0,0,diarrhea,local,1,0,644.0
+10.4,22.2,1,143.5,46.0,1,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,0,36.8,12.9,77.8,1,5.08,13.8,13.0,275.0,,,,18.0,0,normal,no,0,0,645.0
+12.9,17.1,0,153.0,40.0,3,Conservative,absent,appendicitis,no appendicitis,8.0,7.0,0,1,0,0,1,1,38.4,26.9,90.0,1,4.85,14.2,13.1,418.0,+++,+++,+,4.0,0,normal,local,0,0,646.0
+7.02,10.9,1,132.0,19.0,2,Conservative,absent,appendicitis,no appendicitis,8.0,7.0,0,1,0,0,1,1,38.2,19.9,93.8,1,4.47,11.9,13.6,340.0,+++,no,no,14.0,0,normal,no,0,0,647.0
+17.3,22.7,1,173.0,68.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,4.0,0,1,1,1,0,0,36.6,5.0,,0,4.83,14.3,12.0,168.0,,,,0.0,0,normal,no,1,0,648.0
+10.75,22.9,0,155.0,54.5,3,Conservative,absent,appendicitis,no appendicitis,7.0,7.0,0,1,1,1,0,0,37.7,10.3,81.2,1,4.79,13.0,13.7,254.0,no,no,no,57.0,0,normal,no,1,0,652.0
+14.43,17.6,0,160.0,45.0,4,Conservative,absent,appendicitis,no appendicitis,,,0,1,1,1,1,1,37.1,8.8,,0,4.28,13.5,12.8,226.0,no,no,+,0.0,0,normal,generalized,1,0,653.0
+13.76,20.1,0,161.0,51.5,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,1,1,0,0,0,0,36.9,11.5,70.7,0,4.59,13.2,12.6,255.0,no,no,no,6.0,0,normal,no,0,0,656.0
+10.95,,1,,36.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,37.0,14.3,87.8,1,4.91,13.8,11.8,403.0,+++,no,no,14.0,0,normal,local,1,0,657.0
+11.15,17.5,1,155.0,42.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,6.0,0,1,0,1,1,1,36.8,7.5,59.6,0,5.18,13.8,13.3,234.0,no,no,no,0.0,0,diarrhea,no,0,0,660.0
+10.37,16.0,1,156.0,39.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,5.0,0,1,0,1,0,0,37.4,5.6,38.6,0,4.8,14.0,12.6,275.0,no,no,no,0.0,0,diarrhea,no,1,0,661.0
+9.04,16.2,0,134.0,29.4,3,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,1,1,0,0,1,1,36.0,5.1,44.5,0,4.92,13.7,12.6,244.0,+,+,no,0.0,0,normal,no,1,0,665.0
+11.79,19.2,0,137.0,36.0,2,Conservative,absent,appendicitis,no appendicitis,6.0,6.0,0,1,1,1,0,0,36.6,14.6,77.7,1,4.73,13.1,12.2,251.0,no,+,no,4.0,0,normal,local,1,1,668.0
+15.38,18.1,0,163.0,47.6,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,6.0,1,1,0,0,1,1,37.4,8.3,66.9,0,4.73,13.6,12.6,220.0,+++,no,no,21.0,0,normal,no,0,0,672.0
+13.64,21.2,0,158.0,53.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,1,1,1,0,0,0,37.5,7.4,52.6,0,4.94,14.5,13.3,277.0,no,no,no,1.0,0,diarrhea,no,0,0,675.0
+12.42,16.2,1,147.0,34.5,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,3.0,0,1,1,0,0,0,37.1,13.3,72.4,0,4.93,13.8,12.9,200.0,no,no,no,0.0,0,normal,no,0,0,683.0
+15.89,23.1,0,143.5,47.5,4,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,0,1,37.9,17.4,78.3,1,4.92,14.6,12.8,219.0,+++,+,no,22.0,0,constipation,no,0,0,686.0
+9.94,15.3,1,140.0,29.5,3,Conservative,absent,appendicitis,no appendicitis,8.0,6.0,1,1,1,0,0,0,37.4,18.6,75.2,1,5.29,14.3,13.5,433.0,+++,+,no,37.0,0,constipation,local,0,0,689.0
+11.01,16.0,1,148.0,35.0,4,Conservative,uncomplicated,appendicitis,appendicitis,9.0,8.0,1,1,0,0,1,1,38.1,16.9,78.7,1,4.5,11.9,13.8,344.0,++,no,no,25.0,0,normal,no,0,0,691.0
+7.26,15.4,1,130.0,25.6,4,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.9,6.9,46.2,0,4.86,13.5,12.5,275.0,no,no,no,0.0,0,normal,no,0,0,695.0
+16.58,18.8,0,158.0,47.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,37.0,9.6,68.4,0,4.28,13.9,12.7,352.0,++,,no,11.0,0,normal,no,0,0,696.0
+13.8,20.6,1,162.0,54.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,8.0,0,1,0,1,1,1,36.9,10.9,88.8,1,4.47,13.0,12.3,260.0,+++,+,+,5.0,0,diarrhea,no,0,0,697.0
+13.83,,1,,48.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,36.2,7.3,46.1,0,5.17,14.4,14.3,248.0,no,no,no,0.0,1,normal,no,1,0,698.0
+17.06,24.5,0,176.0,76.0,2,Conservative,absent,appendicitis,no appendicitis,3.0,2.0,0,1,1,0,0,0,37.2,6.3,,0,4.92,15.1,12.1,199.0,no,+++,no,0.0,0,normal,no,0,1,700.0
+10.8,21.8,0,146.5,47.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,36.5,15.6,81.8,1,5.87,14.6,14.2,282.0,+,+,no,37.0,0,normal,no,0,0,701.0
+6.56,22.5,1,135.0,41.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,36.4,17.4,87.1,1,4.74,12.3,13.9,318.0,+,no,no,5.0,0,normal,no,0,0,
+8.09,16.5,1,128.0,27.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,1,1,36.8,14.0,86.1,1,14.0,14.7,13.6,289.0,+,+,no,10.0,0,normal,no,0,0,703.0
+4.52,14.0,0,110.0,16.5,4,Conservative,absent,appendicitis,no appendicitis,8.0,9.0,0,1,0,1,1,1,37.3,22.1,87.6,1,5.03,13.1,13.5,365.0,no,no,no,10.0,0,normal,no,0,0,704.0
+11.35,25.6,0,163.0,68.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,4.0,0,1,1,0,0,0,36.8,12.1,78.2,1,4.37,12.3,14.6,271.0,no,no,no,16.0,0,normal,no,0,0,708.0
+12.09,17.6,1,143.0,36.0,2,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.0,7.3,69.6,0,4.9,14.3,11.3,354.0,,,,1.0,0,normal,no,0,0,711.0
+11.81,24.2,1,156.0,59.1,4,Conservative,uncomplicated,appendicitis,appendicitis,4.0,5.0,0,0,0,1,1,1,36.2,17.8,,0,4.8,13.8,12.9,296.0,no,no,no,84.0,0,diarrhea,no,0,0,712.0
+12.93,15.4,1,171.0,45.0,2,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,1,0,0,0,0,36.6,15.9,74.5,0,4.95,12.8,12.8,260.0,,,,1.0,0,diarrhea,no,0,0,714.0
+15.87,19.0,0,166.5,53.3,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.0,5.2,46.1,0,4.27,12.9,12.2,267.0,no,no,no,0.0,0,normal,no,0,0,715.0
+13.24,21.3,0,165.0,58.0,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.9,10.0,,0,5.06,13.9,12.1,382.0,no,no,no,7.0,0,normal,no,0,0,716.0
+15.26,15.9,1,174.0,47.5,3,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,0,1,1,1,0,0,36.7,10.4,54.1,0,5.32,14.6,13.1,298.0,no,no,no,0.0,0,normal,no,1,0,717.0
+9.99,18.9,0,140.0,37.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,1,1,1,0,0,0,37.8,9.7,68.4,0,4.99,13.5,12.1,368.0,no,no,no,15.0,0,normal,no,1,0,718.0
+11.27,17.1,0,146.7,37.4,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.2,5.7,32.2,0,4.72,13.2,12.4,276.0,,,,0.0,0,normal,local,1,0,721.0
+15.21,20.8,0,158.0,52.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,1,1,0,0,0,1,36.2,5.9,61.5,0,4.67,13.5,12.6,223.0,++,no,no,0.0,0,normal,no,0,0,722.0
+13.37,20.4,0,161.0,53.0,3,Conservative,absent,appendicitis,no appendicitis,2.0,4.0,0,1,0,1,0,0,36.7,6.2,53.2,0,4.44,12.3,12.1,249.0,no,no,no,0.0,0,normal,no,1,0,724.0
+16.86,35.4,0,154.0,84.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,0,37.4,7.2,68.3,0,4.62,12.0,13.6,221.0,no,no,no,2.0,0,normal,no,0,0,725.0
+12.41,18.76,0,150.5,42.5,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,1,0,1,1,37.2,9.1,75.0,1,5.49,16.3,12.6,311.0,no,no,no,0.0,0,normal,no,1,0,317.0
+9.33,15.38,0,127.5,25.0,5,Conservative,absent,no appendicitis,no appendicitis,5.0,4.0,0,1,0,0,0,1,36.4,7.6,54.1,0,5.09,15.0,11.9,302.0,no,no,no,0.0,0,normal,no,1,0,319.0
+14.93,21.03,1,181.0,68.9,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,5.0,1,1,1,1,0,0,36.4,9.7,61.3,0,5.77,17.5,12.8,222.0,no,no,no,24.0,0,constipation,no,0,0,60.0
+17.49,17.72,0,165.0,48.2,3,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,26.9,5.8,62.9,0,4.36,13.8,12.4,205.0,no,,+,0.0,0,normal,no,0,0,320.0
+11.67,23.38,0,163.5,62.5,5,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,9.2,60.3,0,4.61,12.9,13.9,296.0,no,+,no,1.0,0,normal,no,1,0,321.0
+15.11,17.71,1,165.5,48.5,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,36.8,7.8,73.7,0,5.67,15.2,12.8,213.0,no,no,no,16.0,0,normal,no,0,0,322.0
+11.05,26.01,0,152.5,60.5,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,1,1,1,1,37.0,7.5,50.8,0,5.09,13.4,11.9,283.0,++,no,+,0.0,1,normal,no,0,0,323.0
+13.43,13.78,1,158.0,34.4,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,0,37.8,4.0,,0,4.6,12.9,13.1,221.0,,,,2.0,0,normal,no,0,0,324.0
+13.81,16.38,0,162.0,43.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,6.0,1,1,0,0,1,0,38.0,8.4,80.3,1,4.44,13.1,12.6,175.0,no,no,no,30.0,0,normal,no,0,0,61.0
+10.74,15.82,0,140.0,31.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,1,1,0,0,1,0,37.2,8.6,40.6,0,4.87,13.4,11.9,323.0,++,no,no,0.0,0,diarrhea,no,1,0,62.0
+7.71,21.3,0,130.0,36.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,3.0,0,1,1,0,0,0,36.8,15.4,64.5,0,4.59,11.8,13.3,301.0,no,++,+++,106.0,0,normal,no,1,0,63.0
+10.9,21.17,1,145.0,44.5,2,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,1,1,1,1,1,0,36.4,9.7,56.2,0,5.24,14.4,12.7,374.0,no,no,no,0.0,0,diarrhea,no,1,0,431.0
+17.56,19.1,0,165.0,52.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,0,0,0,0,37.3,11.2,70.3,0,4.36,12.8,11.8,340.0,no,no,no,8.0,0,normal,no,0,0,
+12.24,15.59,1,153.0,36.5,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,5.0,0,1,1,1,1,0,36.8,4.1,49.6,0,4.49,11.9,14.5,245.0,+++,no,no,2.0,0,diarrhea,no,1,0,64.0
+14.29,18.32,0,167.5,51.4,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,1,0,37.2,11.2,74.7,0,4.73,13.7,12.3,322.0,no,no,no,15.0,0,diarrhea,no,1,0,65.0
+15.39,26.93,0,161.0,69.8,3,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,0,1,0,0,1,0,37.2,12.1,67.7,0,4.82,13.9,12.8,208.0,,,,1.0,0,normal,no,0,0,326.0
+15.81,22.61,0,164.0,60.8,3,Conservative,absent,no appendicitis,no appendicitis,3.0,2.0,0,1,1,0,0,0,37.3,7.6,55.1,0,4.48,13.2,14.0,252.0,no,+++,no,0.0,0,normal,no,0,0,327.0
+5.77,19.65,1,125.0,30.7,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,1,0,1,0,39.7,11.4,65.0,0,5.1,13.6,13.5,305.0,no,+,no,25.0,0,normal,no,0,0,328.0
+15.97,7.83,0,174.0,23.7,4,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.0,6.8,59.5,0,4.73,14.2,12.2,233.0,no,no,no,0.0,0,normal,no,0,0,329.0
+8.67,15.99,0,133.5,28.5,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,0,0,38.2,12.5,72.2,0,4.35,12.8,12.2,295.0,no,no,no,20.0,0,normal,no,0,0,67.0
+11.13,14.23,0,141.5,28.5,3,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,0,0,0,1,1,37.0,9.0,49.4,0,6.0,10.0,18.7,365.0,,,,0.0,0,normal,no,1,0,330.0
+16.77,25.4,0,166.0,70.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,0,37.0,17.4,81.0,1,4.61,13.4,12.7,343.0,,,,6.0,0,normal,no,0,0,68.0
+9.27,23.34,1,163.0,62.0,2,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,8.6,49.4,0,5.49,14.2,13.7,294.0,no,no,no,4.0,0,normal,no,0,0,331.0
+13.54,18.23,1,170.5,53.0,2,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,5.8,42.1,0,5.54,13.9,13.7,253.0,,,,0.0,0,normal,no,0,0,332.0
+12.39,20.91,0,157.4,51.8,4,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.4,8.8,56.4,0,5.49,13.5,14.5,417.0,no,no,no,1.0,0,normal,no,1,0,333.0
+15.05,18.37,0,165.0,50.0,2,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,0,1,0,36.8,9.0,78.2,1,4.52,13.5,11.8,204.0,no,no,no,0.0,0,normal,no,0,0,336.0
+14.58,29.34,0,162.0,77.0,4,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,0,1,0,36.8,7.0,43.3,0,4.54,13.0,12.7,262.0,no,,no,1.0,0,normal,no,1,0,337.0
+11.77,13.33,1,152.0,30.8,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,1,0,37.2,12.9,75.2,1,4.5,12.6,13.2,260.0,no,+++,no,8.0,0,diarrhea,local,0,0,69.0
+5.14,13.56,1,116.5,18.4,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,0,0,0,1,0,38.6,4.3,78.3,1,4.47,12.3,13.5,183.0,++,no,no,1.0,0,constipation,local,0,0,70.0
+9.24,20.68,1,141.5,41.4,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,1,0,0,0,0,36.8,14.9,68.9,0,4.84,12.1,14.9,311.0,++,no,no,1.0,0,normal,no,0,0,71.0
+6.0,11.9,1,123.0,18.0,3,Conservative,absent,appendicitis,no appendicitis,8.0,7.0,0,1,0,0,1,1,39.2,19.4,76.8,1,4.17,11.4,14.3,269.0,no,no,no,51.0,1,diarrhea,no,0,0,72.0
+12.3,15.07,1,148.0,33.0,3,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.0,6.5,27.2,0,5.25,15.0,12.5,309.0,no,no,no,0.0,0,normal,no,0,0,339.0
+17.2,22.37,0,175.0,68.5,2,Conservative,absent,appendicitis,no appendicitis,7.0,5.0,0,1,0,0,1,0,37.6,15.9,85.5,1,4.71,12.7,12.4,200.0,no,+++,no,0.0,1,normal,no,1,0,432.0
+13.29,29.02,1,160.0,74.3,4,Conservative,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,1,0,36.8,13.0,,0,5.03,14.0,14.7,298.0,no,no,no,46.0,0,normal,no,1,0,73.0
+12.57,17.3,0,170.0,50.0,1,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,1,0,37.3,13.4,84.4,1,4.3,12.3,12.9,236.0,no,no,no,0.0,0,normal,no,0,0,74.0
+12.56,24.82,1,175.0,76.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,1,1,0,0,0,0,37.4,7.0,,0,5.5,15.1,13.1,361.0,,,,5.0,0,diarrhea,no,0,0,75.0
+6.79,18.6,1,129.0,31.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,8.0,0,1,0,1,0,1,37.3,16.3,81.1,1,5.21,13.6,13.2,331.0,+,no,no,4.0,0,constipation,no,0,0,
+7.99,18.85,0,142.0,38.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,1,0,0,0,0,37.2,11.4,58.8,0,5.06,13.2,13.7,376.0,+,no,no,0.0,0,normal,no,0,0,342.0
+13.26,20.4,0,155.0,49.0,2,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,1,1,0,0,1,0,36.8,9.4,72.9,0,4.44,13.3,12.3,267.0,no,no,no,1.0,0,normal,no,0,0,343.0
+14.49,19.38,1,163.5,51.8,6,Conservative,absent,appendicitis,no appendicitis,4.0,5.0,0,1,0,1,1,0,37.4,5.0,55.1,0,4.83,12.0,15.2,181.0,no,no,no,0.0,0,normal,no,1,0,344.0
+14.43,20.53,0,150.5,46.5,2,Conservative,absent,no appendicitis,no appendicitis,2.0,4.0,0,1,0,1,0,0,37.0,7.7,63.2,0,4.77,13.0,11.9,230.0,no,no,no,0.0,0,normal,no,1,0,345.0
+12.51,16.76,1,144.5,35.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,1,0,1,1,37.0,8.3,67.1,0,4.74,13.5,12.1,224.0,no,no,no,13.0,0,normal,no,0,0,77.0
+15.73,18.46,1,178.0,58.5,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,37.2,8.8,50.7,0,5.46,15.3,12.8,200.0,no,+,+,45.0,0,normal,no,0,0,78.0
+13.89,26.8,0,158.0,67.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,6.0,0,1,0,1,1,1,37.1,8.1,50.1,0,5.18,14.2,13.7,277.0,no,no,no,1.0,0,normal,no,0,0,
+11.87,16.89,0,151.0,38.5,2,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,0,39.2,9.7,70.8,0,4.75,13.1,12.4,229.0,no,no,no,6.0,0,normal,no,1,0,79.0
+16.44,23.62,1,173.5,71.1,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,0,0,38.2,21.7,84.2,1,5.19,15.2,11.9,248.0,no,no,no,19.0,0,diarrhea,no,0,0,80.0
+8.71,19.25,0,140.5,38.0,4,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,0,0,38.0,19.5,83.0,1,4.39,12.4,13.7,340.0,,,,7.0,0,constipation,no,0,0,81.0
+9.79,18.86,0,141.0,37.5,4,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,0,0,39.4,11.7,77.4,1,4.98,13.1,13.7,210.0,no,no,no,50.0,0,constipation,no,0,0,82.0
+13.7,21.77,1,166.0,60.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,0,0,0,1,37.9,12.5,73.2,0,4.69,12.7,12.1,256.0,no,no,no,21.0,0,normal,no,0,0,83.0
+12.55,20.32,1,161.5,53.0,3,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.2,7.6,55.0,0,4.94,14.9,12.7,320.0,no,no,no,0.0,0,constipation,no,1,0,347.0
+9.68,17.6,0,143.0,36.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,2.0,0,1,0,0,0,0,37.4,6.1,49.3,0,4.38,11.3,13.6,223.0,+++,+,++,51.0,0,normal,no,0,0,84.0
+8.89,15.5,0,132.0,27.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,1,1,1,1,1,0,37.0,7.1,54.8,0,4.52,12.3,12.9,265.0,no,no,no,0.0,0,normal,no,1,0,348.0
+5.42,15.7,1,112.0,19.7,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,1,1,0,0,0,0,39.0,8.8,80.0,1,4.38,12.1,,268.0,+++,no,no,76.0,0,constipation,no,0,0,433.0
+11.21,13.34,0,138.0,25.4,4,Conservative,absent,appendicitis,no appendicitis,8.0,5.0,0,1,0,0,1,0,37.6,16.7,82.6,1,4.51,12.6,12.5,351.0,+++,no,no,2.0,0,normal,generalized,1,0,349.0
+11.44,24.33,1,154.4,58.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,7.0,1,1,0,1,0,1,37.0,18.2,,0,4.87,12.8,13.2,359.0,no,no,+,5.0,0,normal,no,0,0,86.0
+11.9,16.84,1,140.0,33.0,3,Conservative,uncomplicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,38.2,12.4,77.2,1,4.68,13.1,13.7,355.0,+++,no,no,16.0,0,normal,local,1,0,87.0
+16.23,17.84,1,174.0,54.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,9.0,0,1,0,1,1,1,38.0,13.0,80.0,1,4.81,14.3,12.5,238.0,+++,+++,no,74.0,0,normal,no,0,0,88.0
+8.62,15.87,1,148.5,35.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,1,0,0,0,39.3,5.4,79.6,1,4.45,12.6,12.7,167.0,no,no,no,4.0,0,normal,no,0,0,352.0
+11.98,17.07,1,145.0,35.9,3,Conservative,absent,no appendicitis,no appendicitis,4.0,2.0,0,1,1,0,0,0,37.8,5.6,41.1,0,4.41,11.9,13.4,389.0,no,no,no,36.0,0,normal,local,1,0,353.0
+15.05,19.27,1,175.0,59.0,3,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,36.8,8.9,55.7,0,5.81,15.8,13.3,189.0,no,no,no,0.0,0,diarrhea,no,1,0,355.0
+5.93,12.51,1,109.5,15.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,3.0,0,1,0,0,0,0,37.8,10.4,56.4,0,4.74,12.5,13.4,396.0,+++,no,no,24.0,0,normal,no,1,0,356.0
+7.21,15.38,1,127.5,25.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,2.0,0,1,0,0,0,0,36.8,7.1,72.9,0,5.04,13.1,13.5,406.0,+++,no,no,0.0,1,constipation,no,0,0,89.0
+15.49,20.58,0,167.0,57.4,3,Conservative,absent,appendicitis,no appendicitis,7.0,5.0,0,1,1,0,0,0,38.0,12.2,85.4,1,4.39,13.1,13.7,227.0,+++,no,no,55.0,0,normal,no,1,0,434.0
+8.25,17.63,1,136.0,32.6,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,1,0,1,1,36.6,9.8,63.0,0,4.56,12.6,13.3,253.0,no,no,no,0.0,0,constipation,no,1,0,90.0
+11.83,17.26,0,156.0,42.0,3,Conservative,uncomplicated,appendicitis,appendicitis,9.0,5.0,1,1,1,0,1,0,37.8,10.4,70.6,0,4.82,12.7,12.6,265.0,+,no,+++,27.0,0,normal,no,1,0,91.0
+11.07,16.1,1,141.0,32.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,1,0,37.2,16.1,80.9,1,4.76,13.9,12.7,294.0,no,no,no,4.0,0,normal,no,0,0,92.0
+10.33,15.22,1,149.0,33.8,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.2,7.0,,0,5.02,13.9,12.8,241.0,,,,0.0,0,normal,no,0,0,93.0
+12.53,29.32,1,152.3,68.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,7.0,1,1,1,1,0,0,36.8,11.0,82.4,1,5.33,14.4,13.5,153.0,,,,5.0,0,normal,no,1,1,436.0
+9.24,16.71,1,134.0,30.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,0,0,1,0,37.6,10.9,80.9,1,4.81,12.4,12.7,341.0,,,,20.0,0,normal,no,1,0,95.0
+6.36,13.19,0,120.0,19.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,6.0,1,1,1,0,0,0,38.2,20.9,77.0,1,4.76,10.9,16.5,231.0,no,+,+,135.0,0,normal,no,0,0,96.0
+14.58,22.98,0,155.0,55.2,4,Conservative,absent,no appendicitis,no appendicitis,9.0,9.0,1,1,0,1,1,0,38.7,14.0,91.6,1,4.6,13.5,12.6,234.0,+++,no,+,9.0,0,diarrhea,no,0,0,362.0
+12.51,17.89,0,151.0,40.8,4,Conservative,absent,no appendicitis,no appendicitis,3.0,2.0,0,1,0,0,0,0,37.5,8.7,52.9,0,4.83,13.8,13.3,287.0,,,,1.0,0,normal,no,1,0,363.0
+10.37,21.0,1,138.0,40.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,1,0,38.5,10.6,83.6,1,4.59,13.0,12.1,247.0,,,,6.0,0,normal,no,0,0,97.0
+7.59,12.81,0,134.0,23.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,5.0,1,1,0,1,0,0,37.5,7.4,54.2,0,4.9,13.5,12.4,280.0,no,no,no,1.0,0,normal,no,0,0,98.0
+14.61,11.03,1,188.0,39.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,1,0,36.8,10.5,76.7,1,4.74,13.6,12.9,174.0,no,no,no,42.0,0,normal,no,0,0,437.0
+14.87,16.19,1,177.5,51.0,3,Conservative,absent,no appendicitis,no appendicitis,3.0,2.0,0,1,1,0,0,0,36.0,12.9,67.0,0,5.25,15.3,12.4,252.0,no,no,no,0.0,0,normal,generalized,1,0,366.0
+12.01,28.91,1,160.0,74.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,1,1,1,1,1,0,37.0,7.5,56.3,0,4.91,13.8,13.5,305.0,,,,1.0,0,normal,no,0,0,438.0
+11.81,15.97,0,166.0,44.0,2,Conservative,uncomplicated,appendicitis,appendicitis,8.0,7.0,0,1,1,1,1,0,37.0,15.7,83.7,1,5.2,14.4,12.8,249.0,,,,15.0,0,normal,no,0,0,99.0
+7.74,22.04,0,120.5,32.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,1,1,0,0,0,38.8,9.8,54.5,0,5.1,14.0,12.0,305.0,+,+,++,55.0,0,constipation,no,0,0,439.0
+11.04,20.78,0,152.0,48.0,3,Conservative,absent,no appendicitis,no appendicitis,8.0,8.0,1,1,1,1,1,0,37.0,10.3,79.8,1,5.04,14.6,11.8,270.0,no,+++,no,0.0,0,constipation,no,1,0,368.0
+9.34,19.04,0,137.5,36.0,3,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.0,7.0,53.1,0,4.9,13.6,12.4,190.0,no,no,no,0.0,0,normal,no,1,0,369.0
+14.17,21.28,0,166.5,59.0,4,Conservative,absent,no appendicitis,no appendicitis,3.0,4.0,0,1,1,1,0,0,37.0,5.6,,0,4.29,12.3,11.9,278.0,no,+++,no,0.0,0,normal,no,1,0,370.0
+1.73,17.93,1,83.5,12.5,3,Conservative,absent,no appendicitis,no appendicitis,5.0,5.0,0,1,0,0,1,1,38.8,7.9,57.0,0,4.75,12.1,13.7,310.0,,,,29.0,0,normal,no,0,0,371.0
+10.16,21.02,0,142.2,42.5,2,Conservative,absent,appendicitis,no appendicitis,9.0,6.0,1,1,1,0,1,0,37.4,15.0,72.5,0,4.73,12.5,12.9,318.0,no,no,no,2.0,0,normal,no,0,0,440.0
+8.15,15.68,0,136.0,29.0,4,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,0,38.4,11.0,,0,4.2,10.9,13.5,197.0,+++,no,+++,79.0,0,normal,no,0,0,100.0
+11.4,16.3,0,145.5,34.5,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,37.0,8.2,67.5,0,5.2,14.2,13.0,206.0,+++,no,no,1.0,0,normal,no,0,0,372.0
+10.56,22.81,1,151.0,52.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,0,0,37.2,17.7,,1,4.89,13.1,12.4,360.0,no,+,no,25.0,0,normal,no,0,0,101.0
+15.71,17.7,1,181.0,58.0,4,Conservative,absent,appendicitis,no appendicitis,6.0,7.0,1,1,0,0,1,1,39.5,8.7,72.7,0,5.12,13.8,13.7,204.0,no,no,no,24.0,0,normal,no,1,0,405.0
+13.49,17.15,0,162.0,45.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,0,1,0,1,37.2,13.7,65.0,0,4.78,10.6,14.9,497.0,,,,0.0,1,normal,no,0,0,406.0
+14.52,26.75,1,156.0,65.1,3,Conservative,absent,appendicitis,no appendicitis,,,1,1,0,0,1,1,36.6,11.5,,0,4.34,12.2,13.2,227.0,no,no,no,7.0,1,constipation,local,1,0,255.0
+14.34,21.26,0,149.0,47.2,4,Conservative,absent,no appendicitis,no appendicitis,6.0,6.0,0,1,0,0,1,1,38.9,8.0,83.1,1,5.29,14.8,13.1,197.0,+++,+,no,149.0,0,diarrhea,no,1,0,256.0
+7.21,17.44,0,110.5,21.3,3,Conservative,absent,appendicitis,no appendicitis,6.0,7.0,0,1,1,1,1,1,38.0,7.1,,0,4.96,13.7,14.2,170.0,+,+,no,14.0,0,constipation,no,0,0,407.0
+12.02,20.17,1,145.5,42.7,2,Conservative,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,0,0,1,0,37.4,18.9,85.0,1,4.69,12.6,13.7,307.0,no,no,no,16.0,0,normal,no,0,0,34.0
+12.87,29.94,1,168.5,85.0,5,Conservative,uncomplicated,appendicitis,appendicitis,8.0,6.0,1,1,0,0,1,1,36.0,12.3,77.5,1,4.72,11.8,15.1,311.0,+,no,no,6.0,0,normal,no,0,0,35.0
+7.82,18.66,1,133.0,33.0,4,Conservative,absent,appendicitis,no appendicitis,7.0,7.0,1,1,1,1,0,1,36.2,10.9,50.5,0,4.43,12.4,12.6,382.0,no,no,no,10.0,0,normal,no,1,0,261.0
+10.65,18.11,1,140.0,35.5,3,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,0,1,0,1,0,0,37.8,15.7,67.1,0,4.8,13.9,13.2,292.0,no,no,no,26.0,0,normal,no,1,0,409.0
+14.02,15.82,1,159.0,40.0,3,Conservative,absent,no appendicitis,no appendicitis,2.0,4.0,0,1,0,1,0,0,37.0,8.6,,0,4.61,13.6,12.7,390.0,no,no,no,58.0,0,normal,no,0,0,262.0
+13.94,21.87,0,167.0,61.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,4.0,0,1,1,0,0,0,36.6,17.1,80.5,1,4.59,12.8,12.5,308.0,,,,2.0,0,normal,no,0,0,410.0
+15.53,22.86,0,166.0,63.0,3,Conservative,absent,no appendicitis,no appendicitis,8.0,6.0,0,1,1,0,1,0,38.0,14.2,88.9,1,5.2,14.9,12.9,319.0,no,+,no,3.0,0,normal,no,1,0,263.0
+13.46,14.71,1,169.0,42.0,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,36.5,18.2,89.7,1,4.97,14.5,13.9,267.0,no,no,+++,1.0,0,normal,no,0,0,36.0
+13.49,28.6,1,163.0,76.0,5,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,1,0,0,36.2,9.6,50.4,0,5.01,14.2,13.9,414.0,+,no,no,0.0,0,normal,no,0,0,264.0
+6.67,25.04,0,124.0,38.5,3,Conservative,absent,appendicitis,no appendicitis,9.0,7.0,0,1,1,0,1,1,39.6,16.8,92.4,1,5.27,13.2,13.7,444.0,+,no,no,21.0,0,diarrhea,no,0,1,265.0
+9.58,15.2,1,146.0,32.4,4,Conservative,absent,appendicitis,no appendicitis,4.0,6.0,0,1,0,1,1,1,36.6,8.9,41.6,0,4.74,12.9,13.6,192.0,no,no,no,0.0,0,normal,no,1,0,266.0
+12.9,19.14,0,160.0,49.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,4.0,0,1,0,0,1,0,37.8,11.9,55.2,0,4.91,13.2,13.5,226.0,+,no,no,0.0,0,normal,no,0,0,411.0
+9.51,19.03,1,147.5,41.4,3,Conservative,absent,appendicitis,no appendicitis,9.0,6.0,0,1,1,0,1,1,37.8,12.4,81.1,1,5.0,14.2,12.5,235.0,no,no,no,7.0,0,normal,no,0,0,267.0
+11.96,21.22,0,161.0,55.0,4,Conservative,absent,appendicitis,no appendicitis,8.0,6.0,0,1,0,0,1,1,37.8,11.3,79.7,1,4.95,14.0,12.4,278.0,+++,no,no,2.0,0,normal,no,0,0,412.0
+9.92,15.09,0,144.5,31.5,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,0,0,1,1,37.8,13.4,81.7,1,4.72,13.3,12.5,242.0,,,,14.0,0,normal,no,0,0,37.0
+11.85,22.31,0,164.0,60.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,6.0,1,1,0,1,1,0,37.4,5.4,49.8,0,4.79,13.3,12.2,237.0,no,+,no,1.0,0,diarrhea,no,0,0,38.0
+10.3,18.87,1,149.2,42.0,3,Conservative,uncomplicated,appendicitis,appendicitis,3.0,4.0,0,1,1,1,0,0,37.2,9.1,66.3,0,4.27,11.8,13.2,226.0,,,,13.0,0,normal,no,0,1,39.0
+15.57,16.79,1,176.0,52.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,1,1,1,1,0,0,37.7,8.6,62.7,0,5.37,15.4,12.8,238.0,,,,21.0,0,diarrhea,no,1,0,268.0
+10.34,15.98,1,148.0,35.0,2,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,1,1,37.0,8.2,48.4,0,5.01,14.1,12.5,274.0,+,+,no,0.0,0,constipation,no,0,0,40.0
+9.19,15.43,0,144.0,32.0,3,Conservative,uncomplicated,appendicitis,appendicitis,10.0,9.0,1,1,1,1,1,1,37.8,13.6,79.2,1,4.93,12.8,14.1,302.0,no,+,no,0.0,0,constipation,no,1,1,41.0
+10.72,20.5,1,153.0,48.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,6.0,0,1,1,1,0,0,38.8,11.4,54.0,0,5.23,13.8,13.5,276.0,,,,1.0,0,normal,no,1,0,413.0
+9.86,14.5,1,141.4,29.0,3,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,1,0,0,36.8,4.7,39.5,0,4.44,13.1,12.5,165.0,,,,0.0,0,normal,no,1,0,269.0
+11.27,15.98,0,156.2,39.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,2.0,0,1,0,0,0,0,37.5,8.9,57.7,0,4.87,13.8,12.7,297.0,+++,no,++,27.0,0,normal,no,0,0,42.0
+13.86,23.8,1,160.5,61.3,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,4.0,0,1,1,0,1,0,37.2,10.6,44.1,0,4.58,14.0,11.9,320.0,+++,+,no,0.0,0,normal,no,1,0,270.0
+12.96,16.83,0,168.0,47.5,6,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,1,1,1,1,36.5,8.8,60.6,0,4.87,14.2,13.7,274.0,no,no,no,0.0,0,normal,local,1,0,271.0
+11.38,30.63,0,149.0,68.0,3,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,0,38.4,8.7,43.0,0,4.82,13.3,12.2,255.0,no,no,no,4.0,0,normal,no,0,0,272.0
+10.74,26.98,1,146.0,57.5,4,Conservative,uncomplicated,appendicitis,appendicitis,5.0,3.0,0,1,0,0,0,0,37.3,10.2,74.9,0,5.66,16.1,12.9,277.0,+,no,+,45.0,0,normal,local,0,0,43.0
+13.9,23.8,0,152.0,54.7,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,0,37.3,7.1,51.1,0,4.74,13.5,12.8,217.0,no,no,no,0.0,0,normal,no,0,0,
+5.53,13.0,0,118.0,18.1,4,Conservative,uncomplicated,appendicitis,appendicitis,9.0,10.0,1,1,0,1,1,1,38.5,15.0,87.2,1,4.46,12.2,13.2,441.0,,,,33.0,0,normal,no,0,0,44.0
+11.38,17.33,1,150.0,39.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,0,1,0,1,36.8,15.3,66.7,0,5.33,14.1,14.1,299.0,no,no,no,1.0,0,normal,no,1,0,276.0
+11.84,17.75,1,152.0,41.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,7.0,1,1,0,1,0,0,38.8,11.6,62.2,0,4.92,13.6,13.2,294.0,no,no,no,17.0,0,normal,local,0,0,45.0
+9.26,18.68,1,144.5,39.0,2,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,1,0,36.8,15.1,91.8,1,5.37,14.6,13.3,197.0,,,,5.0,0,normal,no,0,0,46.0
+12.82,16.67,1,149.0,37.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,4.0,0,1,0,0,0,0,37.5,14.8,83.3,1,5.53,12.7,13.5,282.0,+++,no,no,10.0,0,normal,no,0,0,47.0
+12.1,15.74,1,161.0,40.8,3,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,1,1,0,0,0,0,36.8,5.6,59.1,0,4.54,12.5,13.1,272.0,no,no,no,0.0,0,normal,no,0,0,278.0
+11.33,28.17,0,156.5,69.0,5,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,1,0,0,0,0,37.0,10.8,69.0,0,4.63,12.4,13.1,275.0,+,no,+,1.0,0,constipation,no,1,0,414.0
+10.67,19.71,1,137.0,37.0,4,Conservative,absent,appendicitis,no appendicitis,9.0,10.0,1,1,0,1,1,1,38.1,15.5,84.4,1,5.44,13.5,13.2,383.0,+++,no,no,54.0,0,normal,no,0,0,415.0
+17.1,23.42,1,182.5,78.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,4.0,0,1,1,0,1,0,37.0,8.7,77.5,1,4.93,15.0,12.6,261.0,+,no,no,13.0,0,constipation,no,0,0,416.0
+10.19,16.86,0,144.5,35.2,4,Conservative,absent,no appendicitis,no appendicitis,3.0,2.0,0,1,0,0,0,0,37.3,9.1,51.3,0,4.43,12.8,12.5,296.0,no,no,+,0.0,0,normal,no,0,0,280.0
+12.63,22.21,1,163.0,59.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,5.0,0,1,0,1,0,0,37.0,10.6,55.6,0,5.06,14.4,12.6,270.0,no,no,no,1.0,0,normal,no,0,0,417.0
+5.86,17.77,1,115.0,23.5,3,Conservative,absent,appendicitis,no appendicitis,6.0,6.0,0,1,0,0,0,1,38.7,13.9,71.9,0,4.93,13.4,14.6,333.0,no,no,no,39.0,0,normal,no,0,0,48.0
+11.09,16.43,0,147.0,35.5,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,1,1,0,0,1,0,36.4,12.2,77.6,1,4.9,13.1,13.3,347.0,,,,12.0,0,normal,no,0,0,283.0
+10.01,18.94,1,134.0,34.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,5.0,0,1,0,1,0,0,37.3,12.0,71.9,0,4.8,13.1,12.7,241.0,,,,1.0,0,normal,local,0,0,49.0
+12.87,15.15,0,162.5,40.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,4.0,0,1,1,0,0,0,38.6,13.6,84.0,1,5.16,15.5,12.3,259.0,,,,34.0,0,diarrhea,no,0,0,419.0
+6.7,15.84,1,120.5,23.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,4.0,0,1,1,0,0,0,37.5,20.9,80.7,1,4.49,12.1,12.5,382.0,,,,1.0,0,normal,no,0,0,284.0
+14.4,19.6,0,166.0,54.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,1,1,0,0,1,37.5,6.2,62.4,0,5.28,13.9,13.9,316.0,no,no,no,0.0,0,diarrhea,no,1,0,420.0
+5.81,14.69,1,119.0,20.8,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,1,0,37.1,22.8,83.0,1,4.77,13.0,,322.0,no,no,no,0.0,0,normal,local,0,0,50.0
+12.22,20.03,0,154.0,47.5,3,Conservative,absent,appendicitis,no appendicitis,9.0,8.0,1,1,1,1,0,0,38.4,13.0,77.4,1,4.94,13.5,13.4,253.0,+,++,no,2.0,0,normal,no,1,0,421.0
+8.58,18.06,0,170.0,52.2,3,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,36.8,9.1,68.1,0,4.11,12.6,11.6,307.0,+++,++,++,4.0,0,normal,no,0,0,287.0
+5.03,14.52,1,115.0,19.2,2,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,0,0,40.0,13.7,,1,4.79,12.8,14.4,231.0,,,,15.0,0,diarrhea,no,0,0,51.0
+12.06,17.6,0,144.0,36.5,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,5.0,1,1,0,0,0,0,38.0,10.7,72.7,0,4.34,12.5,12.0,219.0,+,no,no,29.0,0,normal,no,0,0,422.0
+6.38,13.89,0,120.0,20.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,4.0,0,1,0,0,0,0,37.8,18.7,78.1,1,4.75,13.4,11.5,436.0,++,no,+,3.0,0,normal,no,0,0,423.0
+15.32,21.93,0,154.0,52.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,0,1,0,0,36.8,10.1,78.6,1,5.01,13.6,12.7,361.0,no,no,no,0.0,0,normal,no,0,0,291.0
+5.33,15.04,1,121.5,22.2,2,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,0,0,0,1,1,36.3,3.5,,0,5.26,14.4,12.8,277.0,+++,no,no,11.0,0,normal,no,0,0,292.0
+14.1,18.82,1,163.0,50.0,3,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,7.0,56.1,0,4.81,13.3,13.9,234.0,no,no,no,1.0,1,normal,no,0,0,293.0
+11.42,21.93,0,151.0,50.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,5.0,0,1,0,1,1,0,36.9,7.9,43.3,0,4.67,13.9,12.6,314.0,no,no,no,0.0,0,normal,no,0,0,424.0
+10.24,14.65,1,134.5,26.5,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,1,1,0,0,0,1,37.2,6.9,66.1,0,5.03,14.3,13.4,204.0,no,no,no,7.0,0,normal,no,0,0,294.0
+11.05,25.63,0,146.5,55.0,5,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,1,1,0,0,1,0,37.0,8.5,42.8,0,4.37,11.9,12.1,345.0,no,no,no,1.0,0,normal,no,1,0,297.0
+11.62,25.96,1,150.0,58.4,3,Conservative,absent,no appendicitis,no appendicitis,2.0,4.0,0,1,0,1,0,0,37.0,7.0,,0,4.56,12.2,12.5,361.0,no,no,no,3.0,0,normal,no,0,0,298.0
+14.2,16.16,1,165.0,44.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,36.6,5.1,44.9,0,4.95,13.2,12.7,289.0,no,no,no,0.0,0,normal,no,0,0,300.0
+10.1,17.71,1,136.5,33.0,2,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,0,36.7,13.1,62.6,0,5.09,14.3,12.2,254.0,no,no,no,0.0,0,normal,no,0,0,301.0
+13.82,27.11,0,150.0,61.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,6.0,0,1,1,1,1,1,36.8,7.7,61.5,0,4.19,11.6,13.0,279.0,no,no,+,7.0,0,constipation,no,0,0,52.0
+11.27,15.48,0,146.0,33.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,36.6,7.7,56.1,0,5.14,14.6,11.7,389.0,no,no,no,0.0,0,normal,no,0,0,302.0
+9.97,16.61,0,127.5,27.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,1,1,0,0,0,37.0,12.3,47.3,0,5.03,13.7,12.4,152.0,no,+,+++,0.0,1,normal,no,0,0,425.0
+12.63,21.25,1,181.5,70.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,3.0,0,1,0,0,0,0,37.0,11.2,72.9,0,5.34,15.2,12.6,315.0,no,no,no,1.0,0,normal,no,0,0,305.0
+9.43,15.95,0,146.0,34.0,2,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,37.2,8.0,46.9,0,4.31,13.9,12.0,233.0,no,no,no,0.0,0,constipation,no,0,0,306.0
+12.93,23.62,1,159.5,60.1,3,Conservative,uncomplicated,appendicitis,appendicitis,10.0,9.0,1,1,1,1,1,1,37.4,11.3,84.2,1,5.18,15.1,12.8,298.0,+++,+,no,7.0,0,diarrhea,no,1,0,54.0
+8.87,14.59,1,134.5,26.4,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,1,1,0,0,1,1,37.9,5.0,70.1,0,5.09,14.7,12.4,182.0,no,no,no,15.0,0,normal,no,0,0,426.0
+4.15,15.13,0,106.0,17.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,4.0,0,1,0,0,0,0,37.5,17.9,84.0,1,4.63,12.3,13.4,288.0,no,no,no,2.0,1,normal,no,0,0,427.0
+14.6,23.19,1,154.0,55.0,3,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,0,1,0,37.0,6.2,41.2,0,4.81,12.9,14.9,151.0,no,no,no,0.0,0,normal,no,1,0,307.0
+5.34,15.66,1,113.0,20.0,2,Conservative,absent,appendicitis,no appendicitis,5.0,6.0,0,1,0,1,0,0,38.0,10.4,,0,4.71,14.1,13.3,310.0,++,no,no,3.0,0,normal,no,0,0,428.0
+15.81,22.81,0,152.0,52.7,3,Conservative,absent,appendicitis,no appendicitis,7.0,7.0,1,1,1,1,1,0,36.8,11.3,,0,4.88,13.5,12.5,442.0,no,no,no,1.0,0,diarrhea,no,1,0,308.0
+10.72,13.45,0,143.0,27.5,4,Conservative,absent,appendicitis,no appendicitis,3.0,5.0,1,1,0,1,0,0,37.2,9.2,,0,4.48,12.3,12.2,365.0,no,no,no,0.0,0,normal,no,0,0,309.0
+14.52,16.79,1,181.0,55.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,1,1,0,0,1,0,37.0,9.0,57.3,0,4.9,14.5,12.1,193.0,no,no,no,0.0,0,diarrhea,no,0,0,310.0
+8.97,16.11,0,125.3,25.3,3,Conservative,absent,appendicitis,no appendicitis,7.0,5.0,0,1,0,0,0,0,38.8,13.9,84.5,1,4.47,12.7,13.2,229.0,+++,no,no,13.0,0,constipation,no,0,0,55.0
+10.9,22.07,0,150.5,50.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,1,1,0,0,0,0,36.8,10.2,63.4,0,4.82,13.4,12.7,332.0,no,no,no,0.0,0,constipation,no,0,0,56.0
+16.33,24.06,1,173.0,72.0,2,Conservative,absent,no appendicitis,no appendicitis,4.0,3.0,0,1,1,0,1,0,36.2,4.5,41.2,0,4.74,15.1,12.5,128.0,no,no,no,0.0,0,diarrhea,no,1,0,312.0
+12.92,19.14,0,164.5,51.8,3,Conservative,uncomplicated,appendicitis,appendicitis,3.0,5.0,0,1,0,1,0,1,37.2,6.4,38.7,0,4.61,13.8,12.4,245.0,no,no,no,0.0,0,normal,no,0,0,57.0
+15.75,30.73,0,170.0,88.8,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,0,0,1,0,36.8,14.7,70.2,0,4.96,13.2,13.0,331.0,no,+,+,1.0,0,normal,no,0,0,429.0
+6.18,14.86,1,116.0,20.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,1,0,38.9,17.5,85.5,1,4.6,12.5,13.5,349.0,no,no,no,50.0,0,normal,local,0,0,430.0
+14.97,20.57,0,165.0,56.0,3,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,1,1,0,0,0,0,37.1,8.2,56.0,0,4.72,14.2,11.8,283.0,no,no,no,0.0,1,normal,no,0,0,313.0
+3.37,14.19,1,94.6,12.7,3,Conservative,absent,no appendicitis,no appendicitis,7.0,5.0,0,1,0,0,0,0,38.5,14.8,79.0,1,4.4,12.1,12.4,329.0,++,no,no,6.0,0,normal,no,0,0,314.0
+12.96,19.23,1,146.0,41.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,1,0,37.2,16.2,87.6,1,4.82,13.0,11.8,387.0,,,,38.0,0,normal,no,0,0,58.0
+11.45,19.84,0,146.2,42.4,4,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,0,1,0,37.2,8.2,55.3,0,5.35,14.8,12.1,356.0,no,no,no,0.0,0,normal,no,0,0,315.0
+4.77,14.06,0,108.0,16.4,3,Conservative,absent,appendicitis,no appendicitis,7.0,5.0,0,1,0,0,0,0,39.0,28.2,76.0,1,4.74,12.8,13.7,385.0,+++,++,no,12.0,0,normal,no,0,0,374.0
+10.54,15.99,1,133.5,28.5,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,37.2,6.6,55.3,0,4.41,12.3,12.8,239.0,no,no,no,13.0,0,normal,no,0,0,3.0
+10.43,16.19,1,146.0,34.5,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,1,0,0,0,0,37.0,12.4,57.9,0,5.04,14.4,12.6,365.0,no,no,no,6.0,0,normal,local,0,0,4.0
+12.53,16.49,1,159.0,41.7,6,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,1,0,38.7,13.3,,0,4.56,12.7,13.0,281.0,+,+,no,76.0,0,normal,no,0,0,1.0
+9.11,23.98,0,138.5,46.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,0,37.8,7.1,49.6,0,5.42,14.3,13.1,401.0,no,+,++,6.0,0,diarrhea,no,1,0,375.0
+0.85,18.49,1,143.0,37.8,3,Conservative,absent,appendicitis,no appendicitis,8.0,7.0,1,1,0,0,0,1,38.8,11.1,87.9,1,4.91,14.0,13.0,273.0,no,no,no,11.0,0,normal,no,0,0,376.0
+16.16,21.23,0,158.0,53.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,0,1,0,0,1,1,37.2,8.9,75.0,1,4.84,13.2,13.0,205.0,+++,no,no,81.0,0,normal,no,0,0,210.0
+13.27,20.45,0,164.0,55.0,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.2,4.2,50.6,0,4.95,14.3,13.1,221.0,no,no,no,2.0,0,constipation,no,1,0,5.0
+17.37,22.64,0,153.0,53.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,1,0,36.2,19.8,83.3,1,4.72,14.4,12.8,305.0,no,+++,+,44.0,0,normal,no,1,0,377.0
+12.89,23.86,1,146.2,51.0,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,1,0,0,1,37.8,8.6,54.9,0,5.96,12.9,14.8,350.0,no,no,no,60.0,0,constipation,no,0,1,211.0
+9.39,14.92,0,128.4,24.6,4,Conservative,absent,no appendicitis,no appendicitis,5.0,4.0,1,1,0,0,0,0,37.9,6.0,53.5,0,5.16,14.5,12.5,283.0,+,no,++,0.0,0,normal,no,1,0,212.0
+7.4,15.2,1,123.0,23.0,2,Conservative,uncomplicated,appendicitis,appendicitis,9.0,7.0,1,1,1,0,0,1,38.0,15.0,84.5,1,4.9,13.7,12.6,197.0,,,,6.0,0,constipation,no,0,0,6.0
+12.59,16.94,1,147.8,37.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,5.0,1,1,0,0,1,0,39.0,6.0,,0,4.75,14.0,12.3,320.0,no,no,no,15.0,0,diarrhea,no,0,0,378.0
+6.79,14.2,1,130.0,24.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,3.0,1,1,0,0,0,0,37.2,6.3,49.2,0,5.38,14.7,13.0,251.0,+,no,no,0.0,0,normal,no,0,0,213.0
+13.22,23.6,0,171.0,69.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,1,1,0,0,0,0,36.2,6.7,52.7,0,4.92,14.2,12.3,406.0,no,no,no,3.0,1,diarrhea,no,1,0,7.0
+11.44,17.94,1,153.0,42.0,4,Conservative,uncomplicated,appendicitis,appendicitis,6.0,7.0,1,1,0,1,0,0,37.8,13.4,58.6,0,4.81,14.0,12.8,381.0,no,no,no,18.0,1,diarrhea,no,1,0,9.0
+10.25,16.8,1,160.0,43.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,1,0,39.0,4.6,83.0,1,4.0,11.9,12.6,146.0,+++,no,no,6.0,0,diarrhea,no,1,0,379.0
+9.71,32.37,0,135.0,59.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,3.0,0,1,0,0,0,0,37.0,11.1,43.5,0,4.75,13.7,12.2,283.0,,,,2.0,0,normal,no,1,0,216.0
+15.12,23.6,0,160.5,60.8,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,6.0,1,1,1,0,1,0,38.7,13.0,,0,4.63,13.5,13.5,274.0,no,no,no,19.0,0,diarrhea,no,0,0,10.0
+7.24,13.95,1,136.5,26.0,4,Conservative,absent,no appendicitis,no appendicitis,5.0,4.0,0,1,0,0,0,0,38.2,11.4,,0,4.96,14.1,12.6,303.0,no,no,no,17.0,0,normal,no,0,0,217.0
+14.86,24.62,1,178.0,78.0,3,Conservative,absent,appendicitis,no appendicitis,9.0,7.0,0,1,1,0,1,1,39.5,11.0,80.9,1,4.63,13.1,13.5,239.0,,,,87.0,0,normal,no,0,0,380.0
+12.19,23.81,0,169.0,68.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,0,39.0,7.1,50.7,0,4.98,13.1,13.8,377.0,no,+,no,0.0,0,normal,no,0,0,218.0
+11.69,19.27,1,154.0,45.7,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,0,0,38.7,12.0,84.0,1,4.92,13.5,13.1,201.0,,,,47.0,0,diarrhea,no,0,0,12.0
+9.56,15.94,0,133.7,28.5,3,Conservative,absent,appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,37.2,9.4,40.0,0,4.75,13.5,12.6,285.0,no,no,no,0.0,0,constipation,no,0,0,13.0
+9.9,14.4,1,146.0,30.7,2,Conservative,absent,appendicitis,no appendicitis,7.0,4.0,0,1,0,0,0,0,37.9,17.1,86.7,1,5.01,13.9,12.6,255.0,+++,no,no,15.0,0,constipation,local,0,0,381.0
+15.59,19.05,0,173.0,57.0,3,Conservative,absent,appendicitis,no appendicitis,8.0,6.0,1,1,1,0,1,0,38.5,7.6,84.0,1,4.75,13.9,13.1,151.0,+++,+++,no,24.0,0,constipation,no,1,1,382.0
+16.76,25.06,0,149.5,56.0,4,Conservative,absent,no appendicitis,no appendicitis,3.0,4.0,0,1,1,1,0,0,36.8,9.8,63.0,0,4.42,13.3,12.7,262.0,no,+,no,39.0,0,normal,no,0,0,219.0
+15.29,21.97,0,167.6,61.7,3,Conservative,absent,appendicitis,no appendicitis,4.0,6.0,0,1,0,1,1,1,36.8,5.7,61.5,0,5.19,12.8,14.2,249.0,no,no,no,0.0,0,normal,local,0,0,383.0
+9.46,14.22,1,136.0,26.3,4,Conservative,uncomplicated,appendicitis,appendicitis,4.0,2.0,0,0,0,0,1,0,37.8,7.3,79.1,1,4.59,12.2,13.1,308.0,+++,+,no,1.0,0,diarrhea,no,0,0,14.0
+15.63,19.34,1,185.0,66.2,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,0,0,39.9,15.3,88.5,1,5.48,16.3,11.9,368.0,+++,no,no,80.0,0,normal,no,0,0,223.0
+14.48,22.66,0,165.0,61.7,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,6.0,1,1,0,1,1,0,37.2,9.0,57.3,0,4.54,12.7,12.9,264.0,no,no,no,0.0,0,diarrhea,no,1,0,15.0
+15.35,15.62,1,164.0,42.0,4,Conservative,uncomplicated,appendicitis,appendicitis,5.0,3.0,0,1,0,0,0,0,36.8,10.1,65.4,0,5.2,14.9,12.9,221.0,++,no,no,42.0,0,normal,no,0,0,16.0
+15.66,19.71,1,183.0,66.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,0,37.1,15.9,76.5,1,5.34,16.3,12.3,265.0,,,,0.0,0,normal,no,0,0,17.0
+13.94,16.0,1,142.5,32.5,3,Conservative,absent,no appendicitis,no appendicitis,3.0,2.0,0,1,1,0,0,0,37.1,7.4,49.1,0,5.37,13.9,12.8,246.0,no,no,no,,0,normal,no,1,0,224.0
+17.08,28.09,0,164.5,76.0,2,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,0,0,0,1,0,36.2,12.3,55.9,0,4.85,14.9,12.9,296.0,no,no,no,1.0,0,normal,no,0,0,225.0
+11.39,16.85,1,149.0,37.4,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,1,0,38.1,18.4,86.9,1,5.16,14.4,13.2,418.0,no,no,no,2.0,0,constipation,no,0,0,385.0
+12.56,21.77,1,148.5,48.0,3,Conservative,absent,appendicitis,no appendicitis,5.0,4.0,0,1,0,0,1,0,37.4,7.9,76.7,1,5.64,13.3,13.7,316.0,no,no,no,3.0,0,diarrhea,local,0,0,386.0
+5.18,13.31,1,113.0,17.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,1,0,38.8,9.5,83.1,1,4.82,13.3,13.3,366.0,+++,+,no,6.0,0,constipation,local,0,0,387.0
+14.99,17.92,0,164.0,48.2,2,Conservative,absent,appendicitis,no appendicitis,5.0,3.0,0,1,0,0,1,0,37.5,8.8,72.8,0,4.1,13.1,11.8,204.0,,,,0.0,0,normal,no,1,1,388.0
+12.17,22.2,0,145.5,47.0,4,Conservative,absent,no appendicitis,no appendicitis,6.0,5.0,0,1,1,0,1,1,38.2,7.5,57.7,0,5.14,14.3,12.9,366.0,++,no,no,13.0,0,normal,no,1,0,227.0
+12.39,16.34,0,158.4,41.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,1,1,0,0,37.0,13.1,71.0,0,4.6,13.1,12.7,222.0,+++,no,no,14.0,0,normal,no,0,0,18.0
+11.0,22.46,0,156.5,55.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,3.0,0,1,1,0,1,0,37.0,7.8,36.1,0,5.02,14.1,12.8,291.0,no,+,no,0.0,0,diarrhea,no,0,1,228.0
+12.19,18.59,1,159.0,47.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,3.0,0,1,1,0,0,0,37.0,11.7,67.2,0,5.08,14.6,12.7,284.0,no,no,no,2.0,0,constipation,local,1,0,19.0
+11.33,19.04,0,151.5,43.7,3,Conservative,absent,no appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,36.0,6.9,56.4,0,4.54,13.0,12.6,310.0,,,,0.0,0,normal,no,0,0,229.0
+11.11,23.12,1,158.4,58.0,4,Conservative,absent,appendicitis,no appendicitis,6.0,6.0,1,1,0,0,1,1,38.6,8.6,73.7,0,4.78,12.5,14.5,186.0,+++,no,no,106.0,0,constipation,local,0,0,390.0
+6.28,14.98,1,132.0,26.1,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,0,38.2,7.9,70.0,0,4.87,12.8,13.8,219.0,no,no,no,38.0,0,normal,no,0,0,20.0
+17.45,17.18,1,174.0,52.0,2,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,7.5,44.8,0,5.03,14.8,13.5,316.0,no,+,no,0.0,0,normal,no,0,0,232.0
+11.27,15.19,0,152.0,35.1,3,Conservative,absent,appendicitis,no appendicitis,6.0,7.0,0,1,1,1,1,0,38.0,8.7,64.8,0,,,,,no,no,no,9.0,0,normal,no,0,0,233.0
+8.47,16.04,1,129.5,26.9,3,Conservative,absent,appendicitis,no appendicitis,6.0,6.0,1,1,0,0,1,1,38.1,6.7,35.1,0,5.1,14.5,12.7,399.0,no,no,no,0.0,0,normal,no,0,0,392.0
+14.25,22.43,1,158.0,56.0,3,Conservative,uncomplicated,appendicitis,appendicitis,5.0,5.0,0,1,0,0,1,1,36.8,8.9,86.4,1,4.56,13.2,13.8,210.0,+,no,no,4.0,0,diarrhea,no,0,0,21.0
+12.2,16.91,1,149.5,37.8,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,1,1,36.3,10.2,79.1,1,4.67,13.6,12.5,304.0,no,no,no,1.0,0,normal,no,0,0,393.0
+13.47,18.53,0,168.0,52.3,7,Conservative,absent,appendicitis,no appendicitis,6.0,7.0,1,1,1,1,1,1,37.0,7.0,43.4,0,4.33,13.0,12.7,200.0,no,no,no,0.0,0,constipation,no,1,0,394.0
+9.58,19.02,1,145.0,40.0,3,Conservative,absent,no appendicitis,no appendicitis,3.0,2.0,0,1,0,0,0,0,37.6,8.5,58.5,0,4.43,12.2,13.1,223.0,,,,5.0,0,normal,local,0,0,235.0
+8.58,18.8,1,138.0,35.8,3,Conservative,absent,appendicitis,no appendicitis,3.0,2.0,0,1,0,0,0,0,37.4,6.3,44.4,0,5.23,14.0,12.9,331.0,no,no,no,0.0,1,normal,no,0,0,25.0
+11.48,17.35,1,141.0,34.5,3,Conservative,uncomplicated,appendicitis,appendicitis,8.0,8.0,1,1,1,1,1,0,39.0,17.7,70.7,0,5.24,14.8,12.8,297.0,,,,0.0,0,normal,no,1,0,26.0
+16.78,18.63,0,158.0,46.5,3,Conservative,absent,no appendicitis,no appendicitis,3.0,4.0,0,1,0,0,0,0,37.7,8.0,53.5,0,4.76,14.3,12.2,238.0,no,no,no,0.0,0,normal,no,0,0,236.0
+15.13,21.78,1,156.0,53.0,3,Conservative,absent,appendicitis,no appendicitis,3.0,3.0,0,1,0,0,0,1,36.0,7.8,50.3,0,5.06,15.5,13.1,199.0,no,no,no,0.0,0,diarrhea,local,0,0,27.0
+7.1,15.28,1,120.0,22.0,2,Conservative,absent,no appendicitis,no appendicitis,4.0,3.0,0,0,0,0,1,0,37.1,13.0,86.1,1,4.78,13.4,12.4,410.0,no,no,no,8.0,0,normal,no,0,0,237.0
+13.56,28.6,0,157.0,70.5,2,Conservative,absent,no appendicitis,no appendicitis,2.0,1.0,0,0,0,0,0,0,37.2,15.0,68.9,0,5.02,14.2,14.1,420.0,no,no,no,46.0,0,normal,no,0,0,241.0
+5.0,16.02,0,106.0,18.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,0,0,38.4,18.0,83.2,1,3.96,11.5,12.4,274.0,no,+,+,7.0,0,normal,no,0,0,395.0
+12.71,15.11,0,156.5,37.0,1,Conservative,absent,no appendicitis,no appendicitis,5.0,3.0,0,1,0,0,0,0,37.2,11.9,67.8,0,4.29,12.9,12.4,258.0,+++,,no,1.0,0,diarrhea,no,0,0,396.0
+11.04,17.36,0,161.0,45.0,3,Conservative,absent,appendicitis,no appendicitis,8.0,5.0,1,1,1,0,1,0,37.0,10.9,81.6,1,4.93,14.6,12.5,291.0,+,no,no,1.0,0,normal,no,0,0,397.0
+15.21,35.38,0,155.0,85.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,8.0,1,1,0,1,1,1,36.8,12.4,68.4,0,4.62,12.8,13.8,542.0,no,+,no,7.0,0,normal,no,1,0,28.0
+11.37,12.55,0,140.0,24.6,4,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,0,1,38.3,15.5,81.1,1,5.19,14.3,12.6,305.0,+,no,no,74.0,0,constipation,no,0,0,398.0
+12.44,22.39,0,171.7,66.0,3,Conservative,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,1,0,37.2,10.6,68.2,0,4.87,14.1,12.9,290.0,,,,2.0,0,normal,no,1,0,29.0
+15.71,19.84,0,168.0,56.0,4,Conservative,uncomplicated,appendicitis,appendicitis,6.0,7.0,1,1,1,1,1,1,37.0,9.2,70.2,0,5.1,14.4,14.2,238.0,no,no,+,1.0,0,normal,no,1,0,30.0
+15.28,20.45,1,181.0,67.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,1,0,0,1,1,36.8,6.2,62.0,0,5.13,14.5,14.3,188.0,no,no,no,13.0,0,normal,no,0,0,242.0
+16.19,19.53,0,160.0,50.0,3,Conservative,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,1,0,37.2,11.6,76.7,1,4.06,11.5,12.9,168.0,no,no,no,0.0,0,normal,no,0,0,31.0
+14.49,30.44,0,168.0,85.9,5,Conservative,absent,no appendicitis,no appendicitis,4.0,3.0,0,1,1,0,1,0,37.0,6.5,47.8,0,4.51,13.1,14.0,221.0,no,no,no,0.0,0,normal,no,0,0,245.0
+15.72,19.96,0,166.0,55.0,2,Conservative,absent,no appendicitis,no appendicitis,2.0,1.0,0,0,0,0,0,0,37.0,17.3,50.2,0,4.19,12.3,11.9,317.0,no,no,no,0.0,1,normal,no,0,0,246.0
+13.52,18.96,0,164.0,51.0,3,Conservative,absent,no appendicitis,no appendicitis,4.0,4.0,0,0,0,0,1,0,36.8,11.1,84.1,1,4.66,12.4,14.1,287.0,no,no,no,0.0,0,normal,no,0,0,247.0
+9.76,14.18,1,141.5,28.4,3,Conservative,uncomplicated,appendicitis,appendicitis,4.0,4.0,1,1,0,0,0,1,36.0,6.9,43.5,0,4.94,13.9,12.2,226.0,no,no,no,0.0,0,normal,no,1,0,32.0
+11.26,23.0,0,161.5,60.0,3,Conservative,uncomplicated,appendicitis,appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,6.4,45.3,0,5.19,14.6,13.5,244.0,,,,44.0,0,normal,no,1,0,249.0
+12.43,19.38,1,170.0,56.0,3,Conservative,absent,appendicitis,no appendicitis,8.0,6.0,0,1,0,0,1,0,39.0,15.0,83.6,1,4.7,13.5,12.9,248.0,++,+,no,23.0,0,normal,local,0,0,401.0
+7.45,12.39,1,146.0,26.4,3,Conservative,absent,appendicitis,no appendicitis,7.0,6.0,0,1,0,0,1,0,38.1,17.5,83.0,1,4.62,12.7,12.1,346.0,no,+,no,8.0,0,normal,no,0,0,402.0
+13.96,27.78,0,166.5,77.0,3,Conservative,absent,appendicitis,no appendicitis,4.0,5.0,0,1,1,1,1,0,36.8,8.7,49.0,0,4.35,12.9,12.4,233.0,no,no,no,0.0,0,normal,no,0,0,403.0
+12.61,28.06,1,172.0,83.0,3,Conservative,absent,no appendicitis,no appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,5.1,61.4,0,5.43,15.4,12.0,207.0,no,no,no,0.0,0,normal,no,0,0,250.0
+17.46,23.1,0,162.5,61.0,3,Conservative,absent,appendicitis,no appendicitis,7.0,7.0,0,1,0,1,1,0,36.8,13.1,80.8,1,4.9,13.5,13.9,276.0,+++,no,+++,5.0,0,normal,no,0,0,404.0
+12.51,18.59,1,148.5,41.0,3,Conservative,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,0,38.0,10.9,80.0,1,4.83,13.9,12.1,207.0,,,,8.0,0,diarrhea,no,0,0,33.0
+11.22,22.67,1,148.5,50.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,38.5,14.7,83.8,1,5.11,13.6,13.9,297.0,,,,132.0,0,constipation,local,0,0,503.0
+9.89,21.08,1,154.0,50.0,7,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,4.0,1,1,1,0,0,0,37.0,13.5,68.4,0,4.43,12.8,12.0,237.0,no,no,no,1.0,0,constipation,local,1,0,505.0
+13.83,17.3,0,170.0,50.0,5,Primary Surgical,uncomplicated,chronische Appendizitis,appendicitis,3.0,2.0,0,1,1,0,0,0,37.1,5.5,57.0,0,4.16,12.6,12.2,336.0,no,+++,no,1.0,0,normal,generalized,1,0,507.0
+9.32,14.92,1,132.0,26.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,1,1,36.5,18.6,88.3,1,4.24,12.2,12.4,283.0,+++,no,no,7.0,0,normal,no,0,0,510.0
+14.79,17.37,1,154.0,41.2,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,3.0,1,1,1,0,0,0,36.3,5.0,50.3,0,5.19,13.7,14.0,286.0,no,no,no,32.0,1,constipation,no,1,0,511.0
+5.72,14.36,0,118.0,20.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,1,0,0,1,39.1,7.7,70.0,0,4.51,12.2,12.9,221.0,++,+,no,3.0,0,,no,0,0,512.0
+8.13,18.51,0,123.0,28.0,9,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,1,1,38.0,8.1,81.7,1,5.31,14.4,13.0,215.0,+++,+++,++,43.0,0,,no,0,0,515.0
+13.16,15.94,0,168.0,45.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,6.0,0,1,0,1,0,1,36.7,12.7,65.4,0,4.78,12.4,13.7,357.0,no,+,no,15.0,0,normal,no,1,0,516.0
+6.49,16.24,1,119.0,23.0,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,7.0,0,1,1,1,0,1,38.9,9.3,77.8,1,4.92,13.4,12.7,187.0,++,no,no,39.0,0,normal,no,1,0,517.0
+11.24,21.49,1,151.0,49.0,8,Primary Surgical,complicated,appendicitis,appendicitis,10.0,9.0,1,1,1,1,1,1,37.8,24.3,80.3,1,4.57,13.2,11.7,355.0,+++,+++,no,38.0,0,normal,no,0,0,518.0
+14.36,18.82,1,163.0,50.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,10.0,7.0,1,1,1,0,1,1,37.5,14.3,80.4,1,4.84,14.0,12.7,271.0,+,+,no,41.0,0,constipation,local,1,0,520.0
+12.66,17.6,1,145.0,37.0,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,1,0,1,1,36.3,16.3,92.1,1,5.01,14.0,13.1,259.0,+++,+++,no,100.0,0,normal,no,0,0,522.0
+10.32,14.66,0,130.6,25.0,6,Primary Surgical,uncomplicated,chronische Appendizitis,appendicitis,5.0,3.0,0,1,1,0,0,1,37.5,4.4,38.6,0,4.79,13.2,12.8,253.0,no,no,no,1.0,0,normal,no,0,1,525.0
+16.25,31.38,0,174.0,95.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,1,1,35.8,15.2,64.3,0,5.07,14.0,13.0,347.0,+,+++,+,84.0,0,normal,no,0,0,527.0
+13.02,19.33,1,164.0,52.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,38.3,17.2,89.6,1,5.09,13.9,12.5,330.0,,,,20.0,0,normal,generalized,1,0,528.0
+12.97,17.8,1,148.0,39.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,1,1,37.2,10.1,73.5,0,5.4,15.1,12.5,308.0,+++,no,no,26.0,0,normal,no,1,0,529.0
+9.25,18.81,1,144.0,39.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,1,1,36.8,16.4,92.2,1,4.54,12.9,12.7,277.0,no,no,no,3.0,0,,local,1,0,531.0
+6.64,15.37,1,121.0,22.5,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,1,1,1,0,1,1,38.8,14.0,77.1,1,4.52,11.7,13.0,187.0,+,no,no,33.0,1,normal,no,0,0,532.0
+12.52,15.65,1,143.0,32.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,0,1,36.4,13.2,85.5,1,4.99,14.7,12.8,255.0,+++,no,no,1.0,0,constipation,local,0,0,533.0
+11.96,21.88,0,160.0,56.0,1,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,6.0,0,1,1,0,1,1,37.7,19.9,84.3,1,4.56,12.3,13.0,323.0,+,no,no,62.0,0,diarrhea,local,0,0,534.0
+4.3,14.51,0,105.0,16.0,6,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,1,0,1,1,38.0,8.1,77.3,1,5.94,15.6,12.9,222.0,,,,205.0,0,constipation,generalized,0,0,535.0
+11.42,14.54,1,140.0,28.5,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,1,1,35.9,25.3,84.2,1,4.84,13.9,12.1,296.0,+,no,+,0.0,0,diarrhea,local,0,0,536.0
+12.59,15.62,0,164.0,42.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,5.0,0,1,1,0,0,1,37.8,20.4,84.7,1,4.57,13.3,11.7,278.0,,,,8.0,1,diarrhea,no,1,0,537.0
+13.72,18.19,0,177.0,57.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,8.0,0,1,1,1,0,1,38.7,15.7,80.4,1,3.85,11.7,12.4,234.0,++,no,+++,10.0,0,normal,no,0,0,538.0
+3.96,16.0,0,100.0,16.0,3,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,9.0,0,1,0,1,1,1,39.2,26.6,85.0,1,4.2,11.6,13.7,349.0,+,no,+,39.0,0,normal,generalized,0,0,539.0
+7.44,15.09,0,130.0,25.5,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,38.3,17.8,87.3,1,4.44,12.3,11.6,288.0,+++,no,no,108.0,0,constipation,no,0,0,540.0
+11.24,16.89,0,150.0,38.0,9,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,9.0,0,1,1,1,1,1,38.1,10.7,85.7,1,4.82,13.5,12.6,272.0,+,no,no,2.0,0,,no,0,0,545.0
+10.46,14.7,1,133.0,26.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,9.0,1,1,1,0,1,1,36.7,14.3,91.5,1,4.85,13.0,12.9,328.0,+++,no,no,4.0,0,normal,no,0,0,546.0
+12.83,16.02,1,158.0,40.0,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,0,1,38.2,10.2,86.2,1,4.58,12.0,12.9,446.0,no,+++,no,80.0,0,normal,generalized,1,0,548.0
+2.6,14.88,1,97.0,14.0,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,5.0,0,1,0,0,1,1,37.3,8.2,61.0,0,4.35,9.7,16.1,221.0,+,+,no,64.0,0,normal,no,0,0,550.0
+15.68,19.6,0,166.0,54.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,7.0,1,1,1,0,1,1,36.3,14.9,86.1,1,4.45,11.6,13.6,236.0,no,no,no,1.0,1,diarrhea,no,0,0,551.0
+10.71,18.74,1,147.0,40.5,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,36.7,19.8,91.3,1,4.77,13.9,12.4,357.0,+++,+,no,3.0,0,normal,no,0,0,553.0
+10.79,29.98,0,178.0,95.0,6,Primary Surgical,complicated,appendicitis,appendicitis,10.0,7.0,1,1,1,0,1,1,37.4,25.8,97.7,1,4.66,13.2,12.7,335.0,+,+,no,51.0,0,normal,no,0,0,554.0
+15.0,19.62,1,182.0,65.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,1,1,1,0,1,1,37.0,10.3,74.7,0,4.94,15.2,12.6,190.0,+,no,no,15.0,1,diarrhea,no,0,0,555.0
+15.57,18.21,1,183.0,61.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,1,1,36.8,13.6,87.4,1,5.06,15.4,12.0,234.0,+++,no,no,5.0,0,normal,no,1,0,556.0
+8.88,14.03,0,133.5,25.0,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,8.0,1,1,1,1,1,1,36.3,9.2,88.0,1,4.89,13.8,12.5,261.0,,,,47.0,0,normal,generalized,0,0,558.0
+11.55,14.43,1,143.0,29.5,19,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,0,1,1,0,1,1,38.3,18.6,80.0,1,4.46,12.2,12.7,234.0,+++,no,no,160.0,0,diarrhea,no,0,0,560.0
+9.25,15.23,1,138.0,29.0,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,0,1,0,0,1,0,37.5,23.8,79.2,1,4.91,13.7,79.2,353.0,no,no,no,353.0,0,normal,no,0,0,563.0
+5.48,15.34,1,117.0,21.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,9.0,0,1,1,1,1,1,38.7,15.1,88.9,1,4.82,13.4,12.7,288.0,+++,+,no,85.0,0,normal,generalized,0,1,564.0
+9.45,20.27,0,149.0,45.0,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,0,0,1,1,37.4,17.7,85.6,1,4.88,13.4,12.9,240.0,++,no,no,23.0,0,normal,no,0,0,566.0
+16.9,33.08,0,173.0,99.0,21,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,1,1,36.9,26.4,83.6,1,4.59,14.2,12.6,237.0,+++,no,no,193.0,0,normal,local,1,0,567.0
+12.32,16.02,1,154.0,37.8,12,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,1,1,0,0,1,1,37.6,15.7,83.3,1,4.8,13.9,12.3,306.0,+++,no,no,306.0,0,normal,no,1,0,568.0
+6.64,12.82,1,128.0,21.0,14,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,0,1,1,0,1,1,38.7,17.9,94.2,1,4.91,14.0,12.5,295.0,+++,no,no,122.0,0,normal,no,1,0,569.0
+12.5,14.91,1,151.0,34.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,5.0,0,1,1,0,1,1,37.4,14.2,78.9,1,4.85,12.9,13.2,368.0,+,no,no,0.0,0,normal,no,0,0,570.0
+17.43,8.95,0,129.0,29.0,4,Primary Surgical,complicated,appendicitis,appendicitis,8.0,8.0,0,1,1,0,1,1,37.0,19.4,92.9,1,4.74,13.4,12.0,261.0,+,no,++,24.0,0,normal,no,0,0,571.0
+11.2,16.67,0,149.0,37.0,6,Primary Surgical,complicated,appendicitis,appendicitis,9.0,9.0,0,1,1,1,1,1,37.2,25.2,,1,4.99,14.4,12.0,306.0,+++,+,++,224.0,0,normal,no,0,0,441.0
+10.11,14.92,1,143.0,30.5,5,Primary Surgical,complicated,appendicitis,appendicitis,4.0,6.0,0,1,0,1,1,1,36.6,8.4,,0,4.93,13.9,11.8,284.0,no,no,no,1.0,0,normal,no,0,0,445.0
+8.2,13.75,0,133.5,24.5,9,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,37.0,15.7,87.8,1,4.75,12.8,11.9,285.0,++,+,no,6.0,0,normal,no,0,0,446.0
+15.38,23.41,0,163.0,62.2,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,6.0,0,1,1,0,1,1,37.3,19.4,84.6,1,4.56,13.6,84.6,221.0,+++,+,no,146.0,0,diarrhea,no,0,0,447.0
+3.43,14.58,1,98.0,14.0,8,Primary Surgical,complicated,appendicitis,appendicitis,10.0,8.0,1,1,1,0,1,1,37.9,16.1,84.0,1,4.2,11.3,12.7,291.0,no,no,no,54.0,0,normal,no,0,0,449.0
+8.04,14.31,0,124.0,22.0,9,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,1,1,0,1,37.9,19.4,,1,4.89,12.9,12.3,473.0,+++,no,+,80.0,0,normal,local,0,1,451.0
+4.61,17.03,1,107.0,19.5,9,Primary Surgical,complicated,appendicitis,appendicitis,,,0,1,0,1,1,1,37.0,16.7,,0,5.01,11.4,15.7,402.0,+++,no,no,1.0,0,normal,local,0,0,452.0
+16.59,21.73,1,179.5,70.0,14,Primary Surgical,complicated,Gastroenteritis,appendicitis,6.0,4.0,0,1,1,0,1,1,37.7,37.7,88.0,1,4.89,15.0,13.2,181.0,+,+,+,71.0,0,constipation,generalized,0,0,453.0
+16.13,19.93,1,182.0,66.0,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,1,1,1,0,1,1,37.3,22.5,87.1,1,4.74,14.4,12.7,153.0,+++,++,+,115.0,0,normal,no,0,0,457.0
+11.15,14.43,1,143.0,29.5,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,1,1,37.2,15.4,81.8,1,4.27,11.9,11.9,315.0,,,,4.0,0,normal,no,0,0,458.0
+14.27,23.51,1,165.0,64.0,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,6.0,0,1,1,0,1,1,37.4,14.3,87.0,1,4.92,13.2,12.5,336.0,+,no,no,210.0,0,diarrhea,generalized,1,0,460.0
+8.32,13.24,1,128.0,21.7,4,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,38.0,18.8,91.4,1,4.91,13.1,13.7,244.0,,,,36.0,0,diarrhea,generalized,0,0,461.0
+7.34,15.62,0,125.0,24.4,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,0,1,1,0,1,1,38.2,16.1,88.8,1,4.83,13.4,11.6,247.0,,,,225.0,1,constipation,local,0,1,462.0
+11.46,16.87,0,154.0,40.0,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,7.0,0,1,1,0,1,1,37.6,15.5,78.0,1,4.96,14.0,12.3,254.0,+++,no,+,88.0,0,normal,no,0,0,463.0
+4.28,13.38,1,116.0,18.0,10,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,0,1,1,0,1,1,38.9,18.5,87.0,1,4.34,12.2,12.6,402.0,+,no,no,165.0,0,constipation,no,0,1,464.0
+8.1,14.81,1,135.0,27.0,10,Primary Surgical,complicated,appendicitis,appendicitis,9.0,6.0,1,1,1,0,1,1,37.8,16.6,61.0,0,5.08,12.4,13.4,252.0,,,,16.0,1,diarrhea,no,1,0,465.0
+10.62,23.98,0,137.0,45.0,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,,,0,1,1,1,1,1,39.2,14.7,,0,4.93,13.4,12.7,294.0,no,no,no,24.0,0,diarrhea,no,0,0,466.0
+15.02,20.81,0,159.0,52.6,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,,,1,1,1,0,1,1,37.2,7.2,,0,4.92,14.2,13.4,205.0,++,++,no,67.0,0,diarrhea,no,1,1,467.0
+14.58,20.52,0,171.0,60.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,,,1,1,1,0,0,1,37.3,14.7,,0,4.75,13.2,11.9,242.0,no,no,no,3.0,0,diarrhea,no,1,0,468.0
+4.23,15.83,1,92.0,13.4,10,Primary Surgical,uncomplicated,"diabetische Ketoazidose, Myokarditis",appendicitis,3.0,2.0,0,0,0,0,1,1,37.9,4.0,74.0,0,5.38,13.0,13.7,456.0,+++,no,no,23.0,0,normal,local,0,0,471.0
+8.29,14.12,1,132.0,24.6,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,7.0,0,1,1,0,1,1,37.9,20.0,83.4,1,4.36,11.2,13.2,354.0,+++,no,no,180.0,1,diarrhea,no,1,0,473.0
+9.14,15.25,1,135.5,28.0,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,38.6,20.3,91.0,1,4.93,13.6,13.2,366.0,+++,+,no,31.0,0,normal,no,0,0,474.0
+10.49,16.24,1,143.0,33.2,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,0,1,38.6,16.9,61.0,0,4.61,12.8,13.4,230.0,+,no,no,11.0,0,diarrhea,no,0,0,475.0
+11.37,20.93,1,145.0,44.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,36.4,15.2,86.9,1,4.9,13.6,86.9,281.0,no,no,no,19.0,0,constipation,no,1,0,477.0
+3.74,15.31,1,103.5,16.4,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,5.0,0,1,0,0,1,1,37.0,14.8,,0,4.31,11.4,12.7,286.0,+,no,+,18.0,0,normal,no,0,0,478.0
+12.7,26.81,1,165.0,73.0,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,0,1,37.3,24.2,,1,5.38,13.7,14.5,441.0,,,,56.0,0,normal,no,1,0,479.0
+3.2,14.79,1,104.0,16.0,7,Primary Surgical,complicated,appendicitis,appendicitis,6.0,5.0,0,0,0,0,1,1,36.8,14.6,79.0,1,4.63,12.4,12.5,401.0,+++,+,no,316.0,0,diarrhea,local,0,0,480.0
+11.05,15.32,0,131.5,26.5,2,Primary Surgical,complicated,appendicitis,appendicitis,6.0,7.0,0,0,0,1,1,1,39.0,15.9,91.5,1,4.28,12.2,13.0,272.0,++,no,+++,171.0,0,constipation,local,0,0,481.0
+5.72,14.49,0,126.0,23.0,11,Primary Surgical,absent,Sepsis mit Begleitappendizitis,no appendicitis,3.0,3.0,0,0,0,0,1,1,40.0,8.3,71.0,0,4.08,11.5,13.1,165.0,no,+,++,61.0,1,,no,0,0,482.0
+7.81,,1,,23.0,9,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,36.0,13.0,87.6,1,4.44,12.4,13.0,403.0,++,+,no,8.0,0,diarrhea,generalized,0,1,484.0
+15.5,20.03,0,158.0,50.0,7,Primary Surgical,complicated,appendicitis,appendicitis,5.0,4.0,0,0,0,0,1,1,37.2,20.9,87.0,1,4.36,11.9,15.6,165.0,+++,+,+,186.0,0,constipation,no,0,0,485.0
+8.58,17.48,1,131.0,30.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,1,36.2,11.7,64.0,0,4.87,13.6,13.0,263.0,no,+,+,40.0,0,normal,no,0,0,486.0
+8.06,14.18,1,142.0,28.6,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,37.6,14.8,80.0,1,4.64,12.3,13.7,197.0,+++,no,no,60.0,0,normal,no,0,0,488.0
+4.69,14.55,0,105.5,16.2,3,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,0,0,1,1,37.5,14.5,67.0,0,4.54,10.6,15.2,326.0,no,no,no,9.0,0,normal,local,1,0,489.0
+7.12,14.65,0,128.0,24.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,1,1,1,0,0,1,36.6,13.1,,1,4.19,12.2,11.7,238.0,,,,28.0,0,normal,no,0,1,490.0
+5.29,13.87,0,105.0,15.0,9,Primary Surgical,complicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,38.0,28.8,89.2,1,4.3,12.1,12.8,406.0,,,,328.0,0,constipation,generalized,0,1,492.0
+12.46,19.29,1,161.0,50.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,8.0,0,1,1,1,1,1,37.7,14.3,84.5,0,4.59,13.1,12.5,241.0,+++,no,no,241.0,0,normal,no,0,0,493.0
+12.43,18.66,0,157.0,46.0,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,1,1,1,0,1,1,37.1,16.4,90.2,1,4.62,13.5,12.7,256.0,+++,no,no,31.0,0,normal,generalized,1,0,494.0
+7.25,14.73,1,129.5,24.7,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,9.0,0,1,0,1,1,1,37.5,19.1,79.9,1,4.61,11.7,13.2,360.0,no,no,no,70.0,0,normal,no,1,0,495.0
+9.85,15.01,1,139.0,29.0,8,Primary Surgical,complicated,appendicitis,appendicitis,,,1,1,0,1,1,1,36.8,20.6,,0,4.89,13.2,12.4,385.0,+++,no,no,214.0,0,normal,local,0,0,496.0
+15.48,24.91,0,170.0,72.0,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,1,1,37.2,14.9,,0,4.37,11.7,12.9,233.0,no,no,no,62.0,0,normal,no,0,0,497.0
+9.26,14.06,1,138.6,27.0,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,4.0,0,1,0,0,0,1,38.0,19.0,91.2,1,5.24,14.8,12.6,291.0,+++,no,no,20.0,0,normal,local,1,1,498.0
+15.11,24.97,1,179.0,80.0,6,Primary Surgical,complicated,appendicitis,appendicitis,3.0,3.0,0,1,0,0,0,1,36.9,6.9,74.2,0,4.54,14.1,12.3,170.0,+,no,+,28.0,0,normal,no,0,0,499.0
+8.86,15.14,1,136.0,28.0,3,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,5.0,0,1,1,0,1,0,36.8,24.2,88.8,1,5.02,14.7,12.9,344.0,+++,no,no,1.0,0,normal,local,1,0,178.0
+5.92,12.93,1,118.0,18.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,8.0,0,1,0,0,1,1,37.0,23.5,86.1,0,5.09,13.2,13.8,324.0,+++,no,no,1.0,0,normal,local,0,0,179.0
+11.92,15.86,1,159.0,40.1,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,9.0,1,1,0,1,1,1,37.8,19.5,79.9,1,4.92,13.3,13.3,300.0,,,,17.0,0,normal,local,0,0,180.0
+8.68,16.6,1,131.9,28.6,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,2.0,2.0,0,1,0,0,0,0,36.0,8.4,70.9,0,5.12,14.8,12.7,383.0,no,no,no,2.0,0,normal,local,0,0,
+11.48,29.24,0,158.0,73.0,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,9.0,0,1,1,1,1,1,38.0,18.4,80.0,1,4.61,12.5,13.5,289.0,++,no,no,197.0,0,normal,local,1,0,181.0
+9.08,17.65,1,143.0,36.1,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,0,0,1,0,38.2,21.4,85.2,1,4.81,13.7,12.5,279.0,++,no,no,25.0,0,normal,local,0,0,182.0
+13.89,18.03,0,158.0,45.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,5.0,1,1,1,0,0,0,37.5,15.8,76.4,1,4.62,13.5,12.8,263.0,no,no,no,55.0,0,normal,local,0,1,183.0
+9.75,18.49,0,143.0,37.8,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,10.0,9.0,1,1,1,1,1,1,37.5,17.2,87.0,1,4.68,12.9,12.5,270.0,+++,no,no,46.0,0,normal,local,0,0,184.0
+12.78,17.91,0,162.0,47.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,38.2,16.1,85.7,1,4.3,12.2,11.7,223.0,+,no,no,3.0,0,normal,local,0,1,185.0
+10.9,20.28,0,157.0,50.0,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,5.0,0,1,1,0,1,0,37.8,27.5,89.7,1,4.58,12.1,14.0,435.0,++,+,no,,0,normal,local,0,0,325.0
+15.42,16.71,1,173.0,50.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,0,0,36.8,17.1,86.2,1,4.89,15.2,12.1,222.0,,,,3.0,0,normal,local,0,0,186.0
+11.26,16.89,1,151.0,38.5,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,0,1,36.8,18.8,88.9,1,5.07,13.6,12.9,357.0,+,no,no,5.0,0,normal,no,0,0,187.0
+17.87,17.7,1,175.0,54.2,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,2.0,2.0,0,1,0,0,0,0,37.2,9.2,73.4,0,5.12,15.2,13.3,200.0,,,,4.0,0,normal,local,0,0,188.0
+15.07,32.18,1,174.5,98.0,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,4.0,1,1,0,0,1,0,36.6,7.5,58.4,0,4.98,14.0,14.6,290.0,,,,1.0,0,diarrhea,no,1,0,189.0
+10.83,14.29,2,140.0,28.5,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,9.0,1,1,1,1,1,1,37.4,11.0,74.0,0,5.06,14.4,12.6,325.0,,,,57.0,0,normal,no,0,0,66.0
+11.34,21.77,0,157.2,53.8,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,0,0,0,0,38.2,10.2,75.6,1,4.4,12.3,12.5,245.0,++,no,+++,19.0,0,diarrhea,generalized,0,0,190.0
+10.51,14.93,1,134.5,27.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,5.0,0,1,0,0,1,0,37.4,12.8,81.0,1,5.03,12.5,14.1,286.0,+++,no,no,8.0,0,normal,local,0,0,191.0
+11.67,16.85,0,139.5,32.8,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,6.0,1,1,1,1,0,1,37.5,14.4,84.5,1,5.52,15.4,13.4,413.0,,,,0.0,0,normal,no,1,0,192.0
+8.36,14.0,0,121.0,20.5,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,1,1,0,0,37.8,14.2,86.6,1,4.59,12.6,13.3,187.0,,,,45.0,0,normal,local,0,0,193.0
+12.8,22.06,1,155.0,53.0,21,Primary Surgical,complicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,38.4,25.0,82.9,1,4.56,10.7,14.8,508.0,++,no,no,293.0,0,normal,generalized,0,0,334.0
+12.76,18.08,1,149.0,40.2,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,0,0,1,0,38.4,10.0,87.4,1,5.08,14.9,12.5,207.0,+++,no,no,62.0,0,normal,local,0,1,194.0
+12.29,22.31,1,150.0,50.2,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,1,0,37.2,18.4,75.5,1,5.22,14.9,13.1,263.0,no,no,no,10.0,0,normal,local,1,0,195.0
+15.88,19.84,0,171.0,58.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,9.0,0,1,0,1,1,1,38.9,16.4,79.5,1,4.56,13.6,12.6,241.0,+++,no,no,140.0,0,diarrhea,local,1,0,196.0
+10.18,38.16,1,151.0,87.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,7.0,0,1,1,1,0,0,38.2,15.1,81.0,1,5.12,14.0,12.1,267.0,+++,no,no,8.0,0,constipation,local,0,0,197.0
+0.53,20.37,1,176.0,63.1,3,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,4.0,0,1,1,0,0,0,37.5,14.5,77.3,1,5.18,14.5,11.8,232.0,,,,1.0,0,normal,no,0,0,198.0
+5.11,14.24,0,106.0,16.0,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,1,0,38.5,18.0,91.1,1,3.79,11.4,12.8,383.0,no,no,no,2.0,0,,local,0,0,351.0
+15.18,16.26,1,170.0,47.0,8,Primary Surgical,absent,appendicitis,no appendicitis,6.0,5.0,0,1,0,0,1,0,39.0,9.6,88.1,1,4.66,13.5,13.5,267.0,+++,+,no,235.0,0,,local,1,0,354.0
+17.28,19.49,1,171.0,57.0,7,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,0,0,1,0,36.8,12.6,70.4,0,5.29,14.9,12.6,332.0,+,+,no,3.0,1,normal,no,1,0,200.0
+14.62,12.19,0,167.0,34.0,17,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,0,1,0,0,1,0,37.8,11.5,84.5,1,4.56,14.3,12.2,297.0,no,no,+,365.0,0,diarrhea,generalized,0,0,357.0
+17.02,18.73,0,165.0,51.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,3.0,0,1,1,0,0,0,37.0,10.9,,0,4.62,13.0,12.2,358.0,+++,+++,++,176.0,0,diarrhea,local,0,0,358.0
+8.15,15.87,1,128.0,26.0,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,2.0,4.0,0,1,0,1,0,0,37.2,9.4,62.9,0,4.93,13.2,14.4,372.0,,,,14.0,0,normal,generalized,0,0,202.0
+5.08,17.7,0,114.0,23.0,7,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,0,1,1,1,1,0,38.5,22.0,,1,5.05,14.2,13.1,207.0,+++,no,+,141.0,0,diarrhea,local,0,0,360.0
+9.18,16.44,0,139.5,32.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,5.0,0,1,1,0,1,0,37.8,15.4,77.2,1,4.91,13.4,13.1,208.0,+++,++,no,33.0,0,normal,local,1,0,203.0
+13.19,21.19,1,164.0,57.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,7.0,0,1,0,1,1,0,37.0,15.4,89.4,1,5.04,13.9,13.1,206.0,no,no,no,2.0,0,normal,local,0,0,204.0
+12.36,18.78,1,168.0,53.0,14,Primary Surgical,complicated,appendicitis,appendicitis,7.0,7.0,0,1,1,1,1,0,38.3,13.5,,0,4.5,13.9,12.3,236.0,,,,122.0,0,diarrhea,local,1,0,364.0
+8.01,15.24,1,125.5,24.0,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,2.0,4.0,0,1,0,1,0,0,37.0,7.4,65.4,0,4.87,13.2,12.3,353.0,,,,15.0,0,normal,no,0,0,206.0
+3.83,15.72,1,104.0,17.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,8.0,1,1,0,0,1,1,37.0,15.9,,1,4.53,11.9,13.6,320.0,++,no,no,32.0,0,normal,local,0,0,207.0
+11.51,21.87,1,151.5,50.2,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,0,38.2,14.2,82.3,1,4.61,12.8,13.0,336.0,,,,88.0,0,normal,local,0,0,367.0
+13.94,17.93,1,167.0,50.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,1,1,0,0,37.4,16.2,77.5,1,4.86,12.9,13.2,326.0,,,,0.0,0,normal,no,1,0,208.0
+9.12,16.38,1,143.0,33.5,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,1,0,0,1,38.0,17.7,55.0,0,5.53,14.5,,305.0,+++,+,++,19.0,0,normal,local,0,0,130.0
+11.76,15.07,1,148.0,33.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,4.0,0,1,1,1,0,0,37.5,6.5,72.8,0,4.74,13.2,12.6,169.0,no,no,no,8.0,0,normal,local,0,0,131.0
+16.22,25.23,0,169.5,72.5,9,Primary Surgical,complicated,appendicitis,appendicitis,9.0,6.0,1,1,1,0,1,0,37.8,16.6,86.4,1,4.32,13.5,12.3,298.0,no,no,no,12.0,0,constipation,no,1,0,252.0
+9.28,16.25,1,142.5,33.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,1,37.0,15.7,74.9,0,4.59,12.8,13.0,279.0,no,no,no,1.0,0,normal,local,0,0,132.0
+15.32,18.08,0,176.0,56.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,1,36.5,12.4,79.0,1,4.59,14.0,12.2,261.0,,,,13.0,0,normal,local,0,0,133.0
+9.58,14.18,0,132.0,24.7,8,Primary Surgical,complicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,38.4,13.5,80.3,1,5.04,13.9,13.1,277.0,+++,+,no,278.0,0,diarrhea,generalized,0,0,253.0
+16.78,20.58,1,162.0,54.0,9,Primary Surgical,complicated,appendicitis,appendicitis,5.0,6.0,0,1,0,1,1,1,37.3,6.2,71.8,0,4.95,12.6,13.8,232.0,no,+,no,46.0,0,normal,local,0,0,254.0
+9.66,16.22,1,149.0,36.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,38.0,19.9,79.0,1,4.63,13.1,13.8,282.0,+,no,no,43.0,0,normal,local,0,0,134.0
+14.79,23.23,1,166.0,64.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,8.0,1,1,0,1,1,0,36.8,20.6,83.8,1,5.63,15.3,12.9,315.0,no,no,no,1.0,0,normal,local,1,0,135.0
+10.21,15.59,0,145.5,33.0,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,8.0,1,1,0,0,1,1,38.4,17.0,88.4,1,4.95,13.5,12.7,276.0,+++,+++,no,134.0,0,normal,local,0,0,257.0
+7.18,13.71,1,122.0,20.4,7,Primary Surgical,complicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,39.3,23.1,79.0,1,4.48,12.6,12.2,310.0,,,,234.0,0,constipation,local,0,0,258.0
+9.37,18.79,1,135.5,34.5,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,7.0,1,1,1,1,1,0,36.8,9.9,79.4,1,4.93,12.4,12.6,198.0,no,no,no,2.0,0,constipation,local,0,0,137.0
+6.11,14.65,0,128.0,24.0,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,1,1,0,1,37.5,15.5,78.9,1,4.46,12.6,13.8,432.0,,,,7.0,0,normal,local,0,0,259.0
+0.04,14.1,1,53.0,4.0,12,Primary Surgical,complicated,appendicitis,appendicitis,4.0,4.0,0,1,0,0,0,1,38.7,8.7,62.6,0,4.59,15.3,,440.0,no,+++,no,198.0,0,diarrhea,local,0,0,260.0
+10.65,17.05,0,146.3,36.5,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,1,1,1,0,0,1,37.0,10.9,75.5,1,5.14,14.1,13.1,225.0,,,,22.0,0,normal,local,0,0,139.0
+10.97,18.11,1,135.0,33.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,6.0,1,1,1,0,1,0,37.8,18.1,80.8,1,4.48,12.8,12.3,233.0,,,,12.0,0,diarrhea,local,0,0,140.0
+12.41,12.6,0,152.0,29.1,4,Primary Surgical,complicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,0,38.8,14.9,93.2,1,4.55,14.1,12.5,226.0,,,,10.0,0,normal,no,0,0,2.0
+9.77,17.35,0,141.2,34.6,7,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,6.0,0,1,1,0,1,1,37.2,30.5,79.2,1,5.11,14.6,13.8,366.0,no,+,no,102.0,0,normal,generalized,0,0,141.0
+13.99,19.0,0,173.5,57.2,7,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,9.0,1,1,0,1,1,1,37.2,16.1,81.9,1,4.46,12.3,13.5,264.0,no,no,no,1.0,0,normal,local,0,0,142.0
+4.48,14.51,1,105.0,16.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,5.0,1,1,0,0,0,0,37.6,18.7,,0,4.11,10.9,13.6,393.0,,,,47.0,0,normal,local,0,0,143.0
+10.15,18.44,0,150.0,41.5,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,7.0,1,1,1,0,1,1,38.1,13.9,81.3,1,4.48,12.5,12.8,208.0,no,no,no,63.0,0,normal,local,0,0,144.0
+13.02,18.42,1,145.5,39.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,5.1,54.1,0,4.45,12.4,13.4,250.0,,,,0.0,0,normal,no,0,0,145.0
+12.31,20.44,0,150.0,46.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,8.0,1,1,0,1,0,0,38.5,17.3,88.0,1,4.98,14.6,12.5,274.0,no,no,no,4.0,0,normal,no,1,0,146.0
+16.51,20.78,1,190.0,75.0,6,Primary Surgical,complicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,37.6,18.7,92.1,1,5.29,14.9,13.1,359.0,+,no,no,16.0,0,normal,generalized,0,0,147.0
+16.82,18.59,0,164.0,50.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,1,0,0,37.6,10.7,71.7,0,5.23,14.7,12.7,253.0,+,no,no,14.0,0,normal,local,0,0,148.0
+10.34,19.43,1,138.0,37.0,6,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,0,38.8,23.7,88.0,1,4.8,13.0,14.5,356.0,no,+,no,63.0,1,diarrhea,local,1,0,273.0
+3.57,11.34,1,115.0,15.0,9,Primary Surgical,complicated,appendicitis,appendicitis,8.0,9.0,0,1,0,1,1,1,38.2,14.3,83.8,1,4.78,12.5,13.0,225.0,+++,no,no,3.0,0,diarrhea,generalized,0,0,274.0
+15.86,20.44,1,167.0,57.0,7,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,0,38.6,21.9,85.4,1,5.44,16.2,12.5,210.0,no,no,no,1.0,0,normal,local,0,0,149.0
+14.21,25.64,0,158.0,64.0,7,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,4.0,1,1,0,0,0,0,38.2,2.6,,0,4.96,11.2,14.0,134.0,no,no,no,29.0,0,normal,no,1,0,151.0
+10.36,17.24,1,146.5,37.0,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,0,0,1,0,36.4,12.9,84.8,1,5.2,13.5,12.4,288.0,+++,no,no,10.0,0,normal,local,0,0,152.0
+14.2,19.93,0,156.3,48.7,11,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,3.0,0,1,1,0,1,0,37.2,8.1,43.5,0,4.79,14.0,11.5,236.0,+++,no,no,1.0,0,constipation,local,1,0,153.0
+9.0,17.68,1,147.0,38.2,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,8.0,0,1,1,1,1,0,38.2,14.0,87.1,1,4.5,12.1,13.7,275.0,,,,20.0,0,normal,local,0,0,154.0
+4.08,14.6,1,104.7,16.0,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,4.0,0,1,0,0,0,0,37.8,16.3,90.6,1,4.69,8.2,21.6,446.0,+++,no,no,205.0,0,normal,generalized,0,0,155.0
+15.33,20.62,1,167.0,57.5,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,8.0,0,1,1,1,1,1,37.8,16.4,76.2,1,5.57,16.4,12.6,223.0,,,,16.0,0,normal,no,1,0,156.0
+8.89,17.29,0,139.0,33.4,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,8.0,0,1,1,1,1,1,37.7,16.7,84.1,1,4.54,12.8,13.2,276.0,,,,15.0,0,normal,local,0,0,157.0
+10.57,17.75,0,130.0,30.0,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,1,0,1,1,38.3,3.5,83.0,1,4.85,13.5,12.3,268.0,,,,26.0,0,normal,local,1,0,281.0
+7.38,16.24,1,128.0,26.6,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,0,0,38.2,19.1,86.7,1,4.73,12.7,13.7,327.0,,,,117.0,0,normal,local,1,0,158.0
+5.11,16.35,0,116.0,22.0,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,6.0,0,1,1,0,1,0,40.2,19.4,89.7,1,4.55,12.8,13.0,387.0,+++,++,no,8.0,0,normal,local,0,1,159.0
+7.26,13.93,1,122.8,21.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,7.0,0,1,1,1,0,1,37.8,15.1,84.0,1,5.0,13.6,14.6,250.0,no,no,+,78.0,0,normal,local,1,0,160.0
+16.93,19.15,0,177.0,60.0,10,Primary Surgical,complicated,appendicitis,appendicitis,10.0,10.0,1,1,1,1,1,1,38.2,20.4,86.6,1,5.14,12.4,14.0,316.0,+,no,no,97.0,1,normal,local,0,0,282.0
+11.91,15.97,1,137.5,30.2,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,5.0,0,1,1,0,1,0,37.5,25.7,90.2,1,4.73,13.3,12.3,414.0,no,no,no,0.0,0,normal,no,1,0,161.0
+10.25,16.89,1,146.0,36.0,6,Primary Surgical,complicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,0,0,36.8,16.2,84.3,1,4.49,12.6,12.8,227.0,,,,93.0,1,constipation,local,1,0,285.0
+11.96,24.86,1,169.0,71.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,6.0,1,1,1,0,1,1,36.9,13.1,83.8,1,4.78,12.2,14.4,249.0,++,no,no,34.0,0,normal,local,1,0,165.0
+10.52,22.28,1,134.0,40.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,5.0,0,1,1,0,0,1,37.8,18.2,87.7,1,4.32,12.2,11.6,259.0,,,,13.0,0,normal,local,1,0,166.0
+10.87,14.81,1,137.5,28.0,5,Primary Surgical,complicated,appendicitis,appendicitis,6.0,4.0,1,1,1,0,1,0,37.6,10.3,68.1,0,5.49,14.8,12.2,223.0,no,no,no,6.0,0,normal,local,0,0,288.0
+14.2,20.96,0,162.0,55.0,28,Primary Surgical,complicated,appendicitis,appendicitis,9.0,6.0,1,1,1,0,1,1,37.2,17.1,84.6,1,3.62,10.0,14.2,443.0,+++,++,no,27.0,0,normal,local,0,0,289.0
+13.47,23.31,1,155.0,56.0,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,1,1,0,0,1,1,38.4,27.3,78.6,1,5.34,15.6,12.8,277.0,+++,++,no,46.0,0,normal,local,0,0,290.0
+15.9,19.18,0,159.0,48.5,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,7.0,1,1,1,1,1,1,37.2,7.6,64.4,0,4.65,13.8,12.5,361.0,no,no,no,0.0,0,normal,local,1,0,167.0
+11.81,20.55,0,156.0,50.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,0,0,0,0,37.4,13.6,76.5,1,5.02,13.8,13.0,292.0,no,no,no,5.0,0,normal,local,0,0,168.0
+5.92,16.06,1,123.0,24.3,9,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,1,1,0,0,1,1,39.0,11.8,82.8,1,5.33,12.9,14.7,309.0,,,,20.0,0,normal,local,1,0,299.0
+12.15,14.42,1,165.5,39.5,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,4.0,0,1,0,0,1,0,36.8,12.5,74.9,0,4.85,13.6,12.9,283.0,no,no,no,12.0,0,normal,local,0,0,169.0
+11.38,21.08,1,154.0,50.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,9.0,0,1,0,1,1,1,38.5,24.1,86.0,1,4.81,13.6,12.5,362.0,no,no,no,38.0,0,normal,local,0,0,170.0
+14.95,20.31,0,160.0,52.0,10,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,4.0,1,1,1,0,0,0,36.1,7.9,51.8,0,5.03,14.3,12.8,205.0,+,no,no,0.0,0,normal,no,1,0,
+12.83,19.13,0,168.0,54.0,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,0,1,38.2,13.1,78.8,1,4.77,14.2,11.7,192.0,no,+++,no,1.0,0,normal,local,0,0,304.0
+17.52,31.84,0,155.0,76.5,3,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,5.0,1,1,1,1,0,0,37.3,8.4,53.5,0,4.69,13.4,13.0,341.0,no,no,no,7.0,0,diarrhea,no,0,0,171.0
+14.59,28.44,0,156.0,69.2,7,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,3.0,1,1,1,0,0,0,36.5,7.8,50.7,0,4.61,13.4,12.6,284.0,no,no,no,13.0,0,normal,no,0,0,173.0
+5.01,14.89,1,103.0,15.8,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,3.0,3.0,0,1,0,0,1,0,37.3,13.1,68.4,0,4.27,11.5,12.6,259.0,no,no,no,90.0,0,constipation,local,0,0,174.0
+12.47,15.37,0,142.0,31.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,6.0,1,1,1,0,1,0,37.9,12.2,77.2,1,5.16,14.6,12.1,247.0,no,no,no,0.0,0,normal,local,1,0,175.0
+11.03,24.62,1,151.5,56.5,10,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,0,0,0,0,37.8,11.0,80.2,1,4.85,13.7,12.9,263.0,no,no,no,26.0,0,normal,local,0,0,176.0
+10.94,15.75,1,138.0,30.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,1,0,36.8,16.1,85.5,1,4.8,14.0,13.0,340.0,,,,2.0,0,normal,local,0,0,177.0
+8.76,19.81,1,131.0,34.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,1,0,36.9,20.3,87.7,1,4.69,12.9,11.9,236.0,no,no,no,4.0,0,normal,local,0,0,103.0
+13.19,24.59,1,157.5,61.0,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,0,0,38.5,18.5,84.5,1,5.07,13.5,12.6,347.0,no,no,no,21.0,0,constipation,local,0,0,105.0
+6.48,12.15,1,120.0,17.5,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,0,0,0,0,36.8,16.9,78.4,1,4.73,13.0,12.3,278.0,++,+++,no,21.0,1,diarrhea,local,0,0,106.0
+13.49,18.43,0,158.0,46.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,2.0,2.0,0,1,0,0,0,0,37.2,6.9,51.0,0,4.45,13.5,12.0,302.0,no,no,no,5.0,0,normal,local,0,0,108.0
+6.76,22.47,1,141.5,45.0,10,Primary Surgical,complicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,0,0,39.0,12.0,68.3,0,4.75,13.1,13.5,201.0,,,,101.0,0,normal,local,0,0,214.0
+14.63,18.44,0,161.0,47.8,8,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,0,39.1,12.6,80.1,1,4.25,13.3,12.1,208.0,no,no,no,31.0,0,normal,generalized,1,0,215.0
+11.48,18.81,0,144.0,39.0,9,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,1,0,0,0,0,38.6,4.4,,0,4.8,14.0,12.8,313.0,+++,no,no,4.0,0,normal,no,0,0,109.0
+11.01,13.71,0,162.5,36.2,9,Primary Surgical,complicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,1,1,40.0,21.7,79.0,1,5.1,12.8,14.0,216.0,+++,+,no,198.0,0,diarrhea,local,0,0,220.0
+10.12,15.41,1,140.0,30.2,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,9.0,0,1,1,1,1,1,39.8,13.8,79.0,1,4.56,12.9,12.2,246.0,+++,+++,no,203.0,0,constipation,generalized,0,0,221.0
+11.5,15.39,1,154.0,36.5,6,Primary Surgical,complicated,appendicitis,appendicitis,9.0,8.0,0,1,1,1,1,1,37.4,20.0,85.5,1,4.83,13.4,12.1,266.0,,,,19.0,0,normal,local,0,1,222.0
+10.17,16.28,0,144.5,34.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,1,0,37.0,16.8,87.1,1,4.72,13.0,13.2,297.0,no,no,no,1.0,0,constipation,local,0,0,110.0
+17.05,24.51,0,169.0,70.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,1,0,38.0,11.2,67.7,0,4.05,13.3,11.8,243.0,no,no,no,29.0,1,constipation,local,0,0,111.0
+12.31,24.62,0,157.4,61.0,6,Primary Surgical,complicated,appendicitis,appendicitis,10.0,9.0,1,1,1,1,1,0,38.0,17.9,83.5,1,5.25,14.5,13.3,252.0,+,+,+,30.0,0,normal,local,1,1,112.0
+8.64,21.36,1,136.0,39.5,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,8.0,0,1,1,1,1,0,39.0,15.8,77.9,1,5.37,14.2,14.2,350.0,+,+,no,62.0,0,constipation,local,0,0,113.0
+7.56,12.6,0,121.5,18.6,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,0,0,38.3,18.7,91.9,1,4.77,12.8,13.1,214.0,,,,81.0,0,normal,local,0,0,226.0
+17.71,21.57,1,180.0,69.9,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,0,0,1,1,37.9,18.7,84.0,1,5.37,15.6,12.2,342.0,,,,6.0,0,diarrhea,generalized,0,0,114.0
+16.86,23.98,1,180.0,77.7,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,7.0,0,1,1,0,1,1,38.1,17.2,78.7,1,5.36,16.6,12.5,208.0,,,,54.0,0,normal,local,0,1,115.0
+13.83,23.83,1,160.0,61.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,4.0,0,1,0,0,1,0,37.5,12.9,70.3,0,4.61,13.3,13.3,241.0,no,no,no,4.0,0,normal,local,1,0,116.0
+14.65,17.84,0,162.3,47.0,5,Primary Surgical,complicated,appendicitis,appendicitis,6.0,5.0,0,1,0,0,1,0,38.0,14.6,74.9,0,4.58,12.8,13.6,251.0,no,no,no,7.0,0,normal,local,0,0,117.0
+10.1,19.04,0,152.0,44.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,8.0,1,1,0,1,1,0,37.6,13.8,86.6,1,4.39,12.6,12.9,361.0,,,,3.0,0,normal,local,0,0,118.0
+10.77,21.79,1,150.0,49.0,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,9.0,1,1,0,1,1,1,37.8,22.5,83.5,1,5.49,14.9,13.4,260.0,+++,no,no,181.0,0,diarrhea,local,0,0,231.0
+13.83,21.75,1,147.0,47.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,3.0,2.0,0,1,0,0,0,0,37.9,9.4,71.1,0,4.92,13.2,12.7,234.0,,,,9.0,0,constipation,local,0,0,119.0
+14.4,17.04,0,161.8,44.6,3,Primary Surgical,uncomplicated,appendicitis,appendicitis,2.0,4.0,0,1,0,1,0,0,37.2,6.7,56.1,0,5.27,15.8,12.6,315.0,no,no,no,0.0,0,normal,local,0,0,120.0
+8.86,15.75,0,119.0,22.3,3,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,1,0,37.0,12.2,77.7,1,4.76,13.5,12.9,250.0,,,,14.0,0,normal,local,1,0,121.0
+3.33,15.31,1,96.3,14.2,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,6.0,7.0,0,1,0,1,1,1,38.5,33.3,79.8,1,4.42,12.9,13.5,330.0,,,,37.0,0,normal,local,0,0,122.0
+7.99,13.55,0,128.0,22.1,5,Primary Surgical,uncomplicated,Adhäsionen des Colon ascendens,appendicitis,5.0,4.0,0,1,1,0,1,1,36.5,7.0,57.4,0,4.73,13.8,12.1,251.0,+++,no,no,0.0,0,constipation,no,0,0,
+12.04,15.22,0,170.4,44.2,6,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,0,0,1,0,38.1,19.4,86.0,1,4.76,12.8,13.2,286.0,++,no,+,121.0,0,normal,local,0,0,234.0
+10.99,19.17,1,148.0,42.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,6.0,0,1,0,0,1,1,37.5,18.5,76.6,1,5.51,15.3,13.3,222.0,no,no,no,1.0,0,diarrhea,local,0,0,24.0
+15.44,22.85,1,182.0,75.7,4,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,0,0,1,0,39.0,18.7,,1,5.4,15.0,12.7,275.0,+++,no,no,130.0,0,diarrhea,local,0,0,123.0
+11.55,17.53,0,152.0,40.5,6,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,7.0,0,1,1,1,1,0,37.8,12.6,85.1,1,5.04,14.7,12.3,255.0,+++,+,no,5.0,0,diarrhea,local,0,0,124.0
+8.94,14.91,1,138.5,28.6,3,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,3.0,0,1,0,0,0,0,36.5,13.7,71.0,0,5.21,13.7,13.7,290.0,,,,6.0,0,normal,local,0,0,125.0
+14.6,29.24,1,179.4,94.1,9,Primary Surgical,complicated,appendicitis,appendicitis,7.0,4.0,0,0,1,0,1,0,39.5,16.2,77.9,1,4.88,14.5,14.0,233.0,+,+++,no,210.0,0,normal,local,0,1,238.0
+7.11,17.08,1,121.0,25.0,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,0,38.2,16.5,80.8,1,4.77,13.3,12.8,367.0,,,,23.0,0,constipation,no,0,0,239.0
+7.88,18.7,1,130.0,31.6,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,0,38.2,22.7,90.5,1,5.05,13.5,12.3,457.0,,,,44.0,0,normal,generalized,0,0,244.0
+14.35,19.74,0,151.0,45.0,7,Primary Surgical,uncomplicated,appendicitis,appendicitis,4.0,6.0,0,1,0,1,1,1,38.0,8.8,58.5,0,4.49,13.8,12.2,246.0,no,no,no,0.0,0,diarrhea,local,1,0,
+12.41,25.25,0,166.5,70.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,0,1,39.4,11.4,76.6,1,4.95,13.7,13.4,243.0,,,,71.0,0,diarrhea,local,1,0,126.0
+14.99,19.91,0,152.0,46.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,5.0,3.0,0,1,0,0,0,0,37.3,14.6,68.5,0,4.49,12.7,12.8,328.0,no,no,no,2.0,1,normal,no,0,0,127.0
+7.2,14.3,1,129.3,23.9,5,Primary Surgical,uncomplicated,appendicitis,appendicitis,9.0,8.0,1,1,0,1,1,0,37.5,17.8,77.0,1,4.97,14.3,12.7,345.0,+++,no,no,8.0,0,normal,local,0,0,128.0
+11.51,18.17,1,146.5,39.0,4,Primary Surgical,uncomplicated,appendicitis,appendicitis,2.0,2.0,0,1,0,0,0,0,36.8,9.3,70.0,0,4.64,13.2,12.7,291.0,no,no,no,1.0,0,normal,local,0,0,129.0
+8.11,16.08,0,153.3,44.8,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,0,0,1,1,37.4,27.6,82.6,1,5.07,13.2,12.8,220.0,+++,no,no,73.0,0,constipation,local,0,0,
+16.19,14.15,0,130.3,23.5,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,5.0,0,1,0,0,1,1,39.1,25.7,91.0,1,4.74,11.3,13.3,275.0,+,no,no,33.0,0,constipation,no,0,0,
+8.6,33.08,0,139.9,18.7,7,Primary Surgical,complicated,appendicitis,appendicitis,5.0,9.0,1,1,0,0,1,1,38.9,18.9,85.3,1,5.11,12.5,14.2,455.0,+++,no,no,218.0,1,normal,local,0,0,
+12.49,17.76,0,114.0,17.8,7,Primary Surgical,complicated,appendicitis,appendicitis,10.0,4.0,1,1,1,1,1,1,38.5,37.6,78.2,0,4.96,13.8,,359.0,no,no,no,1.0,0,normal,local,1,0,
+10.39,20.96,1,180.8,23.8,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,1,1,1,0,1,1,38.3,20.1,79.5,1,5.16,13.3,12.2,258.0,+++,no,no,33.0,0,diarrhea,local,1,0,
+10.15,14.93,0,180.4,24.9,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,10.0,1,1,1,0,1,1,37.0,23.3,81.8,0,4.74,11.6,12.1,282.0,+++,no,+++,1.0,0,diarrhea,no,0,0,
+8.2,12.58,0,96.6,36.3,8,Primary Surgical,complicated,appendicitis,appendicitis,6.0,4.0,0,1,1,1,1,1,38.6,16.1,89.6,1,4.81,11.5,13.4,299.0,+++,no,++,75.0,0,normal,no,0,0,
+11.71,15.52,1,136.6,62.6,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,3.0,1,1,1,0,1,1,38.2,18.5,90.1,1,5.3,14.1,12.7,233.0,++,no,no,133.0,0,normal,local,0,0,
+7.96,14.87,0,163.3,36.0,8,Primary Surgical,complicated,appendicitis,appendicitis,6.0,7.0,0,1,1,1,1,1,38.2,17.6,,1,5.44,12.1,11.6,374.0,no,no,no,119.0,0,normal,local,0,1,
+6.69,17.93,1,107.2,19.2,7,Primary Surgical,complicated,appendicitis,appendicitis,6.0,8.0,1,1,0,0,1,1,38.9,11.0,,1,4.95,14.2,12.3,341.0,+++,no,+,32.0,0,diarrhea,local,0,0,
+9.16,19.35,1,138.6,22.4,2,Primary Surgical,complicated,appendicitis,appendicitis,7.0,4.0,0,1,0,0,1,1,38.2,19.5,93.4,0,4.71,11.6,14.3,213.0,++,+,+,217.0,0,normal,no,0,0,
+6.82,24.7,0,130.6,31.1,5,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,0,1,1,1,0,1,37.7,20.6,94.0,1,4.61,11.4,13.0,242.0,no,no,no,190.0,0,normal,local,1,0,
+12.68,15.15,1,149.3,58.0,3,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,1,0,0,0,0,0,36.6,14.7,83.4,0,5.42,13.9,11.8,194.0,no,no,no,62.0,0,normal,generalized,0,0,
+9.18,9.83,1,105.9,53.8,5,Primary Surgical,complicated,appendicitis,appendicitis,6.0,8.0,1,1,1,1,1,1,38.3,7.8,82.4,1,4.57,14.4,13.2,508.0,+++,+,+,357.0,0,constipation,no,0,0,
+4.03,25.47,1,114.6,24.7,6,Primary Surgical,complicated,appendicitis,appendicitis,9.0,6.0,1,1,0,0,1,1,38.4,16.4,84.1,1,4.92,14.1,,275.0,no,+++,no,84.0,0,normal,generalized,0,0,
+3.64,19.59,1,149.2,22.3,8,Primary Surgical,complicated,appendicitis,appendicitis,3.0,9.0,1,1,0,0,1,1,36.8,16.2,83.0,1,4.57,12.4,13.4,159.0,+++,no,no,166.0,0,normal,local,0,0,
+12.04,15.37,1,122.5,50.6,5,Primary Surgical,complicated,appendicitis,appendicitis,7.0,7.0,1,1,0,0,1,0,37.7,27.7,87.4,1,4.72,13.5,13.7,352.0,+++,no,no,15.0,1,normal,local,1,1,
+5.23,15.89,1,140.4,16.1,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,4.0,1,1,1,1,1,0,37.8,13.4,,1,4.61,14.8,13.2,251.0,no,no,no,1.0,0,normal,generalized,1,0,
+15.53,15.11,1,162.0,29.3,4,Primary Surgical,complicated,appendicitis,appendicitis,7.0,4.0,0,1,1,1,1,0,37.4,15.6,88.3,1,4.51,12.7,13.5,299.0,+++,+,no,38.0,0,diarrhea,local,0,0,
+11.47,14.33,0,137.2,50.1,5,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,0,1,0,0,1,1,38.6,17.1,82.8,1,4.86,12.0,14.2,189.0,+++,no,no,58.0,0,normal,no,1,0,
+12.52,21.7,1,141.9,43.7,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,8.0,1,1,0,1,1,1,37.3,15.2,76.5,1,4.56,14.0,11.6,270.0,no,no,++,7.0,0,normal,no,0,0,
+8.96,12.36,1,136.5,44.1,9,Primary Surgical,complicated,Gastroenteritis,appendicitis,,3.0,0,0,1,0,1,1,38.2,28.5,68.6,1,4.87,13.1,11.6,245.0,no,+,no,89.0,0,normal,local,0,0,
+11.19,15.72,1,53.7,36.7,21,Primary Surgical,complicated,appendicitis,appendicitis,8.0,5.0,0,1,0,0,1,0,37.9,17.6,80.4,1,4.91,13.8,13.6,302.0,++,no,no,1.0,0,diarrhea,local,0,0,
+6.46,22.05,1,113.5,36.5,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,9.0,0,1,1,0,1,1,38.2,18.3,,1,4.64,12.3,14.5,382.0,+++,no,no,3.0,0,diarrhea,no,0,1,
+12.85,18.76,0,105.6,51.1,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,7.0,0,1,0,0,1,1,38.4,13.5,92.8,1,4.56,13.5,12.1,410.0,+++,no,no,,0,constipation,local,0,0,
+6.62,13.44,1,139.4,66.3,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,6.0,1,1,1,1,1,0,38.8,24.2,78.5,1,4.95,12.1,12.4,281.0,++,+++,no,55.0,0,normal,no,0,1,
+11.42,14.09,1,105.6,27.6,6,Primary Surgical,complicated,appendicitis,appendicitis,8.0,3.0,1,1,1,1,1,1,37.3,13.1,92.6,1,4.82,11.6,13.4,268.0,+,no,no,1.0,0,normal,no,0,0,
+16.68,14.58,1,167.4,36.6,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,37.8,14.6,88.8,1,4.45,14.7,13.0,276.0,+,+,+,185.0,0,constipation,local,0,1,
+16.94,14.38,1,115.0,75.9,6,Primary Surgical,complicated,appendicitis,appendicitis,8.0,3.0,1,1,0,0,1,0,38.4,16.3,90.2,1,4.92,12.4,79.2,346.0,+,no,no,84.0,0,normal,no,0,0,
+16.55,13.38,1,172.4,36.9,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,1,1,38.3,22.2,90.0,1,5.23,13.6,12.2,334.0,+++,no,no,2.0,1,normal,local,0,0,
+9.82,20.51,1,180.5,31.5,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,1,1,0,0,1,1,38.1,18.5,76.7,1,4.6,13.7,13.5,306.0,no,no,no,211.0,1,normal,no,0,0,
+5.39,13.13,1,118.1,27.9,6,Primary Surgical,complicated,appendicitis,appendicitis,,4.0,0,1,1,0,1,0,37.7,18.1,87.8,1,4.61,12.7,15.9,343.0,+++,no,no,143.0,1,diarrhea,generalized,1,0,
+10.99,23.72,0,128.8,24.4,20,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,1,1,0,0,1,0,37.4,18.4,74.4,1,5.22,13.8,12.6,358.0,no,no,++,7.0,0,normal,no,0,0,
+16.35,15.92,0,103.4,69.9,18,Primary Surgical,complicated,appendicitis,appendicitis,8.0,5.0,1,1,1,0,0,0,38.7,15.1,94.0,0,4.92,13.3,12.1,230.0,+++,no,no,105.0,0,normal,local,1,0,
+14.93,18.9,0,105.3,50.0,9,Primary Surgical,complicated,appendicitis,appendicitis,5.0,9.0,0,1,0,0,1,1,37.0,15.9,83.3,1,4.98,12.9,11.8,297.0,+,++,no,1.0,0,normal,no,0,0,
+10.5,19.03,1,114.4,71.3,21,Primary Surgical,complicated,appendicitis,appendicitis,7.0,7.0,1,1,1,0,1,1,36.7,15.7,75.0,1,4.48,13.4,12.5,379.0,+++,+++,no,58.0,0,diarrhea,no,0,1,
+16.36,14.1,1,114.6,58.6,8,Primary Surgical,complicated,appendicitis,appendicitis,4.0,6.0,1,1,1,0,0,0,39.1,12.9,83.3,0,5.39,12.3,11.7,209.0,+++,no,no,53.0,0,normal,no,0,0,
+8.54,15.02,1,106.1,4.0,10,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,1,1,0,1,37.8,25.7,96.0,1,4.87,14.5,12.0,240.0,+,no,no,113.0,0,normal,generalized,1,1,
+8.1,18.68,1,107.1,53.7,6,Primary Surgical,complicated,appendicitis,appendicitis,8.0,10.0,0,1,0,0,0,0,38.9,18.8,74.1,1,3.83,12.8,15.3,180.0,no,+++,no,315.0,0,normal,local,0,0,
+12.4,25.21,1,99.3,45.9,5,Primary Surgical,complicated,appendicitis,appendicitis,8.0,8.0,1,1,0,0,1,0,38.4,12.6,87.7,1,5.11,12.4,13.5,348.0,+++,no,no,25.0,0,diarrhea,generalized,0,0,
+16.83,15.6,1,162.8,35.9,17,Primary Surgical,complicated,appendicitis,appendicitis,8.0,9.0,0,1,1,0,0,1,38.3,15.7,92.5,0,4.63,14.2,12.2,202.0,+,no,+++,39.0,0,normal,generalized,0,0,
+12.54,14.64,0,154.9,61.2,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,4.0,0,1,0,0,1,1,39.8,21.1,90.9,1,4.86,13.0,11.6,203.0,+,+,no,58.0,0,constipation,generalized,1,0,
+10.14,23.08,1,152.9,75.1,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,9.0,0,1,0,0,1,1,37.3,9.0,90.7,1,4.81,14.6,11.6,409.0,no,no,no,38.0,0,normal,generalized,0,0,
+12.94,15.53,0,137.5,29.9,6,Primary Surgical,complicated,appendicitis,appendicitis,5.0,5.0,0,1,1,1,1,1,36.8,21.0,84.4,1,4.5,14.8,,199.0,+,no,no,228.0,0,normal,no,0,0,
+11.61,24.94,1,106.3,13.9,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,1,1,1,1,37.9,25.6,,0,4.57,14.3,13.6,367.0,+,+,no,163.0,0,constipation,no,1,0,
+6.47,20.64,0,161.1,50.3,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,5.0,1,1,1,0,1,1,38.0,9.1,82.4,1,4.28,15.0,12.7,285.0,++,no,no,106.0,0,normal,local,0,1,
+11.65,12.76,1,163.0,26.6,5,Primary Surgical,complicated,appendicitis,appendicitis,8.0,,1,1,1,0,1,1,38.2,14.7,90.3,1,4.62,13.3,14.0,473.0,no,no,+,2.0,0,constipation,local,0,0,
+7.0,14.81,0,136.3,23.9,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,9.0,0,1,1,0,1,1,38.5,20.3,,1,4.22,14.2,11.6,251.0,+,no,++,88.0,0,normal,generalized,0,0,
+14.34,17.93,1,132.5,76.5,7,Primary Surgical,complicated,appendicitis,appendicitis,6.0,5.0,0,1,0,1,0,1,39.8,23.9,,1,4.91,14.2,13.1,306.0,+++,+++,no,203.0,0,diarrhea,generalized,1,0,
+12.78,20.98,0,158.3,51.7,16,Primary Surgical,complicated,appendicitis,appendicitis,9.0,8.0,1,1,1,1,1,0,37.8,16.3,84.7,1,4.59,11.8,,202.0,no,no,no,62.0,0,normal,no,0,0,
+7.46,13.87,0,107.8,28.1,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,10.0,0,1,0,0,1,1,37.7,13.8,79.4,1,4.45,15.1,12.7,255.0,+,+++,no,122.0,0,normal,local,0,1,
+6.96,20.1,1,120.5,18.1,6,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,0,1,1,1,38.3,3.5,87.5,1,5.16,13.5,12.1,273.0,no,+,no,103.0,0,normal,no,0,0,
+10.85,24.11,1,153.2,44.1,5,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,1,1,0,0,1,1,37.1,16.7,91.2,0,5.06,11.8,12.3,442.0,+++,no,+,85.0,0,diarrhea,local,0,0,
+17.37,17.33,0,109.3,27.9,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,4.0,0,0,1,0,1,0,38.3,28.9,61.0,0,4.97,13.4,13.4,217.0,no,no,no,191.0,0,normal,local,0,0,
+3.61,14.56,1,131.4,28.7,4,Primary Surgical,complicated,appendicitis,appendicitis,6.0,10.0,0,0,1,1,1,0,37.3,12.2,82.9,1,4.92,13.8,13.0,224.0,+,no,no,80.0,0,normal,local,1,0,
+12.69,15.07,1,163.2,95.9,6,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,1,0,1,0,39.6,17.1,78.1,0,4.75,13.7,11.6,287.0,no,no,no,2.0,0,constipation,no,0,0,
+10.82,12.6,1,160.7,25.2,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,7.0,0,1,1,0,1,1,39.0,16.6,,0,5.05,12.6,12.2,308.0,+++,no,+,116.0,0,diarrhea,local,0,0,
+10.76,13.26,0,142.4,51.7,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,5.0,1,1,0,1,1,1,38.9,16.6,88.5,1,4.56,15.2,15.6,406.0,+++,no,+,106.0,0,constipation,local,0,0,
+16.82,8.95,1,162.2,21.3,6,Primary Surgical,complicated,appendicitis,appendicitis,4.0,9.0,0,1,1,0,0,1,36.9,14.6,78.6,1,4.38,14.1,,259.0,+++,+++,no,183.0,1,normal,local,0,0,
+14.38,20.16,1,157.1,18.6,8,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,1,1,1,1,1,0,37.7,16.2,73.8,1,4.66,11.1,13.7,325.0,+,no,no,337.0,0,constipation,no,0,0,
+12.58,13.02,1,171.1,14.9,7,Primary Surgical,complicated,appendicitis,appendicitis,6.0,7.0,0,1,1,1,0,1,36.9,11.2,,1,4.92,14.0,14.1,321.0,+++,no,no,25.0,1,normal,local,0,0,
+4.98,14.72,1,104.3,55.0,13,Primary Surgical,complicated,appendicitis,appendicitis,10.0,5.0,0,1,0,1,1,0,37.4,18.6,86.3,1,4.8,14.0,12.3,178.0,+++,no,no,26.0,0,normal,local,0,0,
+3.73,20.65,1,177.1,73.1,11,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,1,1,0,0,1,0,38.1,18.7,78.8,1,5.21,12.5,11.6,279.0,+,no,no,297.0,0,normal,local,0,0,
+16.97,22.93,1,105.7,15.4,3,Primary Surgical,complicated,appendicitis,appendicitis,6.0,7.0,1,1,1,0,0,1,37.8,24.0,83.7,1,4.52,13.5,13.1,234.0,+++,+,no,294.0,0,diarrhea,local,0,1,
+6.78,18.3,1,155.8,31.4,7,Primary Surgical,complicated,appendicitis,appendicitis,5.0,6.0,0,1,1,1,1,1,38.6,18.7,79.1,1,4.74,11.7,12.0,223.0,+++,no,no,133.0,0,constipation,local,1,0,
+12.52,24.85,1,131.9,18.3,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,5.0,0,1,0,1,1,1,37.4,17.9,82.8,1,4.88,11.8,12.7,255.0,no,no,no,86.0,0,normal,local,0,0,
+9.53,23.03,1,128.1,70.8,7,Primary Surgical,complicated,appendicitis,appendicitis,6.0,7.0,0,1,1,0,1,0,38.4,10.6,82.0,1,5.24,15.6,12.9,239.0,no,+,+,344.0,0,normal,local,0,0,
+5.34,16.31,1,128.4,80.3,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,0,0,0,1,1,37.7,18.5,79.9,1,4.52,12.5,11.6,282.0,+++,no,++,39.0,0,normal,local,0,0,
+4.99,14.52,0,136.7,53.0,8,Primary Surgical,complicated,appendicitis,appendicitis,3.0,6.0,1,1,1,0,1,1,38.4,16.0,91.6,1,4.92,12.5,12.7,295.0,no,no,++,4.0,1,diarrhea,local,1,0,
+10.9,12.65,1,136.4,72.3,6,Primary Surgical,complicated,appendicitis,appendicitis,7.0,9.0,0,1,0,0,0,1,38.1,12.9,69.0,1,5.05,12.6,13.6,230.0,+++,no,no,215.0,0,normal,local,0,1,
+4.19,16.91,1,163.4,27.8,6,Primary Surgical,complicated,appendicitis,appendicitis,9.0,5.0,1,1,1,0,1,0,39.0,14.4,88.2,1,5.03,10.6,12.1,368.0,+,+,no,57.0,1,diarrhea,local,1,0,
+10.62,25.45,1,125.5,37.7,10,Primary Surgical,complicated,appendicitis,appendicitis,8.0,5.0,1,1,1,0,1,1,38.1,23.4,79.3,1,4.48,12.4,13.8,298.0,+++,no,++,30.0,0,normal,local,0,0,
+9.86,14.32,1,123.5,50.1,6,Primary Surgical,complicated,appendicitis,appendicitis,5.0,7.0,1,1,1,1,1,1,37.9,28.0,91.5,1,4.83,12.7,12.6,428.0,no,no,no,1.0,0,normal,no,0,0,
+8.61,15.05,1,129.2,67.1,19,Primary Surgical,complicated,appendicitis,appendicitis,8.0,,0,1,1,1,1,1,38.5,17.1,67.3,1,4.59,13.4,15.5,208.0,no,no,no,29.0,0,diarrhea,no,0,0,
+13.39,13.58,0,123.7,59.8,3,Primary Surgical,complicated,appendicitis,appendicitis,9.0,5.0,1,1,0,0,0,1,38.4,14.3,87.6,1,5.51,12.0,15.4,215.0,++,+,++,323.0,0,normal,no,0,0,
+14.89,19.93,1,138.2,16.5,13,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,1,0,1,1,38.6,17.3,72.5,0,4.98,12.3,11.6,219.0,+++,++,no,164.0,0,normal,local,1,0,
+10.07,15.87,0,112.5,53.4,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,0,1,1,0,1,0,39.0,15.0,92.0,1,4.34,12.0,13.9,362.0,+++,+++,++,4.0,1,normal,local,0,0,
+9.94,12.71,1,117.0,32.3,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,10.0,0,1,1,1,0,1,38.8,13.3,,1,5.94,12.7,13.5,238.0,+++,+,no,23.0,0,constipation,local,0,0,
+8.0,13.8,0,99.1,30.2,5,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,37.3,16.4,79.8,1,4.8,13.2,15.1,251.0,no,no,no,114.0,0,normal,local,0,1,
+6.72,23.46,1,152.1,16.2,9,Primary Surgical,complicated,appendicitis,appendicitis,7.0,8.0,0,1,1,1,1,1,37.3,14.8,74.9,1,4.61,14.4,13.8,338.0,+,+++,+,72.0,0,diarrhea,local,0,1,
+12.72,14.47,1,182.4,16.1,6,Primary Surgical,complicated,appendicitis,appendicitis,5.0,6.0,1,1,1,0,1,1,37.1,14.8,86.8,1,5.09,13.8,14.5,234.0,+++,no,+,17.0,0,normal,local,0,0,
+9.6,14.22,0,133.4,53.4,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,8.0,1,1,0,0,1,1,37.6,20.2,84.9,1,4.76,12.6,14.9,316.0,+++,no,no,73.0,0,diarrhea,no,0,0,
+12.49,18.6,1,106.1,36.9,6,Primary Surgical,complicated,appendicitis,appendicitis,8.0,5.0,0,1,1,0,1,1,38.3,24.9,83.9,1,4.95,11.4,15.2,435.0,no,+++,no,196.0,0,diarrhea,local,0,1,
+10.07,25.05,0,155.8,71.6,9,Primary Surgical,complicated,appendicitis,appendicitis,9.0,6.0,1,1,0,0,1,1,38.2,15.8,83.1,1,4.22,12.4,13.3,277.0,+++,+++,no,361.0,0,constipation,no,1,0,
+14.36,14.51,0,152.4,4.2,10,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,1,1,0,1,1,1,38.7,25.4,86.8,1,5.23,11.9,13.5,326.0,+++,no,no,21.0,0,diarrhea,generalized,0,0,
+14.36,17.83,1,132.7,53.3,14,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,1,1,1,0,1,1,38.0,16.6,87.3,1,4.45,15.1,11.6,382.0,+++,no,no,,0,diarrhea,generalized,0,0,
+14.22,21.41,1,178.1,26.2,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,9.0,0,0,0,0,1,1,38.3,21.0,94.0,1,4.89,12.2,12.2,225.0,+++,+++,no,27.0,0,diarrhea,generalized,0,0,
+10.82,12.24,0,120.1,32.5,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,3.0,1,0,1,0,0,0,37.1,21.0,73.7,1,5.28,14.5,13.3,251.0,+,no,no,10.0,0,constipation,no,0,0,
+10.4,26.9,1,109.2,44.9,9,Primary Surgical,complicated,appendicitis,appendicitis,5.0,8.0,1,1,1,0,1,1,37.9,19.0,92.0,0,4.75,12.0,13.7,214.0,+++,no,+,142.0,0,normal,local,0,0,
+12.41,15.16,0,114.3,26.3,18,Primary Surgical,complicated,appendicitis,appendicitis,4.0,6.0,0,1,0,0,1,0,38.4,15.2,92.5,1,5.38,14.1,14.3,180.0,+,+++,+,137.0,0,normal,no,0,0,
+3.51,22.93,0,166.4,27.0,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,7.0,1,1,1,1,1,1,37.8,13.3,80.8,1,4.37,14.7,13.0,243.0,++,+++,+,207.0,0,normal,local,0,0,
+9.43,14.34,1,128.4,62.1,8,Primary Surgical,complicated,appendicitis,appendicitis,6.0,7.0,0,1,0,0,1,1,37.2,16.5,76.9,1,5.47,12.7,11.9,274.0,+++,no,no,26.0,0,normal,no,0,0,
+12.92,13.21,1,156.6,50.5,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,,1,1,0,1,1,1,38.0,23.7,78.5,0,5.12,13.5,13.6,211.0,no,+++,no,112.0,1,normal,local,0,0,
+7.17,15.83,1,151.1,29.4,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,0,1,0,0,1,0,38.7,18.9,,0,4.92,13.4,13.3,199.0,no,no,+,3.0,0,normal,local,0,0,
+3.47,18.78,1,163.0,30.0,20,Primary Surgical,complicated,appendicitis,appendicitis,,8.0,0,1,0,0,1,0,37.6,11.9,73.3,0,5.39,13.9,12.1,215.0,+++,+,+,5.0,0,normal,local,0,0,
+11.34,20.56,1,181.7,30.6,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,1,1,1,1,37.7,27.7,88.3,1,4.35,14.4,14.1,284.0,+++,+++,no,365.0,0,normal,local,0,0,
+7.46,15.91,0,142.2,75.8,3,Primary Surgical,complicated,appendicitis,appendicitis,4.0,5.0,0,1,1,1,1,0,37.8,17.1,79.6,0,4.48,14.4,13.2,280.0,+++,no,no,37.0,0,normal,generalized,1,0,
+9.89,25.81,0,122.7,33.4,10,Primary Surgical,complicated,appendicitis,appendicitis,7.0,5.0,1,1,1,0,1,1,37.3,13.8,92.3,1,4.6,14.4,12.6,357.0,+++,no,no,49.0,0,normal,generalized,0,0,
+16.56,19.81,0,129.6,30.9,5,Primary Surgical,complicated,appendicitis,appendicitis,5.0,7.0,0,0,1,0,1,1,37.7,23.6,83.8,1,4.84,10.7,14.2,250.0,no,+,no,192.0,0,diarrhea,no,0,0,
+5.59,16.63,1,144.4,17.8,9,Primary Surgical,complicated,appendicitis,appendicitis,6.0,5.0,0,1,1,1,1,0,36.3,17.3,85.3,0,4.78,12.7,11.6,249.0,+,no,+,1.0,0,diarrhea,no,0,0,
+11.53,13.71,0,169.5,36.9,9,Primary Surgical,complicated,appendicitis,appendicitis,8.0,5.0,0,1,0,1,1,1,37.5,17.1,84.9,1,4.9,14.3,12.8,265.0,+++,+,no,66.0,0,diarrhea,no,0,0,
+8.05,14.89,0,162.2,25.3,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,0,1,0,0,1,1,38.3,26.2,90.9,0,4.72,13.8,11.9,305.0,+++,+,+,209.0,1,normal,no,1,0,
+11.12,26.54,1,157.1,48.2,6,Primary Surgical,complicated,appendicitis,appendicitis,4.0,6.0,0,1,0,0,1,1,38.3,13.3,77.2,0,4.69,11.8,11.6,406.0,+++,no,no,213.0,0,diarrhea,local,0,0,
+12.51,20.74,1,139.8,43.4,4,Primary Surgical,complicated,appendicitis,appendicitis,9.0,4.0,0,1,1,0,1,1,37.6,22.2,83.5,1,4.43,13.0,13.4,209.0,+++,no,no,34.0,0,normal,no,1,0,
+11.01,25.27,0,134.1,73.3,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,0,1,1,0,1,1,36.9,25.0,91.9,1,4.98,12.3,12.2,282.0,+++,no,no,8.0,0,constipation,no,0,0,
+16.72,26.95,1,122.4,20.8,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,5.0,0,0,1,1,1,1,37.5,27.9,88.6,1,5.27,13.8,11.9,156.0,+,+++,no,26.0,0,constipation,no,0,0,
+4.6,14.3,0,164.3,15.3,7,Primary Surgical,complicated,appendicitis,appendicitis,5.0,8.0,0,1,1,0,1,1,38.3,9.3,80.0,1,4.88,14.5,14.4,266.0,+++,+,no,64.0,0,normal,no,1,0,
+10.11,15.89,1,167.9,36.6,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,10.0,0,1,0,1,0,1,39.6,19.5,80.3,1,4.86,14.5,11.6,171.0,+++,no,no,365.0,0,constipation,local,0,0,
+10.83,19.94,0,155.4,52.2,7,Primary Surgical,complicated,appendicitis,appendicitis,4.0,4.0,0,1,1,0,1,1,37.2,17.5,72.3,1,3.83,13.4,13.3,314.0,no,++,no,49.0,0,normal,generalized,0,1,
+5.42,13.3,1,130.7,54.5,12,Primary Surgical,complicated,appendicitis,appendicitis,4.0,6.0,0,1,0,0,0,1,38.3,21.5,71.7,1,4.19,13.3,15.3,287.0,no,+,no,15.0,0,normal,no,1,0,
+16.23,14.2,1,135.0,51.1,3,Primary Surgical,complicated,appendicitis,appendicitis,8.0,5.0,0,1,1,1,1,1,38.8,12.3,87.7,0,4.88,11.5,13.2,270.0,+,+++,++,315.0,0,normal,local,1,0,
+10.64,14.75,0,120.6,50.4,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,3.0,0,1,1,0,1,0,38.2,11.1,79.2,1,4.91,13.9,14.0,459.0,no,+++,no,87.0,0,constipation,local,0,0,
+16.03,22.03,0,134.6,18.6,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,6.0,0,1,1,1,1,1,37.6,7.7,82.1,1,5.47,12.7,15.2,325.0,++,+++,no,131.0,0,normal,no,1,0,
+13.04,17.07,0,107.0,23.9,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,0,1,0,1,1,0,37.9,7.8,91.2,1,3.77,12.8,12.4,447.0,++,+++,no,223.0,1,normal,no,0,0,
+12.01,18.35,0,147.5,63.0,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,8.0,0,1,1,1,1,1,37.8,20.0,77.8,1,5.31,12.2,15.1,481.0,++,no,++,13.0,0,normal,local,0,0,
+4.41,33.08,1,120.0,4.0,6,Primary Surgical,complicated,appendicitis,appendicitis,4.0,6.0,0,1,0,0,1,0,37.5,11.6,78.6,1,5.03,12.3,13.5,259.0,no,no,no,54.0,0,normal,no,0,0,
+7.57,14.83,0,138.2,26.4,9,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,1,1,1,37.5,7.0,78.9,1,4.74,13.9,13.0,183.0,+++,no,no,10.0,0,diarrhea,local,0,0,
+10.37,18.66,1,114.5,22.6,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,7.0,0,1,1,0,1,0,37.2,16.8,84.7,0,4.52,12.8,14.1,361.0,+++,+,+,103.0,0,normal,no,0,0,
+15.53,14.44,0,121.4,15.0,6,Primary Surgical,complicated,appendicitis,appendicitis,9.0,5.0,1,1,1,0,1,1,38.8,15.8,82.6,1,5.13,13.0,12.0,212.0,+++,+++,no,294.0,0,constipation,local,0,0,
+7.96,16.15,1,169.5,15.5,3,Primary Surgical,complicated,appendicitis,appendicitis,9.0,6.0,0,1,0,0,1,1,38.1,13.8,86.7,1,5.14,13.5,12.9,241.0,+++,+++,no,361.0,0,diarrhea,local,0,0,
+10.42,23.88,1,129.7,29.1,28,Primary Surgical,complicated,appendicitis,appendicitis,5.0,8.0,0,1,0,0,1,0,38.4,14.1,80.6,1,4.85,12.5,12.1,458.0,+++,no,no,136.0,0,diarrhea,local,1,0,
+9.04,14.44,0,125.9,52.8,8,Primary Surgical,complicated,appendicitis,appendicitis,8.0,9.0,0,1,0,0,1,1,38.0,11.3,97.5,1,4.94,12.2,12.8,373.0,+,no,no,1.0,1,constipation,no,1,0,
+11.95,21.42,1,130.3,54.2,9,Primary Surgical,complicated,appendicitis,appendicitis,7.0,7.0,0,1,1,1,1,1,38.5,16.4,79.2,1,5.35,13.8,13.0,265.0,+++,+++,no,107.0,0,normal,local,1,0,
+9.1,14.3,1,117.3,28.7,4,Primary Surgical,complicated,appendicitis,appendicitis,9.0,5.0,1,1,1,0,1,1,38.2,10.3,81.9,1,4.4,12.2,11.6,260.0,+,no,no,98.0,0,constipation,local,0,0,
+7.36,15.71,0,151.3,33.4,11,Primary Surgical,complicated,appendicitis,appendicitis,9.0,3.0,0,1,0,0,1,1,37.0,22.0,97.7,1,4.69,12.5,15.4,292.0,+++,no,no,115.0,0,diarrhea,no,0,0,
+9.95,19.56,1,133.9,94.5,6,Primary Surgical,complicated,appendicitis,appendicitis,9.0,8.0,1,1,1,0,1,1,36.9,27.9,78.1,0,3.84,13.9,12.1,231.0,++,no,no,233.0,0,normal,generalized,0,0,
+11.04,23.46,1,149.2,32.0,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,0,1,1,0,1,0,38.1,13.1,83.8,0,4.54,12.9,11.7,248.0,+,no,no,239.0,0,normal,generalized,0,1,
+16.69,14.41,1,156.1,44.2,28,Primary Surgical,complicated,appendicitis,appendicitis,6.0,4.0,0,1,1,0,1,1,37.3,16.4,88.5,1,4.88,13.0,13.2,453.0,+++,no,+++,78.0,0,normal,generalized,0,0,
+16.08,30.31,1,118.5,28.1,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,38.7,13.7,91.4,1,4.77,11.4,11.6,245.0,+++,no,no,120.0,0,diarrhea,no,0,0,
+11.49,12.5,1,176.9,56.7,7,Primary Surgical,complicated,appendicitis,appendicitis,8.0,9.0,0,1,0,0,1,1,37.3,18.7,85.9,1,5.22,12.6,11.6,280.0,+++,no,no,174.0,0,normal,no,0,0,
+14.57,14.72,1,170.4,21.5,8,Primary Surgical,complicated,appendicitis,appendicitis,6.0,,0,1,1,0,1,1,36.7,20.0,87.9,1,4.8,12.8,13.0,397.0,+++,+,no,201.0,0,normal,no,0,0,
+5.3,17.97,0,123.5,59.5,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,8.0,0,1,1,0,1,0,37.8,19.9,71.8,1,5.22,13.6,12.4,508.0,+++,+++,no,148.0,1,normal,generalized,0,0,
+16.33,19.92,0,154.6,17.9,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,4.0,0,1,0,0,1,0,37.6,28.6,83.4,0,4.91,13.9,14.8,283.0,no,no,no,188.0,0,constipation,local,0,0,
+7.58,14.49,1,164.5,65.8,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,1,1,1,0,1,1,37.2,3.5,87.2,1,5.04,14.7,14.3,340.0,+++,no,+,29.0,0,diarrhea,generalized,0,1,
+6.81,23.27,0,169.9,59.5,9,Primary Surgical,complicated,appendicitis,appendicitis,9.0,5.0,1,1,0,0,1,1,38.3,11.1,86.5,1,4.83,12.2,11.6,262.0,+,no,no,35.0,0,diarrhea,no,0,0,
+9.29,22.39,1,116.3,55.9,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,1,1,1,1,38.8,14.4,80.1,1,4.75,12.9,13.4,301.0,+++,no,no,48.0,0,normal,no,0,0,
+8.1,15.54,1,152.2,24.7,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,7.0,0,1,0,1,1,0,38.4,13.9,77.5,1,5.24,13.4,13.3,274.0,+,+,no,46.0,0,normal,no,0,0,
+14.53,20.14,1,141.8,27.7,7,Primary Surgical,complicated,appendicitis,appendicitis,5.0,7.0,0,1,0,0,0,1,36.9,14.8,87.9,0,5.39,14.0,13.8,250.0,++,no,+,1.0,0,diarrhea,local,0,0,
+8.1,24.75,0,122.1,42.2,7,Primary Surgical,complicated,appendicitis,appendicitis,4.0,7.0,1,1,1,0,0,1,38.3,26.4,74.2,1,4.72,13.5,13.4,286.0,+,no,no,47.0,0,normal,local,0,0,
+10.29,17.97,1,150.6,23.9,6,Primary Surgical,complicated,appendicitis,appendicitis,5.0,9.0,1,1,1,1,1,1,38.1,22.6,79.1,1,3.72,12.8,11.6,480.0,+,no,no,102.0,0,normal,no,0,0,
+12.32,18.61,1,115.2,58.6,10,Primary Surgical,complicated,appendicitis,appendicitis,9.0,5.0,0,1,1,0,1,1,38.1,20.7,68.3,1,4.26,14.4,14.7,168.0,+++,no,++,35.0,0,diarrhea,local,1,0,
+10.56,19.07,0,179.2,36.5,10,Primary Surgical,complicated,appendicitis,appendicitis,9.0,8.0,0,1,0,1,1,1,38.2,18.1,84.7,1,4.9,14.3,14.3,234.0,+++,no,no,87.0,0,normal,no,0,0,
+5.1,20.5,1,131.0,27.1,20,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,1,0,1,0,38.5,18.7,82.9,1,4.85,13.8,12.5,190.0,+++,+++,no,78.0,0,normal,local,0,0,
+10.81,15.67,0,179.8,29.0,8,Primary Surgical,complicated,appendicitis,appendicitis,9.0,4.0,0,1,0,0,1,1,38.4,18.6,68.2,1,4.8,12.3,11.6,215.0,+++,++,no,17.0,0,diarrhea,no,0,1,
+12.23,16.77,1,156.7,14.8,7,Primary Surgical,complicated,appendicitis,appendicitis,6.0,9.0,0,1,1,0,1,1,39.3,27.0,95.6,1,4.22,13.2,13.0,286.0,no,+,no,71.0,0,normal,no,0,0,
+7.89,20.08,1,121.2,24.5,7,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,0,1,0,0,1,1,38.3,20.9,91.4,0,4.78,12.9,12.1,263.0,+++,no,no,211.0,0,normal,local,0,0,
+6.19,17.6,1,165.3,27.3,7,Primary Surgical,complicated,appendicitis,appendicitis,9.0,5.0,0,1,1,0,1,0,38.8,29.4,61.8,1,4.82,12.6,12.3,245.0,no,no,no,173.0,0,diarrhea,no,1,0,
+5.4,15.32,1,123.6,27.5,9,Primary Surgical,complicated,appendicitis,appendicitis,8.0,9.0,1,1,1,0,1,0,37.4,15.1,77.9,1,4.51,13.0,13.2,361.0,+++,+++,no,360.0,0,normal,local,0,1,
+11.47,14.59,0,140.4,72.8,8,Primary Surgical,complicated,appendicitis,appendicitis,7.0,6.0,1,1,0,0,1,1,38.3,15.1,90.8,1,4.82,13.7,11.9,346.0,+++,+,no,324.0,0,constipation,generalized,0,0,
+15.47,13.81,1,127.5,21.0,6,Primary Surgical,complicated,appendicitis,appendicitis,6.0,6.0,0,1,1,1,1,1,38.8,24.7,,0,5.14,14.4,13.9,226.0,+,no,no,121.0,0,normal,local,0,0,
