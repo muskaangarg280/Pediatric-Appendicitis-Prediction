@@ -28,7 +28,7 @@ The tabular MLP outperformed both an image-based CNN (77% accuracy) and a multim
 
 **Regensburg Paediatric Appendicitis Dataset** — 500+ anonymised paediatric cases (Children's Hospital St. Hedwig, Germany, 2016–2021), combining clinical, laboratory, and diagnostic scoring features with three clinically relevant outcomes: diagnosis, severity, and management.
 
-- Source: Marcinkevičs et al. (2024), *Medical Image Analysis* — [add Kaggle/Zenodo link]
+- Source: Marcinkevičs et al. (2024), *Medical Image Analysis* — [Link to Dataset](https://www.kaggle.com/datasets/joebeachcapital/regensburg-pediatric-appendicitis)
 - Licence: **CC BY-NC 4.0** (non-commercial, attribution required)
 
 Only the tabular portion of the dataset is used in this repository.
