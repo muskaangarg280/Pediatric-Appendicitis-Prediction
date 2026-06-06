@@ -9,15 +9,18 @@
 # - Save to ./mlp_files/
 
 
-import os, numpy as np, pandas as pd
+import numpy as np
+import pandas as pd
 from pathlib import Path
 
 from sklearn.model_selection import train_test_split, StratifiedShuffleSplit
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.impute import SimpleImputer
 from sklearn.utils.class_weight import compute_class_weight
-from sklearn.metrics import classification_report, confusion_matrix, f1_score, roc_auc_score, average_precision_score
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import (
+    classification_report, confusion_matrix, ConfusionMatrixDisplay,
+    f1_score, roc_auc_score, average_precision_score,
+)
 import matplotlib.pyplot as plt
 
 import tensorflow as tf
@@ -35,7 +38,6 @@ ROOT = Path(__file__).resolve().parent
 DATA_PATH = ROOT.parent / "processed_data" / "dataset_tabular.csv"
 TEST_SIZE = 0.20
 VAL_SIZE  = 0.20
-# TAU_GRID  = np.arange(0.30, 0.81, 0.05)
 TAU_GRID  = np.arange(0.70, 0.79, 0.01)  # 0.70 ... 0.78
 
 OUT_DIR = ROOT / "mlp_files"
@@ -217,7 +219,6 @@ dx_pr  = average_precision_score(y_diag_tst_bin, p_app_tst)
 # diagnosis evaluation
 print("\n[Diagnosis Test report]:\n")
 print(classification_report(y_diag_tst_bin, y_diag_pred_bin, target_names=["no appy","appy"], zero_division=0))
-#print("\nConfusion matrix:\n", confusion_matrix(y_diag_tst_bin, y_diag_pred_bin))
 print(f"\nROC AUC: {dx_roc:.3f}  PR AUC: {dx_pr:.3f}\n")
 
 # === Diagnosis confusion matrix ===
@@ -297,7 +298,6 @@ sev_ap = average_precision_score(sev_true_tst.astype(int), sev_pred_tst)
 if np.isfinite(sev_pred_tst).all() and len(np.unique(sev_true_tst[~np.isnan(sev_true_tst)])) == 2:
     print("\n[Severity Test report]:\n")
     print(classification_report(sev_true_tst.astype(int), sev_pred_lbl, zero_division=0))
-    #print("\nConfusion matrix (with thresholded @0.5:):\n", confusion_matrix(sev_true_tst.astype(int), sev_pred_lbl))
     print(f"\n ROC AUC: {sev_auc:.3f}  PR AUC: {sev_ap:.3f}\n")
 
     # === Severity confusion matrix ===
@@ -347,22 +347,6 @@ mgmt.fit(X_mgmt_tr, y_mgmt_tr2,
          epochs=100, batch_size=32, class_weight=cw_mgmt,
          callbacks=callbacks_simple(), verbose=1)
 
-# Refit on full appy TrainVal
-
-mgmt_final = build_mlp_binary(mgmt_X_trv.shape[1])
-mgmt_final.compile(optimizer=keras.optimizers.Adam(1e-3),
-                   loss="binary_crossentropy",
-                   metrics=["accuracy", keras.metrics.AUC(name="auc")])
-
-cw_mgmt_full = None
-if len(np.unique(mgmt_y_trv)) == 2:
-    _cw = compute_class_weight("balanced", classes=np.array([0,1]), y=mgmt_y_trv.astype(int))
-    cw_mgmt_full = {0: _cw[0], 1: _cw[1]}
-
-mgmt_final.fit(mgmt_X_trv, mgmt_y_trv,
-               validation_split=0.2, epochs=100, batch_size=32,
-               class_weight=cw_mgmt_full, callbacks=callbacks_simple(), verbose=0)
-
 # final Management results
 tau = float(best_tau)
 gate = (p_app_tst >= tau)
@@ -381,7 +365,6 @@ if np.isfinite(mgmt_p).any():
     mgmt_pred = (mgmt_p >= 0.5).astype(int)
     print("\n[Management Test report:]\n")
     print(classification_report(mgmt_true, mgmt_pred, target_names=mgmt_names, zero_division=0))
-    #print("\nConfusion matrix:\n", confusion_matrix(mgmt_true, mgmt_pred))
     print(f"\nROC AUC: {mgmt_roc:.3f}  PR AUC: {mgmt_pr:.3f}\n")
 
     # === Management confusion matrix ===
@@ -412,4 +395,3 @@ diag_final.save(OUT_DIR / "r4_diag_final.keras")
 sev_final.save(OUT_DIR / "r4_sev_final.keras")
 mgmt.save(OUT_DIR / "r4_mgmt.keras")
 print("\nSaved preprocessor + models to: mlp_files")
-

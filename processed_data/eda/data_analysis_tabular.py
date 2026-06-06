@@ -1,13 +1,15 @@
 # Exploratory Data Analysis (EDA)
-# Dataset: processed_data.csv
+# Dataset: dataset_tabular.csv
 
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
+from pathlib import Path
 
 # Load dataset
-df = pd.read_csv("dataset_tabular_eda.csv")
+ROOT = Path(__file__).resolve().parent
+df = pd.read_csv(ROOT.parent / "dataset_tabular.csv")
 
 # Check data summary -----
 print(df.info())
