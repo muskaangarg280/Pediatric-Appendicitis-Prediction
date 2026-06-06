@@ -1,6 +1,6 @@
-# Pediatric Appendicitis Prediction — Tabular MLP Pipeline
+# Pediatric Appendicitis Prediction - Tabular MLP Pipeline
 
-A clinical machine learning pipeline for predicting paediatric appendicitis outcomes from structured patient data. The pipeline addresses three sequential prediction tasks — **diagnosis**, **severity**, and **treatment management** — using a multi-layer perceptron trained on tabular clinical and laboratory features from the Regensburg Paediatric Appendicitis Dataset.
+A clinical machine learning pipeline for predicting paediatric appendicitis outcomes from structured patient data. The pipeline addresses three sequential prediction tasks - **diagnosis**, **severity**, and **treatment management** - using a multi-layer perceptron trained on tabular clinical and laboratory features from the Regensburg Paediatric Appendicitis Dataset.
 
 ---
 
@@ -26,9 +26,9 @@ The tabular MLP outperformed both an image-based CNN (77% accuracy) and a multim
 
 ## Dataset
 
-**Regensburg Paediatric Appendicitis Dataset** — 500+ anonymised paediatric cases (Children's Hospital St. Hedwig, Germany, 2016–2021), combining clinical, laboratory, and diagnostic scoring features with three clinically relevant outcomes: diagnosis, severity, and management.
+**Regensburg Paediatric Appendicitis Dataset** - 500+ anonymised paediatric cases (Children's Hospital St. Hedwig, Germany, 2016–2021), combining clinical, laboratory, and diagnostic scoring features with three clinically relevant outcomes: diagnosis, severity, and management.
 
-- Source: Marcinkevičs et al. (2024), *Medical Image Analysis* — [Link to Dataset](https://www.kaggle.com/datasets/joebeachcapital/regensburg-pediatric-appendicitis)
+- Source: Marcinkevičs et al. (2024), *Medical Image Analysis* - [Link to Dataset](https://www.kaggle.com/datasets/joebeachcapital/regensburg-pediatric-appendicitis)
 - Licence: **CC BY-NC 4.0** (non-commercial, attribution required)
 
 Only the tabular portion of the dataset is used in this repository.
@@ -39,13 +39,13 @@ Only the tabular portion of the dataset is used in this repository.
 
 The prediction pipeline is structured hierarchically to reflect real clinical decision flow:
 
-1. **Diagnosis** — binary classification (appendicitis vs no appendicitis) on all patients
-2. **Severity** — binary classification (complicated vs uncomplicated) on confirmed appendicitis cases only
-3. **Management** — binary classification (primary surgical vs conservative) on confirmed appendicitis cases only
+1. **Diagnosis** - binary classification (appendicitis vs no appendicitis) on all patients
+2. **Severity** - binary classification (complicated vs uncomplicated) on confirmed appendicitis cases only
+3. **Management** - binary classification (primary surgical vs conservative) on confirmed appendicitis cases only
 
 **Methodology highlights:**
 - Single hierarchical hold-out test split, with appended and non-appendicitis cases handled separately to preserve class balance
-- Imputation and scaling fit on training data only — no data leakage into validation or test
+- Imputation and scaling fit on training data only - no data leakage into validation or test
 - Class weighting to handle imbalance across all three targets
 - Diagnosis decision threshold tuned on the validation set via macro-F1 sweep (τ ∈ [0.70, 0.78])
 - Evaluated with accuracy, macro F1, ROC-AUC, PR-AUC, and confusion matrices
